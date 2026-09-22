@@ -72,6 +72,8 @@ Marker types assigned:
 
 Typing separates real protein targets from blanks, stains and bare elements, which v1 folded in together.
 
+[`RESULTS.md`](RESULTS.md) has the summary statistics: how far the centre labels collapse, how panels are shaped, how widely each marker is used, and how much of the vocabulary is shared across centres, with the caveats that matter if you want to compare marker coverage between studies. `uv run summary_stats.py` regenerates every figure in it.
+
 ## Stage 3.1: explorer data
 
 ```bash
@@ -96,6 +98,7 @@ Coverage is reported, not assumed. Panels the release references but the curatio
 ## Supporting pieces
 
 - **`uniprot_api.py`** UniProt REST client with a SQLite cache and a confidence score per match. Returns `UniProtEntry(accession, gene_name, protein_name, organism, subcellular_location, function, confidence_score)`. The cache (`data/cache/uniprot_cache.db`, gitignored) covers all 543 protein markers, so stage 3.1 runs offline and free.
+- **`summary_stats.py`** reads the curated outputs and prints the collapse, type, panel, reach and cross-centre figures in `RESULTS.md`. No network.
 - **`cd_molecules.csv`** 445 CD molecules with descriptions, for `cd_marker` entries that UniProt name search handles badly.
 - **`lookup_agent.py` / `lookup_claude.py`** the same UniProt lookup written two ways, a manual tool-use loop and the Claude Agent SDK. A side-by-side comparison, not part of the pipeline.
 
