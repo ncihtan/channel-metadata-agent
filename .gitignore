@@ -13,3 +13,6 @@ data/cache/*.db
 
 # macOS
 .DS_Store
+
+# Slide exports (rebuild with pandoc, see docs/slides.md)
+docs/slides.html

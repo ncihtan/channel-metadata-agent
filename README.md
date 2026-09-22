@@ -99,6 +99,7 @@ Coverage is reported, not assumed. Panels the release references but the curatio
 
 - **`uniprot_api.py`** UniProt REST client with a SQLite cache and a confidence score per match. Returns `UniProtEntry(accession, gene_name, protein_name, organism, subcellular_location, function, confidence_score)`. The cache (`data/cache/uniprot_cache.db`, gitignored) covers all 543 protein markers, so stage 3.1 runs offline and free.
 - **`summary_stats.py`** reads the curated outputs and prints the collapse, type, panel, reach and cross-centre figures in `RESULTS.md`. No network.
+- **`docs/slides.md`** four-slide version of the results, with speaker notes. `pandoc docs/slides.md -t pptx --slide-level=2 -o docs/slides.pptx` rebuilds the deck; `-t revealjs -s --embed-resources -o docs/slides.html` gives a browser version instead.
 - **`cd_molecules.csv`** 445 CD molecules with descriptions, for `cd_marker` entries that UniProt name search handles badly.
 - **`lookup_agent.py` / `lookup_claude.py`** the same UniProt lookup written two ways, a manual tool-use loop and the Claude Agent SDK. A side-by-side comparison, not part of the pipeline.
 
