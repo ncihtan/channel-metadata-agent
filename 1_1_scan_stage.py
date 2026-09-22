@@ -2,13 +2,15 @@
 """
 Step 1.1: File Scanning & Staging
 
-This script recursively scans a directory for CSV and XLSX files,
+This script recursively scans a directory for channel metadata files
+(CSV, TSV, XLSX),
 generates unique source IDs for each file, and outputs a staging manifest.
 """
 
 import os
 import json
 import hashlib
+from collections import Counter
 from pathlib import Path
 from datetime import datetime
 import argparse
@@ -49,18 +51,23 @@ def generate_source_id(file_path):
 
 def get_file_type(file_path):
     """
-    Determine if a file is CSV or XLSX.
+    Determine whether a file is delimited text or a spreadsheet.
+
+    HTAN centres ship channel metadata as CSV, as TSV (named either .tsv or
+    .txt), and occasionally as XLSX.
 
     Args:
         file_path: Path to the file
 
     Returns:
-        'csv', 'xlsx', or None
+        'csv', 'tsv', 'xlsx', or None
     """
     extension = Path(file_path).suffix.lower()
 
     if extension == '.csv':
         return 'csv'
+    elif extension in ['.tsv', '.txt']:
+        return 'tsv'
     elif extension in ['.xlsx', '.xls']:
         return 'xlsx'
     else:
@@ -69,7 +76,7 @@ def get_file_type(file_path):
 
 def scan_directory(directory_path):
     """
-    Recursively scan directory for CSV and XLSX files.
+    Recursively scan directory for channel metadata files.
 
     Args:
         directory_path: Root directory to scan
@@ -93,7 +100,7 @@ def scan_directory(directory_path):
         if file_path.is_file():
             file_type = get_file_type(file_path)
 
-            # Only process CSV and XLSX files
+            # Only process recognised channel metadata formats
             if file_type:
                 source_id = generate_source_id(file_path)
 
@@ -136,7 +143,7 @@ def save_manifest(files_data, output_path='staging_manifest.json'):
 def main():
     """Main execution function."""
     parser = argparse.ArgumentParser(
-        description='Scan directory for CSV/XLSX files and generate staging manifest'
+        description='Scan directory for channel metadata files and generate staging manifest'
     )
     parser.add_argument(
         'directory',
@@ -159,16 +166,15 @@ def main():
         files_data = scan_directory(args.directory)
 
         if not files_data:
-            print("No CSV or XLSX files found.")
+            print("No channel metadata files found.")
             return
 
         # Print summary
-        csv_count = sum(1 for f in files_data if f['file_type'] == 'csv')
-        xlsx_count = sum(1 for f in files_data if f['file_type'] == 'xlsx')
+        counts = Counter(f['file_type'] for f in files_data)
 
         print(f"\nFound {len(files_data)} files:")
-        print(f"  - CSV files: {csv_count}")
-        print(f"  - XLSX files: {xlsx_count}")
+        for file_type in ('csv', 'tsv', 'xlsx'):
+            print(f"  - {file_type.upper()} files: {counts.get(file_type, 0)}")
         print()
 
         save_manifest(files_data, args.output)
