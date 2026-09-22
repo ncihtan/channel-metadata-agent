@@ -1,0 +1,2252 @@
+[
+  {
+    "file_id": "HTA10_01_002012001",
+    "entity_id": "syn53282952",
+    "participant_id": "HTA10_01",
+    "diagnosis": "Familial adenomatous polyposis",
+    "center": "HTAN Stanford",
+    "assay_type": "CODEX",
+    "panel_id": "syn53296994"
+  },
+  {
+    "file_id": "HTA10_01_002012002",
+    "entity_id": "syn53282949",
+    "participant_id": "HTA10_01",
+    "diagnosis": "Familial adenomatous polyposis",
+    "center": "HTAN Stanford",
+    "assay_type": "CODEX",
+    "panel_id": "syn53296994"
+  },
+  {
+    "file_id": "HTA10_01_007012001",
+    "entity_id": "syn53282980",
+    "participant_id": "HTA10_01",
+    "diagnosis": "Familial adenomatous polyposis",
+    "center": "HTAN Stanford",
+    "assay_type": "CODEX",
+    "panel_id": "syn53297004"
+  },
+  {
+    "file_id": "HTA10_01_023012001",
+    "entity_id": "syn53284668",
+    "participant_id": "HTA10_01",
+    "diagnosis": "Familial adenomatous polyposis",
+    "center": "HTAN Stanford",
+    "assay_type": "CODEX",
+    "panel_id": "syn53297023"
+  },
+  {
+    "file_id": "HTA10_01_023012002",
+    "entity_id": "syn53284658",
+    "participant_id": "HTA10_01",
+    "diagnosis": "Familial adenomatous polyposis",
+    "center": "HTAN Stanford",
+    "assay_type": "CODEX",
+    "panel_id": "syn53297023"
+  },
+  {
+    "file_id": "HTA10_01_023012003",
+    "entity_id": "syn61375566",
+    "participant_id": "HTA10_01",
+    "diagnosis": "Familial adenomatous polyposis",
+    "center": "HTAN Stanford",
+    "assay_type": "CODEX",
+    "panel_id": "syn61375757"
+  },
+  {
+    "file_id": "HTA10_01_104012001",
+    "entity_id": "syn53274643",
+    "participant_id": "HTA10_01",
+    "diagnosis": "Familial adenomatous polyposis",
+    "center": "HTAN Stanford",
+    "assay_type": "CODEX",
+    "panel_id": "syn53297011"
+  },
+  {
+    "file_id": "HTA10_01_108012001",
+    "entity_id": "syn53273156",
+    "participant_id": "HTA10_01",
+    "diagnosis": "Familial adenomatous polyposis",
+    "center": "HTAN Stanford",
+    "assay_type": "CODEX",
+    "panel_id": "syn53297013"
+  },
+  {
+    "file_id": "HTA10_01_119012001",
+    "entity_id": "syn53282948",
+    "participant_id": "HTA10_01",
+    "diagnosis": "Familial adenomatous polyposis",
+    "center": "HTAN Stanford",
+    "assay_type": "CODEX",
+    "panel_id": "syn53297019"
+  },
+  {
+    "file_id": "HTA10_01_124012001",
+    "entity_id": "syn53284699",
+    "participant_id": "HTA10_01",
+    "diagnosis": "Familial adenomatous polyposis",
+    "center": "HTAN Stanford",
+    "assay_type": "CODEX",
+    "panel_id": "syn53297018"
+  },
+  {
+    "file_id": "HTA10_01_207012001",
+    "entity_id": "syn61375586",
+    "participant_id": "HTA10_01",
+    "diagnosis": "Familial adenomatous polyposis",
+    "center": "HTAN Stanford",
+    "assay_type": "CODEX",
+    "panel_id": "syn61375758"
+  },
+  {
+    "file_id": "HTA10_02_016012001",
+    "entity_id": "syn53273531",
+    "participant_id": "HTA10_02",
+    "diagnosis": "Familial adenomatous polyposis",
+    "center": "HTAN Stanford",
+    "assay_type": "CODEX",
+    "panel_id": "syn53297022"
+  },
+  {
+    "file_id": "HTA10_02_021012001",
+    "entity_id": "syn53273781",
+    "participant_id": "HTA10_02",
+    "diagnosis": "Familial adenomatous polyposis",
+    "center": "HTAN Stanford",
+    "assay_type": "CODEX",
+    "panel_id": "syn53296998"
+  },
+  {
+    "file_id": "HTA10_02_024012001",
+    "entity_id": "syn53284669",
+    "participant_id": "HTA10_02",
+    "diagnosis": "Familial adenomatous polyposis",
+    "center": "HTAN Stanford",
+    "assay_type": "CODEX",
+    "panel_id": "syn53297001"
+  },
+  {
+    "file_id": "HTA10_02_025012001",
+    "entity_id": "syn53274911",
+    "participant_id": "HTA10_02",
+    "diagnosis": "Familial adenomatous polyposis",
+    "center": "HTAN Stanford",
+    "assay_type": "CODEX",
+    "panel_id": "syn53297000"
+  },
+  {
+    "file_id": "HTA10_02_106012001",
+    "entity_id": "syn53273292",
+    "participant_id": "HTA10_02",
+    "diagnosis": "Familial adenomatous polyposis",
+    "center": "HTAN Stanford",
+    "assay_type": "CODEX",
+    "panel_id": "syn53297015"
+  },
+  {
+    "file_id": "HTA10_02_203012001",
+    "entity_id": "syn53284675",
+    "participant_id": "HTA10_02",
+    "diagnosis": "Familial adenomatous polyposis",
+    "center": "HTAN Stanford",
+    "assay_type": "CODEX",
+    "panel_id": "syn53297025"
+  },
+  {
+    "file_id": "HTA10_02_204012001",
+    "entity_id": "syn53273585",
+    "participant_id": "HTA10_02",
+    "diagnosis": "Familial adenomatous polyposis",
+    "center": "HTAN Stanford",
+    "assay_type": "CODEX",
+    "panel_id": "syn53335480"
+  },
+  {
+    "file_id": "HTA10_02_205012001",
+    "entity_id": "syn53273183",
+    "participant_id": "HTA10_02",
+    "diagnosis": "Familial adenomatous polyposis",
+    "center": "HTAN Stanford",
+    "assay_type": "CODEX",
+    "panel_id": "syn53297030"
+  },
+  {
+    "file_id": "HTA10_02_211012001",
+    "entity_id": "syn53273839",
+    "participant_id": "HTA10_02",
+    "diagnosis": "Familial adenomatous polyposis",
+    "center": "HTAN Stanford",
+    "assay_type": "CODEX",
+    "panel_id": "syn53297029"
+  },
+  {
+    "file_id": "HTA10_02_212012001",
+    "entity_id": "syn53274852",
+    "participant_id": "HTA10_02",
+    "diagnosis": "Familial adenomatous polyposis",
+    "center": "HTAN Stanford",
+    "assay_type": "CODEX",
+    "panel_id": "syn53297027"
+  },
+  {
+    "file_id": "HTA10_03_002012001",
+    "entity_id": "syn53282955",
+    "participant_id": "HTA10_03",
+    "diagnosis": "Familial adenomatous polyposis",
+    "center": "HTAN Stanford",
+    "assay_type": "CODEX",
+    "panel_id": "syn53297005"
+  },
+  {
+    "file_id": "HTA10_03_114012001",
+    "entity_id": "syn61375596",
+    "participant_id": "HTA10_03",
+    "diagnosis": "Familial adenomatous polyposis",
+    "center": "HTAN Stanford",
+    "assay_type": "CODEX",
+    "panel_id": "syn61375788"
+  },
+  {
+    "file_id": "HTA10_04_005012001",
+    "entity_id": "syn53282956",
+    "participant_id": "HTA10_04",
+    "diagnosis": "Familial adenomatous polyposis",
+    "center": "HTAN Stanford",
+    "assay_type": "CODEX",
+    "panel_id": "syn53296999"
+  },
+  {
+    "file_id": "HTA10_04_010012001",
+    "entity_id": "syn61375598",
+    "participant_id": "HTA10_04",
+    "diagnosis": "Familial adenomatous polyposis",
+    "center": "HTAN Stanford",
+    "assay_type": "CODEX",
+    "panel_id": "syn61375754"
+  },
+  {
+    "file_id": "HTA10_04_202012001",
+    "entity_id": "syn53282962",
+    "participant_id": "HTA10_04",
+    "diagnosis": "Familial adenomatous polyposis",
+    "center": "HTAN Stanford",
+    "assay_type": "CODEX",
+    "panel_id": "syn53296996"
+  },
+  {
+    "file_id": "HTA10_04_204012001",
+    "entity_id": "syn53274844",
+    "participant_id": "HTA10_04",
+    "diagnosis": "Familial adenomatous polyposis",
+    "center": "HTAN Stanford",
+    "assay_type": "CODEX",
+    "panel_id": "syn53297003"
+  },
+  {
+    "file_id": "HTA10_04_206012001",
+    "entity_id": "syn53274564",
+    "participant_id": "HTA10_04",
+    "diagnosis": "Familial adenomatous polyposis",
+    "center": "HTAN Stanford",
+    "assay_type": "CODEX",
+    "panel_id": "syn53297002"
+  },
+  {
+    "file_id": "HTA10_04_207012001",
+    "entity_id": "syn61375638",
+    "participant_id": "HTA10_04",
+    "diagnosis": "Familial adenomatous polyposis",
+    "center": "HTAN Stanford",
+    "assay_type": "CODEX",
+    "panel_id": "syn61375756"
+  },
+  {
+    "file_id": "HTA10_04_208012001",
+    "entity_id": "syn53274875",
+    "participant_id": "HTA10_04",
+    "diagnosis": "Familial adenomatous polyposis",
+    "center": "HTAN Stanford",
+    "assay_type": "CODEX",
+    "panel_id": "syn53297021"
+  },
+  {
+    "file_id": "HTA10_05_072012001",
+    "entity_id": "syn53284680",
+    "participant_id": "HTA10_05",
+    "diagnosis": "Familial adenomatous polyposis",
+    "center": "HTAN Stanford",
+    "assay_type": "CODEX",
+    "panel_id": "syn53296993"
+  },
+  {
+    "file_id": "HTA10_06_024012001",
+    "entity_id": "syn53273745",
+    "participant_id": "HTA10_06",
+    "diagnosis": "Familial adenomatous polyposis",
+    "center": "HTAN Stanford",
+    "assay_type": "CODEX",
+    "panel_id": "syn53297009"
+  },
+  {
+    "file_id": "HTA10_06_025012001",
+    "entity_id": "syn53274262",
+    "participant_id": "HTA10_06",
+    "diagnosis": "Familial adenomatous polyposis",
+    "center": "HTAN Stanford",
+    "assay_type": "CODEX",
+    "panel_id": "syn53297028"
+  },
+  {
+    "file_id": "HTA10_06_043012001",
+    "entity_id": "syn53273436",
+    "participant_id": "HTA10_06",
+    "diagnosis": "Familial adenomatous polyposis",
+    "center": "HTAN Stanford",
+    "assay_type": "CODEX",
+    "panel_id": "syn53297014"
+  },
+  {
+    "file_id": "HTA10_06_044012001",
+    "entity_id": "syn53273149",
+    "participant_id": "HTA10_06",
+    "diagnosis": "Familial adenomatous polyposis",
+    "center": "HTAN Stanford",
+    "assay_type": "CODEX",
+    "panel_id": "syn53297017"
+  },
+  {
+    "file_id": "HTA10_06_051012001",
+    "entity_id": "syn53272698",
+    "participant_id": "HTA10_06",
+    "diagnosis": "Familial adenomatous polyposis",
+    "center": "HTAN Stanford",
+    "assay_type": "CODEX",
+    "panel_id": "syn53297020"
+  },
+  {
+    "file_id": "HTA10_06_055012001",
+    "entity_id": "syn53274842",
+    "participant_id": "HTA10_06",
+    "diagnosis": "Familial adenomatous polyposis",
+    "center": "HTAN Stanford",
+    "assay_type": "CODEX",
+    "panel_id": "syn53296997"
+  },
+  {
+    "file_id": "HTA10_06_061012001",
+    "entity_id": "syn53274712",
+    "participant_id": "HTA10_06",
+    "diagnosis": "Familial adenomatous polyposis",
+    "center": "HTAN Stanford",
+    "assay_type": "CODEX",
+    "panel_id": "syn53297026"
+  },
+  {
+    "file_id": "HTA10_06_062012001",
+    "entity_id": "syn53274413",
+    "participant_id": "HTA10_06",
+    "diagnosis": "Familial adenomatous polyposis",
+    "center": "HTAN Stanford",
+    "assay_type": "CODEX",
+    "panel_id": "syn53297024"
+  },
+  {
+    "file_id": "HTA10_06_105012001",
+    "entity_id": "syn53274116",
+    "participant_id": "HTA10_06",
+    "diagnosis": "Familial adenomatous polyposis",
+    "center": "HTAN Stanford",
+    "assay_type": "CODEX",
+    "panel_id": "syn53297010"
+  },
+  {
+    "file_id": "HTA10_07_101012001",
+    "entity_id": "syn53282960",
+    "participant_id": "HTA10_07",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Stanford",
+    "assay_type": "CODEX",
+    "panel_id": "syn53335483"
+  },
+  {
+    "file_id": "HTA10_07_201012001",
+    "entity_id": "syn61375663",
+    "participant_id": "HTA10_07",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Stanford",
+    "assay_type": "CODEX",
+    "panel_id": "syn61375787"
+  },
+  {
+    "file_id": "HTA10_07_301012001",
+    "entity_id": "syn53282947",
+    "participant_id": "HTA10_07",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Stanford",
+    "assay_type": "CODEX",
+    "panel_id": "syn53297031"
+  },
+  {
+    "file_id": "HTA10_07_401012001",
+    "entity_id": "syn53284657",
+    "participant_id": "HTA10_07",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Stanford",
+    "assay_type": "CODEX",
+    "panel_id": "syn53297012"
+  },
+  {
+    "file_id": "HTA10_11_112012001",
+    "entity_id": "syn53284674",
+    "participant_id": "HTA10_11",
+    "diagnosis": "Adenocarcinoma intestinal type",
+    "center": "HTAN Stanford",
+    "assay_type": "CODEX",
+    "panel_id": "syn53297008"
+  },
+  {
+    "file_id": "HTA10_15_058012001",
+    "entity_id": "syn61375631",
+    "participant_id": "HTA10_15",
+    "diagnosis": null,
+    "center": "HTAN Stanford",
+    "assay_type": "CODEX",
+    "panel_id": "syn61786219"
+  },
+  {
+    "file_id": "HTA10_15_059012001",
+    "entity_id": "syn61375615",
+    "participant_id": "HTA10_15",
+    "diagnosis": null,
+    "center": "HTAN Stanford",
+    "assay_type": "CODEX",
+    "panel_id": "syn61786220"
+  },
+  {
+    "file_id": "HTA10_16_112012001",
+    "entity_id": "syn61375629",
+    "participant_id": "HTA10_16",
+    "diagnosis": null,
+    "center": "HTAN Stanford",
+    "assay_type": "CODEX",
+    "panel_id": "syn61375799"
+  },
+  {
+    "file_id": "HTA10_16_113012001",
+    "entity_id": "syn61375640",
+    "participant_id": "HTA10_16",
+    "diagnosis": null,
+    "center": "HTAN Stanford",
+    "assay_type": "CODEX",
+    "panel_id": "syn61375808"
+  },
+  {
+    "file_id": "HTA10_16_115012001",
+    "entity_id": "syn61375648",
+    "participant_id": "HTA10_16",
+    "diagnosis": null,
+    "center": "HTAN Stanford",
+    "assay_type": "CODEX",
+    "panel_id": "syn61375812"
+  },
+  {
+    "file_id": "HTA10_16_116012001",
+    "entity_id": "syn61375654",
+    "participant_id": "HTA10_16",
+    "diagnosis": null,
+    "center": "HTAN Stanford",
+    "assay_type": "CODEX",
+    "panel_id": "syn61375778"
+  },
+  {
+    "file_id": "HTA10_18_014012001",
+    "entity_id": "syn61375643",
+    "participant_id": "HTA10_18",
+    "diagnosis": "Familial adenomatous polyposis",
+    "center": "HTAN Stanford",
+    "assay_type": "CODEX",
+    "panel_id": "syn61375807"
+  },
+  {
+    "file_id": "HTA10_18_021012001",
+    "entity_id": "syn61375612",
+    "participant_id": "HTA10_18",
+    "diagnosis": "Familial adenomatous polyposis",
+    "center": "HTAN Stanford",
+    "assay_type": "CODEX",
+    "panel_id": "syn61375759"
+  },
+  {
+    "file_id": "HTA10_20_045012001",
+    "entity_id": "syn61375616",
+    "participant_id": "HTA10_20",
+    "diagnosis": null,
+    "center": "HTAN Stanford",
+    "assay_type": "CODEX",
+    "panel_id": "syn61375761"
+  },
+  {
+    "file_id": "HTA10_23_212012001",
+    "entity_id": "syn61375617",
+    "participant_id": "HTA10_23",
+    "diagnosis": null,
+    "center": "HTAN Stanford",
+    "assay_type": "CODEX",
+    "panel_id": "syn61375775"
+  },
+  {
+    "file_id": "HTA10_23_213012001",
+    "entity_id": "syn61375623",
+    "participant_id": "HTA10_23",
+    "diagnosis": null,
+    "center": "HTAN Stanford",
+    "assay_type": "CODEX",
+    "panel_id": "syn61375797"
+  },
+  {
+    "file_id": "HTA10_29_001012001",
+    "entity_id": "syn61375726",
+    "participant_id": "HTA10_29",
+    "diagnosis": null,
+    "center": "HTAN Stanford",
+    "assay_type": "CODEX",
+    "panel_id": "syn61375800"
+  },
+  {
+    "file_id": "HTA10_30_001012001",
+    "entity_id": "syn61375734",
+    "participant_id": "HTA10_30",
+    "diagnosis": null,
+    "center": "HTAN Stanford",
+    "assay_type": "CODEX",
+    "panel_id": "syn61375809"
+  },
+  {
+    "file_id": "HTA10_33_001012001",
+    "entity_id": "syn61375753",
+    "participant_id": "HTA10_33",
+    "diagnosis": null,
+    "center": "HTAN Stanford",
+    "assay_type": "CODEX",
+    "panel_id": "syn61375813"
+  },
+  {
+    "file_id": "HTA10_34_052012001",
+    "entity_id": "syn61375660",
+    "participant_id": "HTA10_34",
+    "diagnosis": null,
+    "center": "HTAN Stanford",
+    "assay_type": "CODEX",
+    "panel_id": "syn61375781"
+  },
+  {
+    "file_id": "HTA10_35_008012001",
+    "entity_id": "syn61375655",
+    "participant_id": "HTA10_35",
+    "diagnosis": null,
+    "center": "HTAN Stanford",
+    "assay_type": "CODEX",
+    "panel_id": "syn61786218"
+  },
+  {
+    "file_id": "HTA10_36_002012001",
+    "entity_id": "syn61375614",
+    "participant_id": "HTA10_36",
+    "diagnosis": null,
+    "center": "HTAN Stanford",
+    "assay_type": "CODEX",
+    "panel_id": "syn61375776"
+  },
+  {
+    "file_id": "HTA10_37_005012001",
+    "entity_id": "syn61375613",
+    "participant_id": "HTA10_37",
+    "diagnosis": null,
+    "center": "HTAN Stanford",
+    "assay_type": "CODEX",
+    "panel_id": "syn61375766"
+  },
+  {
+    "file_id": "HTA10_37_006012001",
+    "entity_id": "syn61375624",
+    "participant_id": "HTA10_37",
+    "diagnosis": null,
+    "center": "HTAN Stanford",
+    "assay_type": "CODEX",
+    "panel_id": "syn61375768"
+  },
+  {
+    "file_id": "HTA10_38_004012001",
+    "entity_id": "syn61375671",
+    "participant_id": "HTA10_38",
+    "diagnosis": null,
+    "center": "HTAN Stanford",
+    "assay_type": "CODEX",
+    "panel_id": "syn61786217"
+  },
+  {
+    "file_id": "HTA10_38_008012001",
+    "entity_id": "syn61375672",
+    "participant_id": "HTA10_38",
+    "diagnosis": null,
+    "center": "HTAN Stanford",
+    "assay_type": "CODEX",
+    "panel_id": "syn61375815"
+  },
+  {
+    "file_id": "HTA10_38_404012001",
+    "entity_id": "syn61375677",
+    "participant_id": "HTA10_38",
+    "diagnosis": null,
+    "center": "HTAN Stanford",
+    "assay_type": "CODEX",
+    "panel_id": "syn61375794"
+  },
+  {
+    "file_id": "HTA10_38_408012001",
+    "entity_id": "syn61375693",
+    "participant_id": "HTA10_38",
+    "diagnosis": null,
+    "center": "HTAN Stanford",
+    "assay_type": "CODEX",
+    "panel_id": "syn61375751"
+  },
+  {
+    "file_id": "HTA10_38_504012001",
+    "entity_id": "syn61375711",
+    "participant_id": "HTA10_38",
+    "diagnosis": null,
+    "center": "HTAN Stanford",
+    "assay_type": "CODEX",
+    "panel_id": "syn61375752"
+  },
+  {
+    "file_id": "HTA10_39_002012001",
+    "entity_id": "syn61375716",
+    "participant_id": "HTA10_39",
+    "diagnosis": null,
+    "center": "HTAN Stanford",
+    "assay_type": "CODEX",
+    "panel_id": "syn61375795"
+  },
+  {
+    "file_id": "HTA10_40_101012001",
+    "entity_id": "syn61375717",
+    "participant_id": "HTA10_40",
+    "diagnosis": null,
+    "center": "HTAN Stanford",
+    "assay_type": "CODEX",
+    "panel_id": "syn61375798"
+  },
+  {
+    "file_id": "HTA10_41_0080111001",
+    "entity_id": "syn66310829",
+    "participant_id": "HTA10_41",
+    "diagnosis": null,
+    "center": "HTAN Stanford",
+    "assay_type": "H&E",
+    "panel_id": "syn69254181"
+  },
+  {
+    "file_id": "HTA10_41_0080211001",
+    "entity_id": "syn66310840",
+    "participant_id": "HTA10_41",
+    "diagnosis": null,
+    "center": "HTAN Stanford",
+    "assay_type": "H&E",
+    "panel_id": "syn69254181"
+  },
+  {
+    "file_id": "HTA10_41_0080311001",
+    "entity_id": "syn66310844",
+    "participant_id": "HTA10_41",
+    "diagnosis": null,
+    "center": "HTAN Stanford",
+    "assay_type": "H&E",
+    "panel_id": "syn69254181"
+  },
+  {
+    "file_id": "HTA10_41_0080411001",
+    "entity_id": "syn66310845",
+    "participant_id": "HTA10_41",
+    "diagnosis": null,
+    "center": "HTAN Stanford",
+    "assay_type": "H&E",
+    "panel_id": "syn69254181"
+  },
+  {
+    "file_id": "HTA10_41_0080511001",
+    "entity_id": "syn66310846",
+    "participant_id": "HTA10_41",
+    "diagnosis": null,
+    "center": "HTAN Stanford",
+    "assay_type": "H&E",
+    "panel_id": "syn69254181"
+  },
+  {
+    "file_id": "HTA10_41_0080611001",
+    "entity_id": "syn66310847",
+    "participant_id": "HTA10_41",
+    "diagnosis": null,
+    "center": "HTAN Stanford",
+    "assay_type": "H&E",
+    "panel_id": "syn69254181"
+  },
+  {
+    "file_id": "HTA10_41_0080711001",
+    "entity_id": "syn66310848",
+    "participant_id": "HTA10_41",
+    "diagnosis": null,
+    "center": "HTAN Stanford",
+    "assay_type": "H&E",
+    "panel_id": "syn69254181"
+  },
+  {
+    "file_id": "HTA10_41_0080811001",
+    "entity_id": "syn66310849",
+    "participant_id": "HTA10_41",
+    "diagnosis": null,
+    "center": "HTAN Stanford",
+    "assay_type": "H&E",
+    "panel_id": "syn69254181"
+  },
+  {
+    "file_id": "HTA10_41_0080911001",
+    "entity_id": "syn66310850",
+    "participant_id": "HTA10_41",
+    "diagnosis": null,
+    "center": "HTAN Stanford",
+    "assay_type": "H&E",
+    "panel_id": "syn69254181"
+  },
+  {
+    "file_id": "HTA10_41_0081011001",
+    "entity_id": "syn66310819",
+    "participant_id": "HTA10_41",
+    "diagnosis": null,
+    "center": "HTAN Stanford",
+    "assay_type": "H&E",
+    "panel_id": "syn69254181"
+  },
+  {
+    "file_id": "HTA10_41_0081111001",
+    "entity_id": "syn66310820",
+    "participant_id": "HTA10_41",
+    "diagnosis": null,
+    "center": "HTAN Stanford",
+    "assay_type": "H&E",
+    "panel_id": "syn69254181"
+  },
+  {
+    "file_id": "HTA10_41_0081211001",
+    "entity_id": "syn66310821",
+    "participant_id": "HTA10_41",
+    "diagnosis": null,
+    "center": "HTAN Stanford",
+    "assay_type": "H&E",
+    "panel_id": "syn69254181"
+  },
+  {
+    "file_id": "HTA10_41_0081311001",
+    "entity_id": "syn66310822",
+    "participant_id": "HTA10_41",
+    "diagnosis": null,
+    "center": "HTAN Stanford",
+    "assay_type": "H&E",
+    "panel_id": "syn69254181"
+  },
+  {
+    "file_id": "HTA10_41_0081411001",
+    "entity_id": "syn66310823",
+    "participant_id": "HTA10_41",
+    "diagnosis": null,
+    "center": "HTAN Stanford",
+    "assay_type": "H&E",
+    "panel_id": "syn69254181"
+  },
+  {
+    "file_id": "HTA10_41_0081511001",
+    "entity_id": "syn66310824",
+    "participant_id": "HTA10_41",
+    "diagnosis": null,
+    "center": "HTAN Stanford",
+    "assay_type": "H&E",
+    "panel_id": "syn69254181"
+  },
+  {
+    "file_id": "HTA10_41_0081611001",
+    "entity_id": "syn66310825",
+    "participant_id": "HTA10_41",
+    "diagnosis": null,
+    "center": "HTAN Stanford",
+    "assay_type": "H&E",
+    "panel_id": "syn69254181"
+  },
+  {
+    "file_id": "HTA10_41_0081711001",
+    "entity_id": "syn66310826",
+    "participant_id": "HTA10_41",
+    "diagnosis": null,
+    "center": "HTAN Stanford",
+    "assay_type": "H&E",
+    "panel_id": "syn69254181"
+  },
+  {
+    "file_id": "HTA10_41_0081811001",
+    "entity_id": "syn66310827",
+    "participant_id": "HTA10_41",
+    "diagnosis": null,
+    "center": "HTAN Stanford",
+    "assay_type": "H&E",
+    "panel_id": "syn69254181"
+  },
+  {
+    "file_id": "HTA10_41_0081911001",
+    "entity_id": "syn66310828",
+    "participant_id": "HTA10_41",
+    "diagnosis": null,
+    "center": "HTAN Stanford",
+    "assay_type": "H&E",
+    "panel_id": "syn69254181"
+  },
+  {
+    "file_id": "HTA10_41_0082011001",
+    "entity_id": "syn66310830",
+    "participant_id": "HTA10_41",
+    "diagnosis": null,
+    "center": "HTAN Stanford",
+    "assay_type": "H&E",
+    "panel_id": "syn69254181"
+  },
+  {
+    "file_id": "HTA10_41_0082111001",
+    "entity_id": "syn66310831",
+    "participant_id": "HTA10_41",
+    "diagnosis": null,
+    "center": "HTAN Stanford",
+    "assay_type": "H&E",
+    "panel_id": "syn69254181"
+  },
+  {
+    "file_id": "HTA10_41_0082211001",
+    "entity_id": "syn66310832",
+    "participant_id": "HTA10_41",
+    "diagnosis": null,
+    "center": "HTAN Stanford",
+    "assay_type": "H&E",
+    "panel_id": "syn69254181"
+  },
+  {
+    "file_id": "HTA10_41_0082311001",
+    "entity_id": "syn66310833",
+    "participant_id": "HTA10_41",
+    "diagnosis": null,
+    "center": "HTAN Stanford",
+    "assay_type": "H&E",
+    "panel_id": "syn69254181"
+  },
+  {
+    "file_id": "HTA10_41_0082411001",
+    "entity_id": "syn66310834",
+    "participant_id": "HTA10_41",
+    "diagnosis": null,
+    "center": "HTAN Stanford",
+    "assay_type": "H&E",
+    "panel_id": "syn69254181"
+  },
+  {
+    "file_id": "HTA10_41_0082511001",
+    "entity_id": "syn66310835",
+    "participant_id": "HTA10_41",
+    "diagnosis": null,
+    "center": "HTAN Stanford",
+    "assay_type": "H&E",
+    "panel_id": "syn69254181"
+  },
+  {
+    "file_id": "HTA10_41_0082611001",
+    "entity_id": "syn66310836",
+    "participant_id": "HTA10_41",
+    "diagnosis": null,
+    "center": "HTAN Stanford",
+    "assay_type": "H&E",
+    "panel_id": "syn69254181"
+  },
+  {
+    "file_id": "HTA10_41_0082711001",
+    "entity_id": "syn66310837",
+    "participant_id": "HTA10_41",
+    "diagnosis": null,
+    "center": "HTAN Stanford",
+    "assay_type": "H&E",
+    "panel_id": "syn69254181"
+  },
+  {
+    "file_id": "HTA10_41_0082811001",
+    "entity_id": "syn66310838",
+    "participant_id": "HTA10_41",
+    "diagnosis": null,
+    "center": "HTAN Stanford",
+    "assay_type": "H&E",
+    "panel_id": "syn69254181"
+  },
+  {
+    "file_id": "HTA10_41_0082911001",
+    "entity_id": "syn66310839",
+    "participant_id": "HTA10_41",
+    "diagnosis": null,
+    "center": "HTAN Stanford",
+    "assay_type": "H&E",
+    "panel_id": "syn69254181"
+  },
+  {
+    "file_id": "HTA10_41_0083011001",
+    "entity_id": "syn66310841",
+    "participant_id": "HTA10_41",
+    "diagnosis": null,
+    "center": "HTAN Stanford",
+    "assay_type": "H&E",
+    "panel_id": "syn69254181"
+  },
+  {
+    "file_id": "HTA10_41_0083111001",
+    "entity_id": "syn66310842",
+    "participant_id": "HTA10_41",
+    "diagnosis": null,
+    "center": "HTAN Stanford",
+    "assay_type": "H&E",
+    "panel_id": "syn69254181"
+  },
+  {
+    "file_id": "HTA10_41_0083211001",
+    "entity_id": "syn66310843",
+    "participant_id": "HTA10_41",
+    "diagnosis": null,
+    "center": "HTAN Stanford",
+    "assay_type": "H&E",
+    "panel_id": "syn69254181"
+  },
+  {
+    "file_id": "HTA11_10711_2000001011523001",
+    "entity_id": "syn61376132",
+    "participant_id": "HTA11_10711",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn62060664"
+  },
+  {
+    "file_id": "HTA11_1391_20000010115220280010000000000",
+    "entity_id": "syn25071714",
+    "participant_id": "HTA11_1391",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn25126434"
+  },
+  {
+    "file_id": "HTA11_1391_20000010115220280020000000000",
+    "entity_id": "syn25071769",
+    "participant_id": "HTA11_1391",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn25126433"
+  },
+  {
+    "file_id": "HTA11_1391_20000010115220280030000000000",
+    "entity_id": "syn25071777",
+    "participant_id": "HTA11_1391",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn25126432"
+  },
+  {
+    "file_id": "HTA11_1391_2000001011523001",
+    "entity_id": "syn61376134",
+    "participant_id": "HTA11_1391",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn62060549"
+  },
+  {
+    "file_id": "HTA11_1391_2000001011523002",
+    "entity_id": "syn61376135",
+    "participant_id": "HTA11_1391",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn62060551"
+  },
+  {
+    "file_id": "HTA11_1391_2000001011523003",
+    "entity_id": "syn61376157",
+    "participant_id": "HTA11_1391",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn62060552"
+  },
+  {
+    "file_id": "HTA11_1391_20000010116110030010000009999",
+    "entity_id": "syn25055895",
+    "participant_id": "HTA11_1391",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "H&E",
+    "panel_id": "syn25164974"
+  },
+  {
+    "file_id": "HTA11_1938_20000010115220280010000000000",
+    "entity_id": "syn25072268",
+    "participant_id": "HTA11_1938",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn25126431"
+  },
+  {
+    "file_id": "HTA11_1938_20000010115220280020000000000",
+    "entity_id": "syn25072599",
+    "participant_id": "HTA11_1938",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn25126430"
+  },
+  {
+    "file_id": "HTA11_1938_2000001011523001",
+    "entity_id": "syn61376159",
+    "participant_id": "HTA11_1938",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn62060553"
+  },
+  {
+    "file_id": "HTA11_1938_2000001011523002",
+    "entity_id": "syn61376162",
+    "participant_id": "HTA11_1938",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn62060557"
+  },
+  {
+    "file_id": "HTA11_1938_20000010116110030010000009999",
+    "entity_id": "syn25056191",
+    "participant_id": "HTA11_1938",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "H&E",
+    "panel_id": "syn25164975"
+  },
+  {
+    "file_id": "HTA11_2112_20000010115220260010000000000",
+    "entity_id": "syn25072661",
+    "participant_id": "HTA11_2112",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn25126429"
+  },
+  {
+    "file_id": "HTA11_2112_20000010115220260020000000000",
+    "entity_id": "syn25072720",
+    "participant_id": "HTA11_2112",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn25126428"
+  },
+  {
+    "file_id": "HTA11_2112_20000010115220260030000000000",
+    "entity_id": "syn25072779",
+    "participant_id": "HTA11_2112",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn25126427"
+  },
+  {
+    "file_id": "HTA11_2112_20000010115220260040000000000",
+    "entity_id": "syn25072878",
+    "participant_id": "HTA11_2112",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn25126426"
+  },
+  {
+    "file_id": "HTA11_2112_2000001011523001",
+    "entity_id": "syn61376165",
+    "participant_id": "HTA11_2112",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn62060560"
+  },
+  {
+    "file_id": "HTA11_2112_2000001011523002",
+    "entity_id": "syn61376168",
+    "participant_id": "HTA11_2112",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn62060561"
+  },
+  {
+    "file_id": "HTA11_2112_2000001011523003",
+    "entity_id": "syn61376170",
+    "participant_id": "HTA11_2112",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn62060562"
+  },
+  {
+    "file_id": "HTA11_2112_2000001011523004",
+    "entity_id": "syn61376171",
+    "participant_id": "HTA11_2112",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn62060563"
+  },
+  {
+    "file_id": "HTA11_2112_20000010116110030010000009999",
+    "entity_id": "syn25056250",
+    "participant_id": "HTA11_2112",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "H&E",
+    "panel_id": "syn25164976"
+  },
+  {
+    "file_id": "HTA11_2235_20000010115220280010000000000",
+    "entity_id": "syn25072987",
+    "participant_id": "HTA11_2235",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn25126425"
+  },
+  {
+    "file_id": "HTA11_2235_20000010115220280020000000000",
+    "entity_id": "syn25073038",
+    "participant_id": "HTA11_2235",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn25126424"
+  },
+  {
+    "file_id": "HTA11_2235_20000010115220280030000000000",
+    "entity_id": "syn25073076",
+    "participant_id": "HTA11_2235",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn25126423"
+  },
+  {
+    "file_id": "HTA11_2235_2000001011523001",
+    "entity_id": "syn61376174",
+    "participant_id": "HTA11_2235",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn62060564"
+  },
+  {
+    "file_id": "HTA11_2235_2000001011523002",
+    "entity_id": "syn61376175",
+    "participant_id": "HTA11_2235",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn62060565"
+  },
+  {
+    "file_id": "HTA11_2235_2000001011523003",
+    "entity_id": "syn61376178",
+    "participant_id": "HTA11_2235",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn62060566"
+  },
+  {
+    "file_id": "HTA11_2235_20000010116110030010000009999",
+    "entity_id": "syn25056300",
+    "participant_id": "HTA11_2235",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "H&E",
+    "panel_id": "syn25164977"
+  },
+  {
+    "file_id": "HTA11_2487_20000010115220260010000000000",
+    "entity_id": "syn25073364",
+    "participant_id": "HTA11_2487",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn25126422"
+  },
+  {
+    "file_id": "HTA11_2487_20000010115220260020000000000",
+    "entity_id": "syn25073616",
+    "participant_id": "HTA11_2487",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn25126421"
+  },
+  {
+    "file_id": "HTA11_2487_2000001011523001",
+    "entity_id": "syn61376190",
+    "participant_id": "HTA11_2487",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn62060567"
+  },
+  {
+    "file_id": "HTA11_2487_2000001011523002",
+    "entity_id": "syn61376201",
+    "participant_id": "HTA11_2487",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn62060568"
+  },
+  {
+    "file_id": "HTA11_2487_20000010116110030010000009999",
+    "entity_id": "syn25056480",
+    "participant_id": "HTA11_2487",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "H&E",
+    "panel_id": "syn25164978"
+  },
+  {
+    "file_id": "HTA11_2951_20000010115220280010000000000",
+    "entity_id": "syn25073848",
+    "participant_id": "HTA11_2951",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn25126420"
+  },
+  {
+    "file_id": "HTA11_2951_20000010115220280020000000000",
+    "entity_id": "syn25074207",
+    "participant_id": "HTA11_2951",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn25126419"
+  },
+  {
+    "file_id": "HTA11_2951_20000010115220280030000000000",
+    "entity_id": "syn25074350",
+    "participant_id": "HTA11_2951",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn25126418"
+  },
+  {
+    "file_id": "HTA11_2951_2000001011523001",
+    "entity_id": "syn61376205",
+    "participant_id": "HTA11_2951",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn62060569"
+  },
+  {
+    "file_id": "HTA11_2951_2000001011523002",
+    "entity_id": "syn61376224",
+    "participant_id": "HTA11_2951",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn62060570"
+  },
+  {
+    "file_id": "HTA11_2951_2000001011523003",
+    "entity_id": "syn61376227",
+    "participant_id": "HTA11_2951",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn62060571"
+  },
+  {
+    "file_id": "HTA11_2951_20000010116110030010000009999",
+    "entity_id": "syn25056808",
+    "participant_id": "HTA11_2951",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "H&E",
+    "panel_id": "syn25164979"
+  },
+  {
+    "file_id": "HTA11_3077_20000010115220280010000000000",
+    "entity_id": "syn25074601",
+    "participant_id": "HTA11_3077",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn25126417"
+  },
+  {
+    "file_id": "HTA11_3077_20000010115220280020000000000",
+    "entity_id": "syn25075013",
+    "participant_id": "HTA11_3077",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn25126416"
+  },
+  {
+    "file_id": "HTA11_3077_20000010115220280030000000000",
+    "entity_id": "syn25075184",
+    "participant_id": "HTA11_3077",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn25126415"
+  },
+  {
+    "file_id": "HTA11_3077_20000010115220280040000000000",
+    "entity_id": "syn25075444",
+    "participant_id": "HTA11_3077",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn25126414"
+  },
+  {
+    "file_id": "HTA11_3077_2000001011523001",
+    "entity_id": "syn61376241",
+    "participant_id": "HTA11_3077",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn62060572"
+  },
+  {
+    "file_id": "HTA11_3077_2000001011523002",
+    "entity_id": "syn61376250",
+    "participant_id": "HTA11_3077",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn62060574"
+  },
+  {
+    "file_id": "HTA11_3077_2000001011523003",
+    "entity_id": "syn61376256",
+    "participant_id": "HTA11_3077",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn62060575"
+  },
+  {
+    "file_id": "HTA11_3077_2000001011523004",
+    "entity_id": "syn61376260",
+    "participant_id": "HTA11_3077",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn62060576"
+  },
+  {
+    "file_id": "HTA11_3077_20000010116110030010000009999",
+    "entity_id": "syn25057095",
+    "participant_id": "HTA11_3077",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "H&E",
+    "panel_id": "syn25164980"
+  },
+  {
+    "file_id": "HTA11_3252_20000010115220260010000000000",
+    "entity_id": "syn25075544",
+    "participant_id": "HTA11_3252",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn25126413"
+  },
+  {
+    "file_id": "HTA11_3252_20000010115220260020000000000",
+    "entity_id": "syn25075636",
+    "participant_id": "HTA11_3252",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn25126412"
+  },
+  {
+    "file_id": "HTA11_3252_20000010115220260030000000000",
+    "entity_id": "syn25075664",
+    "participant_id": "HTA11_3252",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn25126411"
+  },
+  {
+    "file_id": "HTA11_3252_20000010115220260040000000000",
+    "entity_id": "syn25075713",
+    "participant_id": "HTA11_3252",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn25126410"
+  },
+  {
+    "file_id": "HTA11_3252_20000010115220260050000000000",
+    "entity_id": "syn25075794",
+    "participant_id": "HTA11_3252",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn25126409"
+  },
+  {
+    "file_id": "HTA11_3252_20000010115220260060000000000",
+    "entity_id": "syn25075895",
+    "participant_id": "HTA11_3252",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn25126407"
+  },
+  {
+    "file_id": "HTA11_3252_2000001011523001",
+    "entity_id": "syn61376263",
+    "participant_id": "HTA11_3252",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn62060577"
+  },
+  {
+    "file_id": "HTA11_3252_2000001011523002",
+    "entity_id": "syn61376268",
+    "participant_id": "HTA11_3252",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn62060578"
+  },
+  {
+    "file_id": "HTA11_3252_2000001011523003",
+    "entity_id": "syn61376270",
+    "participant_id": "HTA11_3252",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn62060579"
+  },
+  {
+    "file_id": "HTA11_3252_2000001011523004",
+    "entity_id": "syn61376272",
+    "participant_id": "HTA11_3252",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn62060580"
+  },
+  {
+    "file_id": "HTA11_3252_2000001011523005",
+    "entity_id": "syn61376275",
+    "participant_id": "HTA11_3252",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn62060581"
+  },
+  {
+    "file_id": "HTA11_3252_2000001011523006",
+    "entity_id": "syn61376277",
+    "participant_id": "HTA11_3252",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn62060582"
+  },
+  {
+    "file_id": "HTA11_3252_20000010116110030010000009999",
+    "entity_id": "syn25057262",
+    "participant_id": "HTA11_3252",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "H&E",
+    "panel_id": "syn25164981"
+  },
+  {
+    "file_id": "HTA11_3331_20000010115220280010000000000",
+    "entity_id": "syn25077562",
+    "participant_id": "HTA11_3331",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn25126406"
+  },
+  {
+    "file_id": "HTA11_3331_2000001011523001",
+    "entity_id": "syn61376334",
+    "participant_id": "HTA11_3331",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn62060583"
+  },
+  {
+    "file_id": "HTA11_3331_20000010116110030010000009999",
+    "entity_id": "syn25058438",
+    "participant_id": "HTA11_3331",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "H&E",
+    "panel_id": "syn25164983"
+  },
+  {
+    "file_id": "HTA11_3361_20000010115220260010000000000",
+    "entity_id": "syn25077585",
+    "participant_id": "HTA11_3361",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn25126405"
+  },
+  {
+    "file_id": "HTA11_3361_20000010115220260020000000000",
+    "entity_id": "syn25077641",
+    "participant_id": "HTA11_3361",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn25126404"
+  },
+  {
+    "file_id": "HTA11_3361_20000010115220260030000000000",
+    "entity_id": "syn25077680",
+    "participant_id": "HTA11_3361",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn25126403"
+  },
+  {
+    "file_id": "HTA11_3361_20000010115220260040000000000",
+    "entity_id": "syn25077727",
+    "participant_id": "HTA11_3361",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn25126402"
+  },
+  {
+    "file_id": "HTA11_3361_20000010115220260050000000000",
+    "entity_id": "syn25077777",
+    "participant_id": "HTA11_3361",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn25126401"
+  },
+  {
+    "file_id": "HTA11_3361_20000010115220260060000000000",
+    "entity_id": "syn25077839",
+    "participant_id": "HTA11_3361",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn25126399"
+  },
+  {
+    "file_id": "HTA11_3361_20000010115220260070000000000",
+    "entity_id": "syn25077877",
+    "participant_id": "HTA11_3361",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn25126398"
+  },
+  {
+    "file_id": "HTA11_3361_20000010115220260080000000000",
+    "entity_id": "syn25077900",
+    "participant_id": "HTA11_3361",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn25126397"
+  },
+  {
+    "file_id": "HTA11_3361_20000010115220260090000000000",
+    "entity_id": "syn25077940",
+    "participant_id": "HTA11_3361",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn25126396"
+  },
+  {
+    "file_id": "HTA11_3361_20000010115220260100000000000",
+    "entity_id": "syn25077960",
+    "participant_id": "HTA11_3361",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn25126395"
+  },
+  {
+    "file_id": "HTA11_3361_2000001011523001",
+    "entity_id": "syn61376339",
+    "participant_id": "HTA11_3361",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn62060584"
+  },
+  {
+    "file_id": "HTA11_3361_2000001011523002",
+    "entity_id": "syn61376340",
+    "participant_id": "HTA11_3361",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn62060586"
+  },
+  {
+    "file_id": "HTA11_3361_2000001011523003",
+    "entity_id": "syn61376347",
+    "participant_id": "HTA11_3361",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn62060588"
+  },
+  {
+    "file_id": "HTA11_3361_2000001011523004",
+    "entity_id": "syn61376349",
+    "participant_id": "HTA11_3361",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn62060589"
+  },
+  {
+    "file_id": "HTA11_3361_2000001011523005",
+    "entity_id": "syn61376352",
+    "participant_id": "HTA11_3361",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn62060592"
+  },
+  {
+    "file_id": "HTA11_3361_2000001011523006",
+    "entity_id": "syn61376355",
+    "participant_id": "HTA11_3361",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn62060593"
+  },
+  {
+    "file_id": "HTA11_3361_2000001011523007",
+    "entity_id": "syn61376363",
+    "participant_id": "HTA11_3361",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn62060594"
+  },
+  {
+    "file_id": "HTA11_3361_2000001011523008",
+    "entity_id": "syn61376367",
+    "participant_id": "HTA11_3361",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn62060595"
+  },
+  {
+    "file_id": "HTA11_3361_2000001011523009",
+    "entity_id": "syn61376370",
+    "participant_id": "HTA11_3361",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn62060596"
+  },
+  {
+    "file_id": "HTA11_3361_2000001011523010",
+    "entity_id": "syn61376372",
+    "participant_id": "HTA11_3361",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn62060597"
+  },
+  {
+    "file_id": "HTA11_3361_20000010116110030010000009999",
+    "entity_id": "syn25059248",
+    "participant_id": "HTA11_3361",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "H&E",
+    "panel_id": "syn25164984"
+  },
+  {
+    "file_id": "HTA11_3410_20000010115220280010000000000",
+    "entity_id": "syn25078153",
+    "participant_id": "HTA11_3410",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn25126394"
+  },
+  {
+    "file_id": "HTA11_3410_20000010115220280020000000000",
+    "entity_id": "syn25078267",
+    "participant_id": "HTA11_3410",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn25126393"
+  },
+  {
+    "file_id": "HTA11_3410_20000010115220280030000000000",
+    "entity_id": "syn25078332",
+    "participant_id": "HTA11_3410",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn25126392"
+  },
+  {
+    "file_id": "HTA11_3410_20000010115220280040000000000",
+    "entity_id": "syn25078450",
+    "participant_id": "HTA11_3410",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn25126391"
+  },
+  {
+    "file_id": "HTA11_3410_20000010115220280050000000000",
+    "entity_id": "syn25078512",
+    "participant_id": "HTA11_3410",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn25126390"
+  },
+  {
+    "file_id": "HTA11_3410_2000001011523001",
+    "entity_id": "syn61376393",
+    "participant_id": "HTA11_3410",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn62060599"
+  },
+  {
+    "file_id": "HTA11_3410_2000001011523002",
+    "entity_id": "syn61376410",
+    "participant_id": "HTA11_3410",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn62060602"
+  },
+  {
+    "file_id": "HTA11_3410_2000001011523003",
+    "entity_id": "syn61376418",
+    "participant_id": "HTA11_3410",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn62060603"
+  },
+  {
+    "file_id": "HTA11_3410_2000001011523004",
+    "entity_id": "syn61376427",
+    "participant_id": "HTA11_3410",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn62060604"
+  },
+  {
+    "file_id": "HTA11_3410_2000001011523005",
+    "entity_id": "syn61376432",
+    "participant_id": "HTA11_3410",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn62060605"
+  },
+  {
+    "file_id": "HTA11_3410_20000010116110030010000009999",
+    "entity_id": "syn25059795",
+    "participant_id": "HTA11_3410",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "H&E",
+    "panel_id": "syn25164985"
+  },
+  {
+    "file_id": "HTA11_347_20000010115220280010000000000",
+    "entity_id": "syn25078653",
+    "participant_id": "HTA11_347",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn25126461"
+  },
+  {
+    "file_id": "HTA11_347_20000010115220280020000000000",
+    "entity_id": "syn25078786",
+    "participant_id": "HTA11_347",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn25126458"
+  },
+  {
+    "file_id": "HTA11_347_20000010115220280030000000000",
+    "entity_id": "syn25078891",
+    "participant_id": "HTA11_347",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn25126457"
+  },
+  {
+    "file_id": "HTA11_347_2000001011523001",
+    "entity_id": "syn61376444",
+    "participant_id": "HTA11_347",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn62060530"
+  },
+  {
+    "file_id": "HTA11_347_2000001011523002",
+    "entity_id": "syn61376460",
+    "participant_id": "HTA11_347",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn62060531"
+  },
+  {
+    "file_id": "HTA11_347_2000001011523003",
+    "entity_id": "syn61376481",
+    "participant_id": "HTA11_347",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn62060532"
+  },
+  {
+    "file_id": "HTA11_347_20000010116110030010000009999",
+    "entity_id": "syn25054758",
+    "participant_id": "HTA11_347",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "H&E",
+    "panel_id": "syn25164966"
+  },
+  {
+    "file_id": "HTA11_377_20000010115220280010000000000",
+    "entity_id": "syn25078988",
+    "participant_id": "HTA11_377",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn25126456"
+  },
+  {
+    "file_id": "HTA11_377_20000010115220280020000000000",
+    "entity_id": "syn25079130",
+    "participant_id": "HTA11_377",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn25126455"
+  },
+  {
+    "file_id": "HTA11_377_20000010115220280030000000000",
+    "entity_id": "syn25079158",
+    "participant_id": "HTA11_377",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn25126454"
+  },
+  {
+    "file_id": "HTA11_377_2000001011523001",
+    "entity_id": "syn61376496",
+    "participant_id": "HTA11_377",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn62060533"
+  },
+  {
+    "file_id": "HTA11_377_2000001011523002",
+    "entity_id": "syn61376515",
+    "participant_id": "HTA11_377",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn62060536"
+  },
+  {
+    "file_id": "HTA11_377_2000001011523003",
+    "entity_id": "syn61376517",
+    "participant_id": "HTA11_377",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn62060537"
+  },
+  {
+    "file_id": "HTA11_377_20000010116110030010000009999",
+    "entity_id": "syn25054776",
+    "participant_id": "HTA11_377",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "H&E",
+    "panel_id": "syn25164967"
+  },
+  {
+    "file_id": "HTA11_392_30000110115220260010000000000",
+    "entity_id": "syn25079471",
+    "participant_id": "HTA11_392",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn25126453"
+  },
+  {
+    "file_id": "HTA11_392_30000110115220260020000000000",
+    "entity_id": "syn25079620",
+    "participant_id": "HTA11_392",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn25126452"
+  },
+  {
+    "file_id": "HTA11_392_30000110115220260030000000000",
+    "entity_id": "syn25079715",
+    "participant_id": "HTA11_392",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn25126450"
+  },
+  {
+    "file_id": "HTA11_392_30000110115220260040000000000",
+    "entity_id": "syn25079883",
+    "participant_id": "HTA11_392",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn25126449"
+  },
+  {
+    "file_id": "HTA11_392_30000110115220260050000000000",
+    "entity_id": "syn25080115",
+    "participant_id": "HTA11_392",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn25126448"
+  },
+  {
+    "file_id": "HTA11_392_30000110115220260060000000000",
+    "entity_id": "syn25080243",
+    "participant_id": "HTA11_392",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn25126447"
+  },
+  {
+    "file_id": "HTA11_392_30000110116110030010000009999",
+    "entity_id": "syn25055566",
+    "participant_id": "HTA11_392",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "H&E",
+    "panel_id": "syn25164968"
+  },
+  {
+    "file_id": "HTA11_392_300001101523001",
+    "entity_id": "syn69075323",
+    "participant_id": "HTA11_392",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn69075431"
+  },
+  {
+    "file_id": "HTA11_392_300001101523002",
+    "entity_id": "syn69075328",
+    "participant_id": "HTA11_392",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn69075432"
+  },
+  {
+    "file_id": "HTA11_392_300001101523003",
+    "entity_id": "syn69075329",
+    "participant_id": "HTA11_392",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn69075433"
+  },
+  {
+    "file_id": "HTA11_392_300001101523004",
+    "entity_id": "syn69075404",
+    "participant_id": "HTA11_392",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn69075434"
+  },
+  {
+    "file_id": "HTA11_392_300001101523005",
+    "entity_id": "syn69075405",
+    "participant_id": "HTA11_392",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn69075435"
+  },
+  {
+    "file_id": "HTA11_392_300001101523006",
+    "entity_id": "syn69075414",
+    "participant_id": "HTA11_392",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn69075436"
+  },
+  {
+    "file_id": "HTA11_411_20000010115220260010000000000",
+    "entity_id": "syn25080294",
+    "participant_id": "HTA11_411",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn25126446"
+  },
+  {
+    "file_id": "HTA11_411_20000010115220260020000000000",
+    "entity_id": "syn25080348",
+    "participant_id": "HTA11_411",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn25126445"
+  },
+  {
+    "file_id": "HTA11_411_20000010115220260030000000000",
+    "entity_id": "syn25080438",
+    "participant_id": "HTA11_411",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn25126444"
+  },
+  {
+    "file_id": "HTA11_411_20000010115220260040000000000",
+    "entity_id": "syn25080505",
+    "participant_id": "HTA11_411",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn25126443"
+  },
+  {
+    "file_id": "HTA11_411_20000010116110030010000009999",
+    "entity_id": "syn25055737",
+    "participant_id": "HTA11_411",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "H&E",
+    "panel_id": "syn25164969"
+  },
+  {
+    "file_id": "HTA11_4255_20000010115220280010000000000",
+    "entity_id": "syn25080543",
+    "participant_id": "HTA11_4255",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn25126388"
+  },
+  {
+    "file_id": "HTA11_4255_20000010115220280020000000000",
+    "entity_id": "syn25080595",
+    "participant_id": "HTA11_4255",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn25126387"
+  },
+  {
+    "file_id": "HTA11_4255_2000001011523001",
+    "entity_id": "syn61376573",
+    "participant_id": "HTA11_4255",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn62060606"
+  },
+  {
+    "file_id": "HTA11_4255_2000001011523002",
+    "entity_id": "syn61376576",
+    "participant_id": "HTA11_4255",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn62060609"
+  },
+  {
+    "file_id": "HTA11_4255_20000010116110030010000009999",
+    "entity_id": "syn25059811",
+    "participant_id": "HTA11_4255",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "H&E",
+    "panel_id": "syn25164986"
+  },
+  {
+    "file_id": "HTA11_4781_20000010115220280010000000000",
+    "entity_id": "syn25080671",
+    "participant_id": "HTA11_4781",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn25126386"
+  },
+  {
+    "file_id": "HTA11_4781_20000010115220280020000000000",
+    "entity_id": "syn25080720",
+    "participant_id": "HTA11_4781",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn25126385"
+  },
+  {
+    "file_id": "HTA11_4781_20000010115220280030000000000",
+    "entity_id": "syn25080868",
+    "participant_id": "HTA11_4781",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn25126384"
+  },
+  {
+    "file_id": "HTA11_4781_2000001011523001",
+    "entity_id": "syn61376582",
+    "participant_id": "HTA11_4781",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn62060610"
+  },
+  {
+    "file_id": "HTA11_4781_2000001011523002",
+    "entity_id": "syn61376589",
+    "participant_id": "HTA11_4781",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn62060611"
+  },
+  {
+    "file_id": "HTA11_4781_2000001011523003",
+    "entity_id": "syn61376595",
+    "participant_id": "HTA11_4781",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn62060612"
+  },
+  {
+    "file_id": "HTA11_4781_20000010116110030010000009999",
+    "entity_id": "syn25060020",
+    "participant_id": "HTA11_4781",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "H&E",
+    "panel_id": "syn25164987"
+  },
+  {
+    "file_id": "HTA11_4814_20000010115220260010000000000",
+    "entity_id": "syn25080954",
+    "participant_id": "HTA11_4814",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn25126383"
+  },
+  {
+    "file_id": "HTA11_4814_2000001011523001",
+    "entity_id": "syn61376599",
+    "participant_id": "HTA11_4814",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn62060614"
+  },
+  {
+    "file_id": "HTA11_4814_20000010116110030010000009999",
+    "entity_id": "syn25060047",
+    "participant_id": "HTA11_4814",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "H&E",
+    "panel_id": "syn25164988"
+  },
+  {
+    "file_id": "HTA11_5212_20000010115220280010000000000",
+    "entity_id": "syn25081125",
+    "participant_id": "HTA11_5212",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn25126382"
+  },
+  {
+    "file_id": "HTA11_5212_2000001011523001",
+    "entity_id": "syn61376605",
+    "participant_id": "HTA11_5212",
+    "diagnosis": "Not Reported",
+    "center": "HTAN Vanderbilt",
+    "assay_type": "MxIF",
+    "panel_id": "syn62060615"
+  }
+]

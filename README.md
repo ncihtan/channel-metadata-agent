@@ -1,63 +1,57 @@
 # channel-metadata-agent
 
-Agentic curation of HTAN imaging **channel metadata** into a harmonized marker library. Each HTAN centre ships its own channel metadata format — different column names, different marker spellings, different conventions for what counts as a target. This turns that pile into one deduplicated, typed, UniProt-resolved list of markers.
+Turns HTAN imaging channel metadata into a harmonized marker library, and from that into the data files the [mIF Explorer](https://github.com/ncihtan/mif-explorer) reads.
 
-> **Status: prototype, second attempt.** Written December 2025 as a rewrite of [`adamjtaylor/ch_metadata_agent`](https://github.com/adamjtaylor/ch_metadata_agent), the pipeline that produced the marker library shipped in [`ncihtan/mif-explorer`](https://github.com/ncihtan/mif-explorer) (Sage Bionetworks Home Week hackathon). This version has better marker typing and full row-level provenance, but it stops before producing app-ready output — nothing here has been wired into the explorer yet.
-
----
+Each HTAN centre ships its own channel metadata format: different column names, different marker spellings, different conventions for what counts as a target. This pipeline reads all of them and produces one deduplicated, typed, UniProt-resolved list of markers, with row-level provenance back to the file each assertion came from.
 
 ## Input
 
-Channel metadata files attached to HTAN imaging data, fetched by Synapse ID. The upstream fetch lives in the v1 repo (`fetch_htan_data.py`): a BigQuery query over `htan-dcc.released.entities_v7_0` joined to `combined_assays.ImagingLevel2` for every non-MERFISH `channel_metadata_synapseId`, then `syn.get()` of each file. That produces the `htan_data/` directory this pipeline scans — **617 files** (616 CSV, 1 XLSX) across all imaging centres.
+Channel metadata files attached to HTAN imaging data, fetched by Synapse ID.
 
-The scan is not committed here. Point stage 1.1 at your own copy, or re-fetch with the v1 script.
+Stage 0.1 does the fetch: a BigQuery query for every non-MERFISH `channel_metadata_synapseId` in the release, then `syn.get()` on each. That produces the `htan_data/` directory the rest of the pipeline reads: 714 files as of Release 7.0, a mix of CSV, TSV named `.txt`, and XLSX.
 
-## Two paths through this repo
+`htan_data/` is not committed. Run stage 0.1, or point stage 1.1 at your own copy.
 
-Worth knowing before you read the code, because both are present and only one was run to completion:
-
-**The staged scripts (`1_1` → `2_3`)** are the designed pipeline, each a standalone CLI that reads the previous stage's output file. Only stage 1.1 was ever run — `staging_manifest.json` is its output (617 files, scanned 2025-12-15). Stages 1.2 through 2.3 are written and import cleanly but have never been executed end to end; none of their output files exist.
-
-**The notebooks (`dev.ipynb`, `dev_marker_grouping.ipynb`)** are what actually produced the results. They take a different, flatter route: dedupe channel metadata rows by content hash, classify every row in one Batches API pass, then group by extracted marker. This is where `classified_metadata.json` and `classified_markers.json` come from.
-
-So the staged scripts are the cleaner design and the notebooks are the working implementation. Reconciling them is the obvious first task for anyone picking this up.
-
-## The staged pipeline
+## Pipeline
 
 ```
-htan_data/ ──1_1──► staging_manifest.json
-                      │
-                 1_2 (Claude) ──► column_mapping_config.json
-                      │
-                 1_3 ──► normalized_antibodies.parquet
-                      │
-                 2_1 ──► unique_term_clusters.json
-                      │
-                 2_2 (Claude) ──► taxonomy_classifications.json
-                      │
-                 2_3 (Claude + UniProt) ──► curated_library_definitions.json
+0_1 (BigQuery + Synapse)      ──► htan_data/
+1_1                           ──► staging_manifest.json
+1_2 (Claude)                  ──► column_mapping_config.json
+1_3                           ──► normalized_antibodies.parquet
+2_1                           ──► unique_term_clusters.json
+2_2 (Claude)                  ──► taxonomy_classifications.json
+2_3 (Claude + UniProt)        ──► curated_library_definitions.json
+3_1 (BigQuery + UniProt)      ──► library / manifest / panels .json
 ```
 
 | Stage | Script | What it does |
 |-------|--------|--------------|
-| 1.1 | `1_1_scan_stage.py` | Recursively scan for CSV/XLSX, hash each file, emit a staging manifest |
-| 1.2 | `1_2_schema_scout.py` | Claude reads each file's header and maps columns to `antibody_name`, `clone_id`, `channel_name`, `panel_id`, `lot_number` |
+| 0.1 | `0_1_fetch_htan_data.py` | Find every channel metadata file in the release, download each from Synapse |
+| 1.1 | `1_1_scan_stage.py` | Scan for channel metadata files, hash each, emit a staging manifest |
+| 1.2 | `1_2_schema_scout.py` | Claude maps each file's columns to `antibody_name`, `clone_id`, `channel_name`, `panel_id`, `lot_number` |
 | 1.3 | `1_3_normalize.py` | Apply the mappings, drop empty and technical rows, consolidate to one parquet |
-| 2.1 | `2_1_scrub_and_group.py` | Scrub marker names and cluster variants by string similarity (default threshold 0.85) |
+| 2.1 | `2_1_scrub_and_group.py` | Scrub marker names, cluster variants by string similarity (default threshold 0.85) |
 | 2.2 | `2_2_taxonomy_steward.py` | Claude assigns a marker type to each cluster, batched 50 terms per call |
-| 2.3 | `2_3_bio_resolver.py` | Claude picks the canonical name following clinical convention, then pulls UniProt metadata |
+| 2.3 | `2_3_bio_resolver.py` | Claude picks the canonical name, then pulls UniProt metadata |
+| 3.1 | `3_1_build_explorer_data.py` | Join the curated markers to the live HTAN release, emit explorer data files |
 
-Every stage takes `-i`/`-o` overrides; run any with `--help`.
+Every stage takes `-i`/`-o` overrides. Run any with `--help`.
 
-## Outputs on disk
+## Two routes through stages 1.2 to 2.3
+
+The staged scripts and the notebooks (`dev.ipynb`, `dev_marker_grouping.ipynb`) do the same work two ways, and the notebooks are what produced the committed results. They take a flatter route: dedupe metadata rows by content hash, classify every row in one Batches API pass, then group by extracted marker. Stage 1.1 was run; stages 1.2 to 2.3 are written and import cleanly but have not been run end to end.
+
+Stage 3.1 consumes the notebook output, so the chain from raw files to explorer data is complete. Running 1.2 to 2.3 would replace the notebook path with a resumable CLI one, and stage 2.3 would add Claude-chosen canonical names on top of the UniProt resolution 3.1 already does.
+
+## Outputs
 
 | File | Contents |
 |------|----------|
-| `staging_manifest.json` | 617 scanned channel metadata files with hashes and timestamps |
-| `classified_metadata.json` | **3,647** deduplicated channel metadata rows, each with its `row_hash`, original `row_content`, the `ch_synids` it appears in, and a `marker_classification` |
-| `classified_markers.json` | The same 3,647 rows regrouped under **621 unique markers**, each typed |
-
-Row-level provenance is the thing this version adds: every marker carries the exact metadata rows and Synapse entities it came from, so any assertion can be traced back to the centre that made it.
+| `staging_manifest.json` | 617 scanned files with hashes and timestamps |
+| `classified_metadata.json` | 3,647 deduplicated metadata rows, each with `row_hash`, original `row_content`, the `ch_synids` it appears in, and a marker classification |
+| `classified_markers.json` | The same rows regrouped under 621 unique markers, each typed |
+| `explorer_data/` | Stage 3.1 output: `library_full.json`, `manifest_full.json`, `panels_full.json`, `*_small.json` fixtures, `coverage_report.json` |
 
 Marker types assigned:
 
@@ -72,41 +66,59 @@ Marker types assigned:
 | `chemical_element` | 11 |
 | `chemical_stain` | 5 |
 
-Separating `blank_or_background` and `chemical_stain` from real protein targets matters — v1 folded these in with everything else, which is why its library contains entries like secondary antibodies and blanks as if they were markers.
+Typing separates real protein targets from blanks, stains and bare elements, which v1 folded in together.
+
+## Stage 3.1: explorer data
+
+```bash
+uv run 3_1_build_explorer_data.py
+```
+
+Three inputs, three outputs:
+
+- **Manifest** comes from BigQuery on every run, so file counts track the current release. One row per non-MERFISH image file with channel metadata: file ID, Synapse entity, participant, diagnosis, centre, assay type, panel.
+- **Panels** come from inverting `classified_markers.json` by `ch_synids`. Each panel gets its harmonized `targets` and a `channels` map from target to the centre's own label.
+- **Library** is marker to protein name, UniProt accession, function and subcellular location, resolved from the cache in `uniprot_api.py`. `categories` carries the marker type, so the explorer's existing category filter works unchanged.
+
+Current run against Release 7.0:
+
+```
+files 5,982   participants 566   centres 13   assay types 11   diagnoses 24
+panels 616 of 714 referenced   markers 621, 474 of 543 protein markers with UniProt
+```
+
+Coverage is reported, not assumed. Panels the release references but the curation does not cover are listed in `coverage_report.json` with the file count they affect, so gaps surface instead of shipping as panels with no targets. Today 98 panels are uncovered, affecting 736 files, because stage 1.1 skipped the TSV files (issue #1).
 
 ## Supporting pieces
 
-- **`uniprot_api.py`** — UniProt REST client with a SQLite cache and a confidence score per match. Returns `UniProtEntry(accession, gene_name, protein_name, organism, subcellular_location, function, confidence_score)`. The cache (`data/cache/uniprot_cache.db`, 5MB, gitignored) is warm from the December runs.
-- **`cd_molecules.csv`** — 445 CD molecules with descriptions, used to resolve `cd_marker` entries that UniProt name search handles badly.
-- **`lookup_agent.py` / `lookup_claude.py`** — the same UniProt-lookup task written two ways, deliberately: `lookup_claude.py` drives a manual tool-use loop, `lookup_agent.py` uses the Claude Agent SDK. Useful as a side-by-side, not part of the pipeline.
+- **`uniprot_api.py`** UniProt REST client with a SQLite cache and a confidence score per match. Returns `UniProtEntry(accession, gene_name, protein_name, organism, subcellular_location, function, confidence_score)`. The cache (`data/cache/uniprot_cache.db`, gitignored) covers all 543 protein markers, so stage 3.1 runs offline and free.
+- **`cd_molecules.csv`** 445 CD molecules with descriptions, for `cd_marker` entries that UniProt name search handles badly.
+- **`lookup_agent.py` / `lookup_claude.py`** the same UniProt lookup written two ways, a manual tool-use loop and the Claude Agent SDK. A side-by-side comparison, not part of the pipeline.
 
 ## Running it
 
 ```bash
 uv venv && uv pip install -r requirements.txt
 cp .env.example .env    # add your ANTHROPIC_API_KEY
-uv run 1_1_scan_stage.py /path/to/htan_data -o staging_manifest.json
+uv run 0_1_fetch_htan_data.py --dry-run          # list what the release references
+uv run 0_1_fetch_htan_data.py -o htan_data       # download it
+uv run 1_1_scan_stage.py htan_data -o staging_manifest.json
+uv run 3_1_build_explorer_data.py --offline
 ```
 
-Stages 1.2, 2.2, 2.3 and the notebooks call the Anthropic API and cost money to run. Stage 1.1 and `uniprot_api.py` do not.
+Stages 1.2, 2.2, 2.3 and the notebooks call the Anthropic API and cost money. Stages 0.1, 1.1 and 3.1 do not. Stages 0.1 and 3.1 need BigQuery access to `htan-dcc`, and 0.1 needs a Synapse login; `--manifest-in` lets 3.1 reuse a previous manifest without BigQuery.
 
-**Verified** (September 2026): all seven modules parse and expose `--help`; stage 1.1 runs clean against the 617-file `htan_data/` directory; `uniprot_api.lookup_protein("CD8A")` returns 7 ranked hits with `P01732` scored 1.0 first.
+Useful stage 3.1 flags: `--entities-table` to point at a newer release, `--offline` for cached UniProt lookups only, `--min-confidence` for the UniProt acceptance floor (default 0.6, which accepts every non-empty match).
 
-## Known limitations
+## Notes
 
-- **Stages 1.2–2.3 are unexecuted.** They parse and their CLIs work, but the chain has never been run end to end. Expect to debug.
-- **Model IDs are pinned to December 2025** — `claude-3-5-sonnet-20241022` in stages 2.2 and 2.3, `claude-sonnet-4-5-20250929` in stage 1.2, `claude-haiku-4-5` in the notebooks. The first two are old enough to be worth replacing (current equivalents: `claude-sonnet-5`, `claude-haiku-4-5`) before any rerun. They are left as-is here so the code matches what produced the committed outputs.
-- **Structured outputs use the old shape.** The notebooks pass `output_format` with the `structured-outputs-2025-11-13` beta header. Structured outputs are now GA as `output_config: {format: {...}}` with no beta header.
-- **Hardcoded absolute defaults.** Several stages default `-i`/`-m` to paths under `/Users/ataylor/Downloads/ch_metadata_agent/`. Always pass paths explicitly.
-- **Stage 1.3's default manifest path** points inside `htan_data/` rather than at stage 1.1's actual output location. Pass `-m` explicitly.
-- **The notebooks are working notebooks** — outputs committed, cells out of order in places, exploratory dead ends left in.
-- **No tests.**
-
-## Next step
-
-Produce app-ready output. `classified_markers.json` has the markers and their provenance but not the joins the explorer needs: marker → panel, panel → file, file → participant/diagnosis/centre. v1's `restructure_antibodies.py` shows the target shape (`library.json`, `manifest.json`, `panels.json`) and is the thing to port onto this better-typed foundation.
+- Model IDs are pinned to December 2025: `claude-3-5-sonnet-20241022` in stages 2.2 and 2.3, `claude-sonnet-4-5-20250929` in 1.2, `claude-haiku-4-5` in the notebooks. Left as-is so the code matches what produced the committed outputs. Current equivalents are `claude-sonnet-5` and `claude-haiku-4-5`.
+- The notebooks use the old structured-output shape, `output_format` with the `structured-outputs-2025-11-13` beta header. Structured outputs are now GA as `output_config: {format: {...}}` with no header.
+- Several stages default `-i`/`-m` to absolute paths under `/Users/ataylor/Downloads/ch_metadata_agent/`. Pass paths explicitly. Stage 1.3's default manifest path points inside `htan_data/` rather than at stage 1.1's output.
+- Stage 1.1 globs `.csv` and `.xlsx` only, so the 97 tab-delimited files named `.txt` were never scanned and the 98 panels referencing them have no curated markers (issue #1).
+- No tests.
 
 ## Related
 
-- [`ncihtan/mif-explorer`](https://github.com/ncihtan/mif-explorer) — the explorer prototype these markers feed
-- [`adamjtaylor/ch_metadata_agent`](https://github.com/adamjtaylor/ch_metadata_agent) — v1 of this pipeline, whose output shipped in the explorer
+- [`ncihtan/mif-explorer`](https://github.com/ncihtan/mif-explorer) the explorer these data files feed
+- [`adamjtaylor/ch_metadata_agent`](https://github.com/adamjtaylor/ch_metadata_agent) v1 of this pipeline, whose output shipped in the explorer

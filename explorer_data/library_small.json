@@ -1,0 +1,2398 @@
+{
+  "9999": {
+    "protein_name": null,
+    "uniprot": null,
+    "function": null,
+    "location": [],
+    "categories": [
+      "other"
+    ],
+    "marker_type": "other",
+    "n_panels": 4,
+    "n_rows": 4
+  },
+  "ACTG1": {
+    "protein_name": "Actin, cytoplasmic 2",
+    "uniprot": "P63261",
+    "function": "Actins are highly conserved proteins that are involved in various types of cell motility and are ubiquitously expressed in all eukaryotic cells. May play a role in the repair of noise-induced stereocilia gaps thereby maintains hearing sensitivity following loud noise damage (By similarity)",
+    "location": [
+      "Cytoplasm, cytoskeleton"
+    ],
+    "categories": [
+      "protein_single"
+    ],
+    "marker_type": "protein_single",
+    "n_panels": 110,
+    "n_rows": 4,
+    "organism": "Homo sapiens",
+    "confidence": 1.0,
+    "gene_name": "ACTG1"
+  },
+  "AGR2": {
+    "protein_name": "Anterior gradient protein 2 homolog",
+    "uniprot": "O95994",
+    "function": "Required for MUC2 post-transcriptional synthesis and secretion. May play a role in the production of mucus by intestinal cells (By similarity). Proto-oncogene that may play a role in cell migration, cell differentiation and cell growth. Promotes cell adhesion (PubMed:23274113)",
+    "location": [
+      "Secreted",
+      "Endoplasmic reticulum"
+    ],
+    "categories": [
+      "protein_single"
+    ],
+    "marker_type": "protein_single",
+    "n_panels": 17,
+    "n_rows": 3,
+    "organism": "Homo sapiens",
+    "confidence": 1.0,
+    "gene_name": "AGR2"
+  },
+  "ASCL2": {
+    "protein_name": "Achaete-scute homolog 2",
+    "uniprot": "Q99929",
+    "function": "Transcription factor. Binds to E-box motifs 5'-CANNTG-3' in the regulatory elements of target genes, probably as a heterodimer with another basic helix-loop-helix (bHLH) protein such as the transcription factor TCF3. May bind both open and closed chromatin, acting as a pioneer transcription factor to allow other factors to bind and activate lineage-specific genes. Required during post-implantation development for the generation of some differentiated trophoblast cell types. Transcriptional activity of ASCL2 may be antagonised in a subset of trophoblast cells by bHLH transcription factor HAND1, perhaps by competing for dimerization with other bHLH proteins. Involved in differentiation and function of follicular T-helper (Tfh) cells, thereby playing a role in germinal center responses; probably modulates expression of genes involved in Tfh cell function, such as BCL6. May also act as a suppressor of Th1-, Th2- and Th17-cell differentiation. Induces the formation of stem cells in intestinal crypts in vitro, synergistically activating transcription of target genes, such as SOX9, together with TCF4/beta-catenin. May form a bistable transcriptional switch, controlling expression of its own gene together with Wnt/R-spondin signaling, and thereby maintaining stem cell characteristics (By similarity). Modulates expression of target genes, including perhaps down-regulating EGR1/Krox24 and chemokine CXCL10/Mob-1 and up-regulating CXCR4 and CDKN1C/p57kip2, in Schwann cells. May play a role in reducing proliferation of Schwann cells, perhaps acting via modulation of expression of CDKN1C (By similarity). May be dispensable for blastocyst formation and later embryonic function (By similarity). May be involved in the determination of neuronal precursors (By similarity)",
+    "location": [
+      "Nucleus"
+    ],
+    "categories": [
+      "protein_single"
+    ],
+    "marker_type": "protein_single",
+    "n_panels": 1,
+    "n_rows": 1,
+    "organism": "Homo sapiens",
+    "confidence": 1.0,
+    "gene_name": "ASCL2"
+  },
+  "ATP1B1": {
+    "protein_name": "Sodium/potassium-transporting ATPase subunit beta-1",
+    "uniprot": "P05026",
+    "function": "Non-catalytic subunit of the Na(+)/K(+)-ATPase pump that hydrolyzes ATP to exchange ions across the plasma membrane, exporting 3 Na(+) and importing 2 K(+) per cycle against electrochemical gradients. The beta subunit is important for the folding, stability, and targeting of the Na(+)/K(+)-ATPase pump to the plasma membranes (By similarity). In addition, acts as a homotypic cell adhesion molecule in epithelia cells. Interactions between ATP1B1 on neighboring cells are critical for proper lateral polarization of the Na(+)/K(+)-ATPase pump and for stabilizing cell-cell adhesion (By similarity). Plays a role in innate immunity by enhancing virus-triggered induction of interferons (IFNs) and interferon stimulated genes (ISGs). Mechanistically, enhances the ubiquitination of TRAF3 and TRAF6 as well as the phosphorylation of TAK1 and TBK1 (PubMed:34011520)",
+    "location": [
+      "Cell membrane",
+      "Apical cell membrane",
+      "Cell membrane, sarcolemma"
+    ],
+    "categories": [
+      "protein_single"
+    ],
+    "marker_type": "protein_single",
+    "n_panels": 1,
+    "n_rows": 1,
+    "organism": "Homo sapiens",
+    "confidence": 1.0,
+    "gene_name": "ATP1B1"
+  },
+  "Alpha": {
+    "protein_name": null,
+    "uniprot": null,
+    "function": null,
+    "location": [],
+    "categories": [
+      "other"
+    ],
+    "marker_type": "other",
+    "n_panels": 1,
+    "n_rows": 1
+  },
+  "Alpha-actinin 4": {
+    "protein_name": "Alpha-actinin-4",
+    "uniprot": "O43707",
+    "function": "F-actin cross-linking protein which is thought to anchor actin to a variety of intracellular structures. This is a bundling protein (Probable). Probably involved in vesicular trafficking via its association with the CART complex. The CART complex is necessary for efficient transferrin receptor recycling but not for EGFR degradation (PubMed:15772161). Involved in tight junction assembly in epithelial cells probably through interaction with MICALL2. Links MICALL2 to the actin cytoskeleton and recruits it to the tight junctions (By similarity). May also function as a transcriptional coactivator, stimulating transcription mediated by the nuclear hormone receptors PPARG and RARA (PubMed:22351778). Association with IGSF8 regulates the immune synapse formation and is required for efficient T-cell activation (PubMed:22689882)",
+    "location": [
+      "Nucleus",
+      "Cytoplasm",
+      "Cell junction",
+      "Cytoplasm, cytoskeleton, stress fiber",
+      "Cytoplasm, perinuclear region"
+    ],
+    "categories": [
+      "protein_single"
+    ],
+    "marker_type": "protein_single",
+    "n_panels": 178,
+    "n_rows": 3,
+    "organism": "Homo sapiens",
+    "confidence": 0.6,
+    "gene_name": "ACTN4"
+  },
+  "BACH1": {
+    "protein_name": "Transcription regulator protein BACH1",
+    "uniprot": "O14867",
+    "function": "Transcriptional regulator that acts as a repressor or activator, depending on the context. Binds to NF-E2 DNA binding sites. Plays important roles in coordinating transcription activation and repression by MAFK (By similarity). Together with MAF, represses the transcription of genes under the control of the NFE2L2 oxidative stress pathway (PubMed:24035498)",
+    "location": [
+      "Nucleus"
+    ],
+    "categories": [
+      "protein_single"
+    ],
+    "marker_type": "protein_single",
+    "n_panels": 1,
+    "n_rows": 1,
+    "organism": "Homo sapiens",
+    "confidence": 1.0,
+    "gene_name": "BACH1"
+  },
+  "BCL2": {
+    "protein_name": "Apoptosis regulator Bcl-2",
+    "uniprot": "P10415",
+    "function": "Suppresses apoptosis in a variety of cell systems including factor-dependent lymphohematopoietic and neural cells (PubMed:1508712, PubMed:8183370). Regulates cell death by controlling the mitochondrial membrane permeability (PubMed:11368354). Appears to function in a feedback loop system with caspases (PubMed:11368354). Inhibits caspase activity either by preventing the release of cytochrome c from the mitochondria and/or by binding to the apoptosis-activating factor (APAF-1) (PubMed:11368354). Also acts as an inhibitor of autophagy: interacts with BECN1 and AMBRA1 during non-starvation conditions and inhibits their autophagy function (PubMed:18570871, PubMed:20889974, PubMed:21358617). May attenuate inflammation by impairing NLRP1-inflammasome activation, hence CASP1 activation and IL1B release (PubMed:17418785)",
+    "location": [
+      "Mitochondrion outer membrane",
+      "Nucleus membrane",
+      "Endoplasmic reticulum membrane",
+      "Cytoplasm"
+    ],
+    "categories": [
+      "protein_single"
+    ],
+    "marker_type": "protein_single",
+    "n_panels": 13,
+    "n_rows": 6,
+    "organism": "Homo sapiens",
+    "confidence": 1.0,
+    "gene_name": "BCL2"
+  },
+  "BEST4": {
+    "protein_name": "Bestrophin-4",
+    "uniprot": "Q8NFU0",
+    "function": "Ligand-gated anion channel that allows the movement of anions across cell membranes when activated by Calcium (Ca2+) (PubMed:12907679, PubMed:18400985). Mediates the movement of hydrogencarbonate and chloride (PubMed:12907679, PubMed:18400985)",
+    "location": [
+      "Cell membrane"
+    ],
+    "categories": [
+      "protein_single"
+    ],
+    "marker_type": "protein_single",
+    "n_panels": 5,
+    "n_rows": 2,
+    "organism": "Homo sapiens",
+    "confidence": 1.0,
+    "gene_name": "BEST4"
+  },
+  "BMI1": {
+    "protein_name": "Polycomb complex protein BMI-1",
+    "uniprot": "P35226",
+    "function": "Component of a Polycomb group (PcG) multiprotein PRC1-like complex, a complex class required to maintain the transcriptionally repressive state of many genes, including Hox genes, throughout development. PcG PRC1 complex acts via chromatin remodeling and modification of histones; it mediates monoubiquitination of histone H2A 'Lys-119', rendering chromatin heritably changed in its expressibility (PubMed:15386022, PubMed:16359901, PubMed:16714294, PubMed:21772249, PubMed:25355358, PubMed:26151332, PubMed:27827373). The complex composed of RNF2, UB2D3 and BMI1 binds nucleosomes, and has activity only with nucleosomal histone H2A (PubMed:21772249, PubMed:25355358). In the PRC1-like complex, regulates the E3 ubiquitin-protein ligase activity of RNF2/RING2 (PubMed:15386022, PubMed:21772249, PubMed:26151332)",
+    "location": [
+      "Nucleus",
+      "Cytoplasm"
+    ],
+    "categories": [
+      "protein_single"
+    ],
+    "marker_type": "protein_single",
+    "n_panels": 6,
+    "n_rows": 2,
+    "organism": "Homo sapiens",
+    "confidence": 1.0,
+    "gene_name": "BMI1"
+  },
+  "BMX": {
+    "protein_name": "Cytoplasmic tyrosine-protein kinase BMX",
+    "uniprot": "P51813",
+    "function": "Non-receptor tyrosine kinase that plays central but diverse modulatory roles in various signaling processes involved in the regulation of actin reorganization, cell migration, cell proliferation and survival, cell adhesion, and apoptosis. Participates in signal transduction stimulated by growth factor receptors, cytokine receptors, G protein-coupled receptors, antigen receptors and integrins. Induces tyrosine phosphorylation of BCAR1 in response to integrin regulation. Activation of BMX by integrins is mediated by PTK2/FAK1, a key mediator of integrin signaling events leading to the regulation of actin cytoskeleton and cell motility. Plays a critical role in TNF-induced angiogenesis, and implicated in the signaling of TEK and FLT1 receptors, 2 important receptor families essential for angiogenesis. Required for the phosphorylation and activation of STAT3, a transcription factor involved in cell differentiation. Also involved in interleukin-6 (IL6) induced differentiation. Also plays a role in programming adaptive cytoprotection against extracellular stress in different cell systems, salivary epithelial cells, brain endothelial cells, and dermal fibroblasts. May be involved in regulation of endocytosis through its interaction with an endosomal protein RUFY1. May also play a role in the growth and differentiation of hematopoietic cells; as well as in signal transduction in endocardial and arterial endothelial cells",
+    "location": [
+      "Cytoplasm"
+    ],
+    "categories": [
+      "protein_single"
+    ],
+    "marker_type": "protein_single",
+    "n_panels": 30,
+    "n_rows": 3,
+    "organism": "Homo sapiens",
+    "confidence": 1.0,
+    "gene_name": "BMX"
+  },
+  "Beta-Catenin": {
+    "protein_name": "Catenin beta-1",
+    "uniprot": "P35222",
+    "function": "Key downstream component of the canonical Wnt signaling pathway (PubMed:17524503, PubMed:18077326, PubMed:18086858, PubMed:18957423, PubMed:21262353, PubMed:22155184, PubMed:22647378, PubMed:22699938). In the absence of Wnt, forms a complex with AXIN1, AXIN2, APC, CSNK1A1 and GSK3B that promotes phosphorylation on N-terminal Ser and Thr residues and ubiquitination of CTNNB1 via BTRC and its subsequent degradation by the proteasome (PubMed:17524503, PubMed:18077326, PubMed:18086858, PubMed:18957423, PubMed:21262353, PubMed:22155184, PubMed:22647378, PubMed:22699938). In the presence of Wnt ligand, CTNNB1 is not ubiquitinated and accumulates in the nucleus, where it acts as a coactivator for transcription factors of the TCF/LEF family, leading to activate Wnt responsive genes (PubMed:17524503, PubMed:18077326, PubMed:18086858, PubMed:18957423, PubMed:21262353, PubMed:22155184, PubMed:22647378, PubMed:22699938). Also acts as a coactivator for other transcription factors, such as NR5A2 (PubMed:22187462). Promotes epithelial to mesenchymal transition/mesenchymal to epithelial transition (EMT/MET) via driving transcription of CTNNB1/TCF-target genes (PubMed:29910125). Involved in the regulation of cell adhesion, as component of an E-cadherin:catenin adhesion complex (By similarity). Acts as a negative regulator of centrosome cohesion (PubMed:18086858). Involved in the CDK2/PTPN6/CTNNB1/CEACAM1 pathway of insulin internalization (PubMed:21262353). Blocks anoikis of malignant kidney and intestinal epithelial cells and promotes their anchorage-independent growth by down-regulating DAPK2 (PubMed:18957423). Disrupts PML function and PML-NB formation by inhibiting RANBP2-mediated sumoylation of PML (PubMed:22155184). Promotes neurogenesis by maintaining sympathetic neuroblasts within the cell cycle (By similarity). Involved in chondrocyte differentiation via interaction with SOX9: SOX9-binding competes with the binding sites of TCF/LEF within CTNNB1, thereby inhibiting the Wnt signaling (By similarity). Acts as a positive regulator of odontoblast differentiation during mesenchymal tooth germ formation, via promoting the transcription of differentiation factors such as LEF1, BMP2 and BMP4 (By similarity). Activity is repressed in a MSX1-mediated manner at the bell stage of mesenchymal tooth germ formation which prevents premature differentiation of odontoblasts (By similarity)",
+    "location": [
+      "Cytoplasm",
+      "Nucleus",
+      "Cytoplasm, cytoskeleton",
+      "Cell junction, adherens junction",
+      "Cell junction",
+      "Cell membrane",
+      "Cytoplasm, cytoskeleton, microtubule organizing center, centrosome",
+      "Cytoplasm, cytoskeleton, spindle pole",
+      "Synapse",
+      "Cytoplasm, cytoskeleton, cilium basal body"
+    ],
+    "categories": [
+      "protein_single"
+    ],
+    "marker_type": "protein_single",
+    "n_panels": 257,
+    "n_rows": 7,
+    "organism": "Homo sapiens",
+    "confidence": 0.6,
+    "gene_name": "CTNNB1"
+  },
+  "Blank": {
+    "protein_name": null,
+    "uniprot": null,
+    "function": null,
+    "location": [],
+    "categories": [
+      "blank_or_background"
+    ],
+    "marker_type": "blank_or_background",
+    "n_panels": 25,
+    "n_rows": 63
+  },
+  "CA1": {
+    "protein_name": null,
+    "uniprot": null,
+    "function": null,
+    "location": [],
+    "categories": [
+      "other"
+    ],
+    "marker_type": "other",
+    "n_panels": 25,
+    "n_rows": 2
+  },
+  "CA7": {
+    "protein_name": null,
+    "uniprot": null,
+    "function": null,
+    "location": [],
+    "categories": [
+      "other"
+    ],
+    "marker_type": "other",
+    "n_panels": 26,
+    "n_rows": 2
+  },
+  "CD117": {
+    "protein_name": "Mast/stem cell growth factor receptor Kit",
+    "uniprot": "P10721",
+    "function": "Tyrosine-protein kinase that acts as a cell-surface receptor for the cytokine KITLG/SCF and plays an essential role in the regulation of cell survival and proliferation, hematopoiesis, stem cell maintenance, gametogenesis, mast cell development, migration and function, and in melanogenesis. In response to KITLG/SCF binding, KIT can activate several signaling pathways. Phosphorylates PIK3R1, PLCG1, SH2B2/APS and CBL. Activates the AKT1 signaling pathway by phosphorylation of PIK3R1, the regulatory subunit of phosphatidylinositol 3-kinase. Activated KIT also transmits signals via GRB2 and activation of RAS, RAF1 and the MAP kinases MAPK1/ERK2 and/or MAPK3/ERK1. Promotes activation of STAT family members STAT1, STAT3, STAT5A and STAT5B. Activation of PLCG1 leads to the production of the cellular signaling molecules diacylglycerol and inositol 1,4,5-trisphosphate. KIT signaling is modulated by protein phosphatases, and by rapid internalization and degradation of the receptor. Activated KIT promotes phosphorylation of the protein phosphatases PTPN6/SHP-1 and PTPRU, and of the transcription factors STAT1, STAT3, STAT5A and STAT5B. Promotes phosphorylation of PIK3R1, CBL, CRK (isoform Crk-II), LYN, MAPK1/ERK2 and/or MAPK3/ERK1, PLCG1, SRC and SHC1",
+    "location": [
+      "Cell membrane",
+      "Cell membrane",
+      "Cytoplasm"
+    ],
+    "categories": [
+      "cd_marker"
+    ],
+    "marker_type": "cd_marker",
+    "n_panels": 32,
+    "n_rows": 6,
+    "organism": "Homo sapiens",
+    "confidence": 0.6,
+    "gene_name": "KIT"
+  },
+  "CD11B": {
+    "protein_name": "Integrin alpha-M",
+    "uniprot": "P11215",
+    "function": "Integrin ITGAM/ITGB2 is implicated in various adhesive interactions of monocytes, macrophages and granulocytes as well as in mediating the uptake of complement-coated particles and pathogens (PubMed:20008295, PubMed:9558116). It is identical with CR-3, the receptor for the iC3b fragment of the third complement component. It probably recognizes the R-G-D peptide in C3b. Integrin ITGAM/ITGB2 is also a receptor for fibrinogen and factor X. It recognizes P1 and P2 peptides of fibrinogen gamma chain. Regulates neutrophil migration (PubMed:28807980). In association with beta subunit ITGB2/CD18, required for CD177-PRTN3-mediated activation of TNF primed neutrophils (PubMed:21193407). Integrin ITGAM/ITGB2 is also a receptor for ICAM1 ligand ensuring adhesion between stimulated neutrophils and stimulated endothelial cells (PubMed:1980124). May regulate phagocytosis-induced apoptosis in extravasated neutrophils (By similarity). May play a role in mast cell development (By similarity). Required with TYROBP/DAP12 in microglia to control production of microglial superoxide ions which promote the neuronal apoptosis that occurs during brain development (By similarity)",
+    "location": [
+      "Cell membrane",
+      "Membrane raft"
+    ],
+    "categories": [
+      "cd_marker"
+    ],
+    "marker_type": "cd_marker",
+    "n_panels": 454,
+    "n_rows": 55,
+    "organism": "Homo sapiens",
+    "confidence": 0.6,
+    "gene_name": "ITGAM"
+  },
+  "CD11c": {
+    "protein_name": "Integrin alpha-X",
+    "uniprot": "P20702",
+    "function": "Integrin alpha-X/beta-2 is a receptor for fibrinogen. It recognizes the sequence G-P-R in fibrinogen. It mediates cell-cell interaction during inflammatory responses. It is especially important in monocyte adhesion and chemotaxis. Functions as a receptor of the erythrocyte-specific adhesion molecule ICAM4 and mediates erythrophagocytosis (PubMed:16985175)",
+    "location": [
+      "Cell membrane"
+    ],
+    "categories": [
+      "cd_marker"
+    ],
+    "marker_type": "cd_marker",
+    "n_panels": 182,
+    "n_rows": 62,
+    "organism": "Homo sapiens",
+    "confidence": 0.6,
+    "gene_name": "ITGAX"
+  },
+  "CD14": {
+    "protein_name": "Monocyte differentiation antigen CD14",
+    "uniprot": "P08571",
+    "function": "Coreceptor for bacterial lipopolysaccharide (PubMed:1698311, PubMed:23264655). In concert with LBP, binds to monomeric lipopolysaccharide and delivers it to the LY96/TLR4 complex, thereby mediating the innate immune response to bacterial lipopolysaccharide (LPS) (PubMed:20133493, PubMed:22265692, PubMed:23264655). Acts via MyD88, TIRAP and TRAF6, leading to NF-kappa-B activation, cytokine secretion and the inflammatory response (PubMed:8612135). Acts as a coreceptor for TLR2:TLR6 heterodimer in response to diacylated lipopeptides and for TLR2:TLR1 heterodimer in response to triacylated lipopeptides, these clusters trigger signaling from the cell surface and subsequently are targeted to the Golgi in a lipid-raft dependent pathway (PubMed:16880211). Binds electronegative LDL (LDL(-)) and mediates the cytokine release induced by LDL(-) (PubMed:23880187)",
+    "location": [
+      "Cell membrane",
+      "Secreted",
+      "Membrane raft",
+      "Golgi apparatus"
+    ],
+    "categories": [
+      "cd_marker"
+    ],
+    "marker_type": "cd_marker",
+    "n_panels": 29,
+    "n_rows": 15,
+    "organism": "Homo sapiens",
+    "confidence": 1.0,
+    "gene_name": "CD14"
+  },
+  "CD15": {
+    "protein_name": "Alpha-(1,3)-fucosyltransferase 4",
+    "uniprot": "P22083",
+    "function": "Catalyzes alpha(1->3) linkage of fucosyl moiety transferred from GDP-beta-L-fucose to N-acetyl glucosamine (GlcNAc) within type 2 lactosamine (LacNAc, Gal-beta(1->4)GlcNAc) glycan attached to N- or O-linked glycoproteins (PubMed:1702034, PubMed:1716630, PubMed:29593094). Robustly fucosylates nonsialylated distal LacNAc unit of the polylactosamine chain to form Lewis X antigen (CD15), a glycan determinant known to mediate important cellular functions in development and immunity. Fucosylates with lower efficiency sialylated LacNAc acceptors to form sialyl Lewis X and 6-sulfo sialyl Lewis X determinants that serve as recognition epitopes for C-type lectins (PubMed:1716630, PubMed:29593094). Together with FUT7 contributes to SELE, SELL and SELP selectin ligand biosynthesis and selectin-dependent lymphocyte homing, leukocyte migration and blood leukocyte homeostasis (By similarity). In a cell type specific manner, may also fucosylate the internal LacNAc unit of the polylactosamine chain to form VIM-2 antigen that serves as recognition epitope for SELE (PubMed:11278338, PubMed:1716630)",
+    "location": [
+      "Golgi apparatus, Golgi stack membrane"
+    ],
+    "categories": [
+      "cd_marker"
+    ],
+    "marker_type": "cd_marker",
+    "n_panels": 10,
+    "n_rows": 6,
+    "organism": "Homo sapiens",
+    "confidence": 0.6,
+    "gene_name": "FUT4"
+  },
+  "CD163": {
+    "protein_name": "Scavenger receptor cysteine-rich type 1 protein M130",
+    "uniprot": "Q86VB7",
+    "function": "Acute phase-regulated receptor involved in clearance and endocytosis of hemoglobin/haptoglobin complexes by macrophages and may thereby protect tissues from free hemoglobin-mediated oxidative damage. May play a role in the uptake and recycling of iron, via endocytosis of hemoglobin/haptoglobin and subsequent breakdown of heme. Binds hemoglobin/haptoglobin complexes in a calcium-dependent and pH-dependent manner. Exhibits a higher affinity for complexes of hemoglobin and multimeric haptoglobin of HP*1F phenotype than for complexes of hemoglobin and dimeric haptoglobin of HP*1S phenotype. Induces a cascade of intracellular signals that involves tyrosine kinase-dependent calcium mobilization, inositol triphosphate production and secretion of IL6 and CSF1. Isoform 3 exhibits the higher capacity for ligand endocytosis and the more pronounced surface expression when expressed in cells",
+    "location": [
+      "Secreted",
+      "Cell membrane"
+    ],
+    "categories": [
+      "cd_marker"
+    ],
+    "marker_type": "cd_marker",
+    "n_panels": 180,
+    "n_rows": 62,
+    "organism": "Homo sapiens",
+    "confidence": 1.0,
+    "gene_name": "CD163"
+  },
+  "CD19": {
+    "protein_name": "B-lymphocyte antigen CD19",
+    "uniprot": "P15391",
+    "function": "Functions as a coreceptor for the B-cell antigen receptor complex (BCR) on B-lymphocytes (PubMed:29523808). Decreases the threshold for activation of downstream signaling pathways and for triggering B-cell responses to antigens (PubMed:1373518, PubMed:16672701, PubMed:2463100). Activates signaling pathways that lead to the activation of phosphatidylinositol 3-kinase and the mobilization of intracellular Ca(2+) stores (PubMed:12387743, PubMed:16672701, PubMed:9317126, PubMed:9382888). Is not required for early steps during B cell differentiation in the blood marrow (PubMed:9317126). Required for normal differentiation of B-1 cells (By similarity). Required for normal B cell differentiation and proliferation in response to antigen challenges (PubMed:1373518, PubMed:2463100). Required for normal levels of serum immunoglobulins, and for production of high-affinity antibodies in response to antigen challenge (PubMed:12387743, PubMed:16672701, PubMed:9317126)",
+    "location": [
+      "Cell membrane",
+      "Membrane raft"
+    ],
+    "categories": [
+      "cd_marker"
+    ],
+    "marker_type": "cd_marker",
+    "n_panels": 32,
+    "n_rows": 6,
+    "organism": "Homo sapiens",
+    "confidence": 1.0,
+    "gene_name": "CD19"
+  },
+  "CD20": {
+    "protein_name": "B-lymphocyte antigen CD20",
+    "uniprot": "P11836",
+    "function": "B-lymphocyte-specific membrane protein that plays a role in the regulation of cellular calcium influx necessary for the development, differentiation, and activation of B-lymphocytes (PubMed:12920111, PubMed:3925015, PubMed:7684739). Functions as a store-operated calcium (SOC) channel component promoting calcium influx after activation by the B-cell receptor/BCR (PubMed:12920111, PubMed:18474602, PubMed:7684739)",
+    "location": [
+      "Cell membrane",
+      "Cell membrane"
+    ],
+    "categories": [
+      "cd_marker"
+    ],
+    "marker_type": "cd_marker",
+    "n_panels": 513,
+    "n_rows": 83,
+    "organism": "Homo sapiens",
+    "confidence": 0.6,
+    "gene_name": "MS4A1"
+  },
+  "CD206": {
+    "protein_name": "Macrophage mannose receptor 1",
+    "uniprot": "P22897",
+    "function": "Mediates the endocytosis of glycoproteins by macrophages. Binds both sulfated and non-sulfated polysaccharide chains",
+    "location": [
+      "Endosome membrane",
+      "Cell membrane"
+    ],
+    "categories": [
+      "cd_marker"
+    ],
+    "marker_type": "cd_marker",
+    "n_panels": 31,
+    "n_rows": 4,
+    "organism": "Homo sapiens",
+    "confidence": 0.6,
+    "gene_name": "MRC1"
+  },
+  "CD21": {
+    "protein_name": "Complement receptor type 2",
+    "uniprot": "P20023",
+    "function": "Serves as a receptor for various ligands including complement component CD3d, HNRNPU OR IFNA1 (PubMed:1849076, PubMed:21527715, PubMed:7753047). When C3d is bound to antigens, attaches to C3d on B-cell surface and thereby facilitates the recognition and uptake of antigens by B-cells (PubMed:21527715). This interaction enhances B-cell activation and subsequent immune responses. Forms a complex with several partners on the surface of B-cells including CD19, FCRL5 and CD81, to form the B-cell coreceptor complex that plays a crucial role in B-cell activation and signaling (PubMed:1383329, PubMed:30107486). Also induces specific intracellular signaling separately from the BCR and CD19 by activating the tyrosine kinase SRC, which then phosphorylates nucleolin/NCL and triggers AKT and GSK3 kinase activities in a SYK/CD19-independent manner (PubMed:12938232). Acts as a ligand for CD23 (FcepsilonRII), a low-affinity receptor for IgE, which is expressed on B-cells and other immune cells, and thus participates in the regulation of IgE production (PubMed:1386409)",
+    "location": [
+      "Cell membrane"
+    ],
+    "categories": [
+      "cd_marker"
+    ],
+    "marker_type": "cd_marker",
+    "n_panels": 48,
+    "n_rows": 9,
+    "organism": "Homo sapiens",
+    "confidence": 0.6,
+    "gene_name": "CR2"
+  },
+  "CD24": {
+    "protein_name": "Signal transducer CD24",
+    "uniprot": "P25063",
+    "function": "May have a pivotal role in cell differentiation of different cell types. Signaling could be triggered by the binding of a lectin-like ligand to the CD24 carbohydrates, and transduced by the release of second messengers derived from the GPI-anchor. Modulates B-cell activation responses. Promotes AG-dependent proliferation of B-cells, and prevents their terminal differentiation into antibody-forming cells (PubMed:11313396). In association with SIGLEC10 may be involved in the selective suppression of the immune response to danger-associated molecular patterns (DAMPs) such as HMGB1, HSP70 and HSP90. Plays a role in the control of autoimmunity (By similarity)",
+    "location": [
+      "Cell membrane"
+    ],
+    "categories": [
+      "cd_marker"
+    ],
+    "marker_type": "cd_marker",
+    "n_panels": 4,
+    "n_rows": 2,
+    "organism": "Homo sapiens",
+    "confidence": 1.0,
+    "gene_name": "CD24"
+  },
+  "CD244": {
+    "protein_name": "Natural killer cell receptor 2B4",
+    "uniprot": "Q9BZW8",
+    "function": "Heterophilic receptor of the signaling lymphocytic activation molecule (SLAM) family; its ligand is CD48. SLAM receptors triggered by homo- or heterotypic cell-cell interactions are modulating the activation and differentiation of a wide variety of immune cells and thus are involved in the regulation and interconnection of both innate and adaptive immune response. Activities are controlled by presence or absence of small cytoplasmic adapter proteins, SH2D1A/SAP and/or SH2D1B/EAT-2. Acts as activating natural killer (NK) cell receptor (PubMed:10359122, PubMed:11714776, PubMed:8376943). Activating function implicates association with SH2D1A and FYN (PubMed:15713798). Downstreaming signaling involves predominantly VAV1, and, to a lesser degree, INPP5D/SHIP1 and CBL. Signal attenuation in the absence of SH2D1A is proposed to be dependent on INPP5D and to a lesser extent PTPN6/SHP-1 and PTPN11/SHP-2 (PubMed:10934222, PubMed:15713798). Stimulates NK cell cytotoxicity, production of IFN-gamma and granule exocytosis (PubMed:11714776, PubMed:8376943). Optimal expansion and activation of NK cells seems to be dependent on the engagement of CD244 with CD48 expressed on neighboring NK cells (By similarity). Acts as costimulator in NK activation by enhancing signals by other NK receptors such as NCR3 and NCR1 (PubMed:10741393). At early stages of NK cell differentiation may function as an inhibitory receptor possibly ensuring the self-tolerance of developing NK cells (PubMed:11917118). Involved in the regulation of CD8(+) T-cell proliferation; expression on activated T-cells and binding to CD48 provides costimulatory-like function for neighboring T-cells (By similarity). Inhibits inflammatory responses in dendritic cells (DCs) (By similarity)",
+    "location": [
+      "Membrane",
+      "Cell membrane",
+      "Membrane raft"
+    ],
+    "categories": [
+      "cd_marker"
+    ],
+    "marker_type": "cd_marker",
+    "n_panels": 29,
+    "n_rows": 3,
+    "organism": "Homo sapiens",
+    "confidence": 1.0,
+    "gene_name": "CD244"
+  },
+  "CD25": {
+    "protein_name": "Interleukin-2 receptor subunit alpha",
+    "uniprot": "P01589",
+    "function": "Receptor for interleukin-2. The receptor is involved in the regulation of immune tolerance by controlling regulatory T cells (TREGs) activity. TREGs suppress the activation and expansion of autoreactive T-cells",
+    "location": [
+      "Membrane"
+    ],
+    "categories": [
+      "cd_marker"
+    ],
+    "marker_type": "cd_marker",
+    "n_panels": 20,
+    "n_rows": 8,
+    "organism": "Homo sapiens",
+    "confidence": 0.6,
+    "gene_name": "IL2RA"
+  },
+  "CD279": {
+    "protein_name": "Programmed cell death protein 1",
+    "uniprot": "Q15116",
+    "function": "Inhibitory receptor on antigen activated T-cells that plays a critical role in induction and maintenance of immune tolerance to self (PubMed:21276005, PubMed:31754127, PubMed:32184441, PubMed:37208329). Delivers inhibitory signals upon binding to ligands CD274/PDCD1L1 and CD273/PDCD1LG2 (PubMed:21276005, PubMed:26602187). Following T-cell receptor (TCR) engagement, PDCD1 associates with TCR-CD3 in the immunological synapse and directly inhibits T-cell activation (PubMed:32184441). Suppresses T-cell activation through the recruitment of PTPN11/SHP-2: following ligand-binding, PDCD1 is phosphorylated within the ITSM motif, leading to the recruitment of the protein tyrosine phosphatase PTPN11/SHP-2 that mediates dephosphorylation of key TCR proximal signaling molecules, such as ZAP70, PRKCQ/PKCtheta and CD247/CD3zeta (PubMed:32184441)",
+    "location": [
+      "Cell membrane"
+    ],
+    "categories": [
+      "cd_marker"
+    ],
+    "marker_type": "cd_marker",
+    "n_panels": 13,
+    "n_rows": 6,
+    "organism": "Homo sapiens",
+    "confidence": 0.6,
+    "gene_name": "PDCD1"
+  },
+  "CD3": {
+    "protein_name": "T-cell surface glycoprotein CD3 delta chain",
+    "uniprot": "P04234",
+    "function": "Part of the TCR-CD3 complex present on T-lymphocyte cell surface that plays an essential role in adaptive immune response. When antigen presenting cells (APCs) activate T-cell receptor (TCR), TCR-mediated signals are transmitted across the cell membrane by the CD3 chains CD3D, CD3E, CD3G and CD247/CD3Z. All CD3 chains contain immunoreceptor tyrosine-based activation motifs (ITAMs) in their cytoplasmic domain. Upon TCR engagement, these motifs become phosphorylated by Src family protein tyrosine kinases LCK and FYN, resulting in the activation of downstream signaling pathways (PubMed:2470098). In addition of this role of signal transduction in T-cell activation, CD3D plays an essential role in thymocyte differentiation. Indeed, participates in correct intracellular TCR-CD3 complex assembly and surface expression. In absence of a functional TCR-CD3 complex, thymocytes are unable to differentiate properly. Interacts with CD4 and CD8 and thus serves to establish a functional link between the TCR and coreceptors CD4 and CD8, which is needed for activation and positive selection of CD4 or CD8 T-cells (PubMed:12215456)",
+    "location": [
+      "Cell membrane"
+    ],
+    "categories": [
+      "cd_marker"
+    ],
+    "marker_type": "cd_marker",
+    "n_panels": 149,
+    "n_rows": 64,
+    "organism": "Homo sapiens",
+    "confidence": 0.8,
+    "gene_name": "CD3D"
+  },
+  "CD31": {
+    "protein_name": "Platelet endothelial cell adhesion molecule",
+    "uniprot": "P16284",
+    "function": "Cell adhesion molecule which is required for leukocyte transendothelial migration (TEM) under most inflammatory conditions (PubMed:17580308, PubMed:19342684). Tyr-690 plays a critical role in TEM and is required for efficient trafficking of PECAM1 to and from the lateral border recycling compartment (LBRC) and is also essential for the LBRC membrane to be targeted around migrating leukocytes (PubMed:19342684). Trans-homophilic interaction may play a role in endothelial cell-cell adhesion via cell junctions (PubMed:27958302). Heterophilic interaction with CD177 plays a role in transendothelial migration of neutrophils (PubMed:17580308). Homophilic ligation of PECAM1 prevents macrophage-mediated phagocytosis of neighboring viable leukocytes by transmitting a detachment signal (PubMed:12110892). Promotes macrophage-mediated phagocytosis of apoptotic leukocytes by tethering them to the phagocytic cells; PECAM1-mediated detachment signal appears to be disabled in apoptotic leukocytes (PubMed:12110892). Modulates bradykinin receptor BDKRB2 activation (PubMed:18672896). Regulates bradykinin- and hyperosmotic shock-induced ERK1/2 activation in endothelial cells (PubMed:18672896). Induces susceptibility to atherosclerosis (By similarity)",
+    "location": [
+      "Cell membrane",
+      "Cell membrane",
+      "Membrane raft",
+      "Cell junction",
+      "Cell junction"
+    ],
+    "categories": [
+      "cd_marker"
+    ],
+    "marker_type": "cd_marker",
+    "n_panels": 278,
+    "n_rows": 49,
+    "organism": "Homo sapiens",
+    "confidence": 0.6,
+    "gene_name": "PECAM1"
+  },
+  "CD33": {
+    "protein_name": "Myeloid cell surface antigen CD33",
+    "uniprot": "P20138",
+    "function": "Sialic-acid-binding immunoglobulin-like lectin (Siglec) that plays a role in mediating cell-cell interactions and in maintaining immune cells in a resting state (PubMed:10611343, PubMed:11320212, PubMed:15597323). Preferentially recognizes and binds alpha-2,3- and more avidly alpha-2,6-linked sialic acid-bearing glycans (PubMed:7718872). Upon engagement of ligands such as C1q or syalylated glycoproteins, two immunoreceptor tyrosine-based inhibitory motifs (ITIMs) located in CD33 cytoplasmic tail are phosphorylated by Src-like kinases such as LCK (PubMed:10887109, PubMed:28325905). These phosphorylations provide docking sites for the recruitment and activation of protein-tyrosine phosphatases PTPN6/SHP-1 and PTPN11/SHP-2 (PubMed:10206955, PubMed:10556798, PubMed:10887109). In turn, these phosphatases regulate downstream pathways through dephosphorylation of signaling molecules (PubMed:10206955, PubMed:10887109). One of the repressive effect of CD33 on monocyte activation requires phosphoinositide 3-kinase/PI3K (PubMed:15597323)",
+    "location": [
+      "Cell membrane",
+      "Peroxisome"
+    ],
+    "categories": [
+      "cd_marker"
+    ],
+    "marker_type": "cd_marker",
+    "n_panels": 4,
+    "n_rows": 3,
+    "organism": "Homo sapiens",
+    "confidence": 1.0,
+    "gene_name": "CD33"
+  },
+  "CD38": {
+    "protein_name": "ADP-ribosyl cyclase/cyclic ADP-ribose hydrolase 1",
+    "uniprot": "P28907",
+    "function": "Multifunctional transmembrane glycoprotein able to exert enzymatic activities and also to mobilize calcium, to transduce signals, to adhere to hyaluronan and to other ligands. Synthesizes cyclic ADP-ribose (cADPR), a second messenger for glucose-induced insulin secretion (PubMed:7961800, PubMed:8253715). Synthesizes the Ca(2+) mobilizer nicotinate-adenine dinucleotide phosphate, NAADP(+), from 2'-phospho-cADPR and nicotinic acid, as well as from NADP(+) and nicotinic acid. At both pH 5.0 and pH 7.4 preferentially transforms 2'-phospho-cADPR into NAADP(+), while preferentially cleaving NADP(+) to cADPR and ADPRP rather than into NADDP(+) (PubMed:16690024). Has cADPR hydrolase activity (PubMed:7961800, PubMed:8253715). Functions also as a receptor that binds the ligand CD31 on endothelial cells, promoting lymphocyte activation, proliferation, and migration across the endothelial barrier (PubMed:9551996). Involved in the regulation of crucial dendritic cell functions acquired at the mature stage, such as CCL21-driven migration, survival, and Th1-polarizing activity (PubMed:16293598). In lamina propria T lymphocytes, CD38/CD31 cognate interactions initiate a multistep signaling pathway resulting in activation of LCK anf LAT, followed by cytokine release (PubMed:11259373)",
+    "location": [
+      "Cell surface",
+      "Cell membrane"
+    ],
+    "categories": [
+      "cd_marker"
+    ],
+    "marker_type": "cd_marker",
+    "n_panels": 6,
+    "n_rows": 5,
+    "organism": "Homo sapiens",
+    "confidence": 1.0,
+    "gene_name": "CD38"
+  },
+  "CD3d": {
+    "protein_name": "T-cell surface glycoprotein CD3 delta chain",
+    "uniprot": "P04234",
+    "function": "Part of the TCR-CD3 complex present on T-lymphocyte cell surface that plays an essential role in adaptive immune response. When antigen presenting cells (APCs) activate T-cell receptor (TCR), TCR-mediated signals are transmitted across the cell membrane by the CD3 chains CD3D, CD3E, CD3G and CD247/CD3Z. All CD3 chains contain immunoreceptor tyrosine-based activation motifs (ITAMs) in their cytoplasmic domain. Upon TCR engagement, these motifs become phosphorylated by Src family protein tyrosine kinases LCK and FYN, resulting in the activation of downstream signaling pathways (PubMed:2470098). In addition of this role of signal transduction in T-cell activation, CD3D plays an essential role in thymocyte differentiation. Indeed, participates in correct intracellular TCR-CD3 complex assembly and surface expression. In absence of a functional TCR-CD3 complex, thymocytes are unable to differentiate properly. Interacts with CD4 and CD8 and thus serves to establish a functional link between the TCR and coreceptors CD4 and CD8, which is needed for activation and positive selection of CD4 or CD8 T-cells (PubMed:12215456)",
+    "location": [
+      "Cell membrane"
+    ],
+    "categories": [
+      "cd_marker"
+    ],
+    "marker_type": "cd_marker",
+    "n_panels": 257,
+    "n_rows": 17,
+    "organism": "Homo sapiens",
+    "confidence": 1.0,
+    "gene_name": "CD3D"
+  },
+  "CD3e": {
+    "protein_name": "T-cell surface glycoprotein CD3 epsilon chain",
+    "uniprot": "P07766",
+    "function": "Part of the TCR-CD3 complex present on T-lymphocyte cell surface that plays an essential role in adaptive immune response (PubMed:15294938, PubMed:15546002, PubMed:2470098, PubMed:40592325, PubMed:8490660). When antigen presenting cells (APCs) activate T-cell receptor (TCR), TCR-mediated signals are transmitted across the cell membrane by the CD3 chains CD3D, CD3E, CD3G and CD247/CD3Z (PubMed:2470098, PubMed:40592325). All CD3 chains contain immunoreceptor tyrosine-based activation motifs (ITAMs) in their cytoplasmic domain (PubMed:2470098, PubMed:40592325). Upon TCR engagement, these motifs become phosphorylated by Src family protein tyrosine kinases LCK and FYN, resulting in the activation of downstream signaling pathways (PubMed:2470098, PubMed:40592325). CD3E ITAM phosphorylation creates docking sites for the protein kinase ZAP70 leading to ZAP70 phosphorylation and its conversion into a catalytically active enzyme (By similarity). In addition of this role of signal transduction in T-cell activation, CD3E plays an essential role in correct T-cell development (By similarity). Also participates in internalization and cell surface down-regulation of TCR-CD3 complexes via endocytosis sequences present in CD3E cytosolic region (PubMed:10384095, PubMed:26507128). In addition to its role as a TCR coreceptor, it serves as a receptor for ITPRIPL1 (PubMed:38614099). Ligand recognition inhibits T-cell activation by promoting interaction with NCK1, which prevents CD3E-ZAP70 interaction and blocks the ERK-NFkB signaling cascade and calcium influx (PubMed:12110186, PubMed:38614099)",
+    "location": [
+      "Cell membrane"
+    ],
+    "categories": [
+      "cd_marker"
+    ],
+    "marker_type": "cd_marker",
+    "n_panels": 149,
+    "n_rows": 17,
+    "organism": "Homo sapiens",
+    "confidence": 1.0,
+    "gene_name": "CD3E"
+  },
+  "CD4": {
+    "protein_name": "T-cell surface glycoprotein CD4",
+    "uniprot": "P01730",
+    "function": "Integral membrane glycoprotein that plays an essential role in the immune response and serves multiple functions in responses against both external and internal offenses. In T-cells, functions primarily as a coreceptor for MHC class II molecule:peptide complex. The antigens presented by class II peptides are derived from extracellular proteins while class I peptides are derived from cytosolic proteins. Interacts simultaneously with the T-cell receptor (TCR) and the MHC class II presented by antigen presenting cells (APCs). In turn, recruits the Src kinase LCK to the vicinity of the TCR-CD3 complex. LCK then initiates different intracellular signaling pathways by phosphorylating various substrates ultimately leading to lymphokine production, motility, adhesion and activation of T-helper cells. In other cells such as macrophages or NK cells, plays a role in differentiation/activation, cytokine expression and cell migration in a TCR/LCK-independent pathway. Participates in the development of T-helper cells in the thymus and triggers the differentiation of monocytes into functional mature macrophages",
+    "location": [
+      "Cell membrane"
+    ],
+    "categories": [
+      "cd_marker"
+    ],
+    "marker_type": "cd_marker",
+    "n_panels": 528,
+    "n_rows": 59,
+    "organism": "Homo sapiens",
+    "confidence": 1.0,
+    "gene_name": "CD4"
+  },
+  "CD44": {
+    "protein_name": "CD44 antigen",
+    "uniprot": "P16070",
+    "function": "Cell-surface receptor that plays a role in cell-cell interactions, cell adhesion and migration, helping them to sense and respond to changes in the tissue microenvironment (PubMed:16541107, PubMed:19703720, PubMed:22726066). Participates thereby in a wide variety of cellular functions including the activation, recirculation and homing of T-lymphocytes, hematopoiesis, inflammation and response to bacterial infection (PubMed:7528188). Engages, through its ectodomain, extracellular matrix components such as hyaluronan/HA, collagen, growth factors, cytokines or proteases and serves as a platform for signal transduction by assembling, via its cytoplasmic domain, protein complexes containing receptor kinases and membrane proteases (PubMed:18757307, PubMed:23589287). Such effectors include PKN2, the RhoGTPases RAC1 and RHOA, Rho-kinases and phospholipase C that coordinate signaling pathways promoting calcium mobilization and actin-mediated cytoskeleton reorganization essential for cell migration and adhesion (PubMed:15123640). Upon interaction with LGALS9 ligand, activates downstream signaling components including LCK, ERK and MAPK to promotes NK cell activation (PubMed:37006235)",
+    "location": [
+      "Cell membrane",
+      "Cell projection, microvillus",
+      "Secreted"
+    ],
+    "categories": [
+      "cd_marker"
+    ],
+    "marker_type": "cd_marker",
+    "n_panels": 60,
+    "n_rows": 25,
+    "organism": "Homo sapiens",
+    "confidence": 1.0,
+    "gene_name": "CD44"
+  },
+  "CD45": {
+    "protein_name": "Receptor-type tyrosine-protein phosphatase C",
+    "uniprot": "P08575",
+    "function": "Protein tyrosine-protein phosphatase required for T-cell activation through the antigen receptor (PubMed:35767951). Acts as a positive regulator of T-cell coactivation upon binding to DPP4. The first PTPase domain has enzymatic activity, while the second one seems to affect the substrate specificity of the first one. Upon T-cell activation, recruits and dephosphorylates SKAP1 and FYN. Dephosphorylates LYN, and thereby modulates LYN activity (By similarity). Interacts with CLEC10A at antigen presenting cell-T cell contact; CLEC10A on immature dendritic cells recognizes Tn antigen-carrying PTPRC/CD45 receptor on effector T cells and modulates T cell activation threshold to limit autoreactivity",
+    "location": [
+      "Cell membrane",
+      "Membrane raft",
+      "Synapse"
+    ],
+    "categories": [
+      "cd_marker"
+    ],
+    "marker_type": "cd_marker",
+    "n_panels": 482,
+    "n_rows": 82,
+    "organism": "Homo sapiens",
+    "confidence": 0.6,
+    "gene_name": "PTPRC"
+  },
+  "CD45RO": {
+    "protein_name": "C-type lectin domain family 10 member A",
+    "uniprot": "Q8IUN9",
+    "function": "C-type lectin receptor involved in recognition of N-acetylgalactosamine (GalNAc)-terminated glycans by myeloid antigen presenting cells (APCs) (PubMed:15802303, PubMed:16998493, PubMed:17616966, PubMed:22213806, PubMed:33724805, PubMed:8598452). Binds in a Ca(2+)-dependent manner to alpha- and beta-linked GalNAc residues on glycoprotein and glycolipid antigens, including alphaGalNAc- and Galbeta1->3GalNAc-O-Ser/Thr also known as Tn and T antigens, LacdiNAc epitope GalNAcbeta1->4GlcNAc and its derivative GalNAcbeta1->4-(Fucalpha1->3)GlcNAc, O-linked core 5 and 6 glycans, and GM2 and GD2 gangliosides (PubMed:15802303, PubMed:23507963). Acts as a signaling receptor at the interface of APC-T cell interactions. On immature dendritic cells, recognizes Tn antigen-carrying PTPRC/CD45 receptor on effector T cells and down-regulates PTRPN/CD45 phosphatase activity with an impact on T cell activation threshold, cytokine production and proliferation. Modulates dendritic cell maturation toward a tolerogenic phenotype leading to generation of regulatory CD4-positive T cell subset with immune suppressive functions (PubMed:15802303, PubMed:16998493, PubMed:22213806). Acts as an endocytic pattern recognition receptor involved in antitumor immunity. During tumorigenesis, recognizes Tn antigens and its sialylated forms Neu5Ac-Tn and Neu5Gc-Tn expressed on tumor cell mucins. On immature dendritic cells, can internalize Tn-terminated immunogens and target them to endolysosomal compartment for MHC class I and II antigen presentation to CD8-positive and CD4-positive T cells, respectively (PubMed:15802303, PubMed:17616966, PubMed:17804752)",
+    "location": [
+      "Cell membrane",
+      "Early endosome membrane",
+      "Lysosome membrane"
+    ],
+    "categories": [
+      "cd_marker"
+    ],
+    "marker_type": "cd_marker",
+    "n_panels": 138,
+    "n_rows": 23,
+    "organism": "Homo sapiens",
+    "confidence": 0.6,
+    "gene_name": "CLEC10A"
+  },
+  "CD47": {
+    "protein_name": "Leukocyte surface antigen CD47",
+    "uniprot": "Q08722",
+    "function": "Adhesive protein that mediates cell-to-cell interactions (PubMed:11509594, PubMed:15383453). Acts as a receptor for thrombospondin THBS1 and as modulator of integrin signaling through the activation of heterotrimeric G proteins (PubMed:19004835, PubMed:7691831, PubMed:8550562). Involved in signal transduction, cardiovascular homeostasis, inflammation, apoptosis, angiogenesis, cellular self-renewal, and immunoregulation (PubMed:11509594, PubMed:15383453, PubMed:19004835, PubMed:27742621, PubMed:32679764, PubMed:7691831, PubMed:8550562). Plays a role in modulating pulmonary endothelin EDN1 signaling (PubMed:27742621). Modulates nitrous oxide (NO) signaling, in response to THBS1, hence playing a role as a pressor agent, supporting blood pressure (By similarity). Plays an important role in memory formation and synaptic plasticity in the hippocampus (By similarity). Receptor for SIRPA, binding to which prevents maturation of immature dendritic cells and inhibits cytokine production by mature dendritic cells (PubMed:11509594). Interaction with SIRPG mediates cell-cell adhesion, enhances superantigen-dependent T-cell-mediated proliferation and costimulates T-cell activation (PubMed:15383453). Positively modulates FAS-dependent apoptosis in T-cells, perhaps by enhancing FAS clustering (By similarity). Plays a role in suppressing angiogenesis and may be involved in metabolic dysregulation during normal aging (PubMed:32679764). In response to THBS1, negatively modulates wound healing (By similarity). Inhibits stem cell self-renewal, in response to THBS1, probably by regulation of the stem cell transcription factors POU5F1/OCT4, SOX2, MYC/c-Myc and KLF4 (By similarity). May play a role in membrane transport and/or integrin dependent signal transduction (PubMed:7691831). May prevent premature elimination of red blood cells (By similarity)",
+    "location": [
+      "Cell membrane"
+    ],
+    "categories": [
+      "cd_marker"
+    ],
+    "marker_type": "cd_marker",
+    "n_panels": 2,
+    "n_rows": 2,
+    "organism": "Homo sapiens",
+    "confidence": 1.0,
+    "gene_name": "CD47"
+  },
+  "CD63": {
+    "protein_name": "CD63 antigen",
+    "uniprot": "P08962",
+    "function": "Functions as a cell surface receptor for TIMP1 and plays a role in the activation of cellular signaling cascades. Plays a role in the activation of ITGB1 and integrin signaling, leading to the activation of AKT, FAK/PTK2 and MAP kinases. Promotes cell survival, reorganization of the actin cytoskeleton, cell adhesion, spreading and migration, via its role in the activation of AKT and FAK/PTK2. Plays a role in VEGFA signaling via its role in regulating the internalization of KDR/VEGFR2. Plays a role in intracellular vesicular transport processes, and is required for normal trafficking of the PMEL luminal domain that is essential for the development and maturation of melanocytes. Plays a role in the adhesion of leukocytes onto endothelial cells via its role in the regulation of SELP trafficking. May play a role in mast cell degranulation in response to Ms4a2/FceRI stimulation, but not in mast cell degranulation in response to other stimuli",
+    "location": [
+      "Cell membrane",
+      "Lysosome membrane",
+      "Late endosome membrane",
+      "Endosome, multivesicular body",
+      "Melanosome",
+      "Secreted, extracellular exosome",
+      "Cell surface"
+    ],
+    "categories": [
+      "cd_marker"
+    ],
+    "marker_type": "cd_marker",
+    "n_panels": 5,
+    "n_rows": 2,
+    "organism": "Homo sapiens",
+    "confidence": 1.0,
+    "gene_name": "CD63"
+  },
+  "CD68": {
+    "protein_name": "Macrosialin",
+    "uniprot": "P34810",
+    "function": "Could play a role in phagocytic activities of tissue macrophages, both in intracellular lysosomal metabolism and extracellular cell-cell and cell-pathogen interactions. Binds to tissue- and organ-specific lectins or selectins, allowing homing of macrophage subsets to particular sites. Rapid recirculation of CD68 from endosomes and lysosomes to the plasma membrane may allow macrophages to crawl over selectin-bearing substrates or other cells",
+    "location": [
+      "Cell membrane",
+      "Endosome membrane",
+      "Lysosome membrane"
+    ],
+    "categories": [
+      "cd_marker"
+    ],
+    "marker_type": "cd_marker",
+    "n_panels": 552,
+    "n_rows": 79,
+    "organism": "Homo sapiens",
+    "confidence": 1.0,
+    "gene_name": "CD68"
+  },
+  "CD69": {
+    "protein_name": "Early activation antigen CD69",
+    "uniprot": "Q07108",
+    "function": "Transmembrane protein expressed mainly on T-cells resident in mucosa that plays an essential role in immune cell homeostasis. Rapidly expressed on the surface of platelets, T-lymphocytes and NK cells upon activation by various stimuli, such as antigen recognition or cytokine signaling, stimulates different signaling pathways in different cell types (PubMed:24752896, PubMed:26296369, PubMed:35930205). Negatively regulates Th17 cell differentiation through its carbohydrate dependent interaction with galectin-1/LGALS1 present on immature dendritic cells (PubMed:24752896). Association of CD69 cytoplasmic tail with the JAK3/STAT5 signaling pathway regulates the transcription of RORgamma/RORC and, consequently, differentiation toward the Th17 lineage (By similarity). Also acts via the S100A8/S100A9 complex present on peripheral blood mononuclear cells to promote the conversion of naive CD4 T-cells into regulatory T-cells (PubMed:26296369). Acts as an oxidized low-density lipoprotein (oxLDL) receptor in CD4 T-lymphocytes and negatively regulates the inflammatory response by inducing the expression of PDCD1 through the activation of NFAT (PubMed:35930205). Participates in adipose tissue-derived mesenchymal stem cells (ASCs)-mediated protection against P.aeruginosa infection. Mechanistically, specifically recognizes P.aeruginosa to promote ERK1 activation, followed by granulocyte-macrophage colony-stimulating factor (GM-CSF) and other inflammatory cytokines secretion (PubMed:34841721). In eosinophils, induces IL-10 production through the ERK1/2 pathway (By similarity). Negatively regulates the chemotactic responses of effector lymphocytes and dendritic cells (DCs) to sphingosine 1 phosphate/S1P by acting as a S1PR1 receptor agonist and facilitating the internalization and degradation of the receptor (PubMed:37039481)",
+    "location": [
+      "Cell membrane"
+    ],
+    "categories": [
+      "cd_marker"
+    ],
+    "marker_type": "cd_marker",
+    "n_panels": 27,
+    "n_rows": 4,
+    "organism": "Homo sapiens",
+    "confidence": 1.0,
+    "gene_name": "CD69"
+  },
+  "CD8": {
+    "protein_name": "T-cell surface glycoprotein CD8 alpha chain",
+    "uniprot": "P01732",
+    "function": "Integral membrane glycoprotein that plays an essential role in the immune response and serves multiple functions in responses against both external and internal offenses. In T-cells, functions primarily as a coreceptor for MHC class I molecule:peptide complex. The antigens presented by class I peptides are derived from cytosolic proteins while class II derived from extracellular proteins. Interacts simultaneously with the T-cell receptor (TCR) and the MHC class I proteins presented by antigen presenting cells (APCs). In turn, recruits the Src kinase LCK to the vicinity of the TCR-CD3 complex. LCK then initiates different intracellular signaling pathways by phosphorylating various substrates ultimately leading to lymphokine production, motility, adhesion and activation of cytotoxic T-lymphocytes (CTLs). This mechanism enables CTLs to recognize and eliminate infected cells and tumor cells. In NK-cells, the presence of CD8A homodimers at the cell surface provides a survival mechanism allowing conjugation and lysis of multiple target cells. CD8A homodimer molecules also promote the survival and differentiation of activated lymphocytes into memory CD8 T-cells",
+    "location": [
+      "Cell membrane",
+      "Secreted"
+    ],
+    "categories": [
+      "cd_marker"
+    ],
+    "marker_type": "cd_marker",
+    "n_panels": 459,
+    "n_rows": 60,
+    "organism": "Homo sapiens",
+    "confidence": 0.8,
+    "gene_name": "CD8A"
+  },
+  "CD90": {
+    "protein_name": "Thy-1 membrane glycoprotein",
+    "uniprot": "P04216",
+    "function": "May play a role in cell-cell or cell-ligand interactions during synaptogenesis and other events in the brain",
+    "location": [
+      "Cell membrane"
+    ],
+    "categories": [
+      "cd_marker"
+    ],
+    "marker_type": "cd_marker",
+    "n_panels": 17,
+    "n_rows": 13,
+    "organism": "Homo sapiens",
+    "confidence": 0.6,
+    "gene_name": "THY1"
+  },
+  "CDH1": {
+    "protein_name": "Cadherin-1",
+    "uniprot": "P12830",
+    "function": "Cadherins are calcium-dependent cell adhesion proteins (PubMed:11976333). They preferentially interact with themselves in a homophilic manner in connecting cells; cadherins may thus contribute to the sorting of heterogeneous cell types. CDH1 is involved in mechanisms regulating cell-cell adhesions, mobility and proliferation of epithelial cells (PubMed:11976333). Promotes organization of radial actin fiber structure and cellular response to contractile forces, via its interaction with AMOTL2 which facilitates anchoring of radial actin fibers to CDH1 junction complexes at the cell membrane (By similarity). Plays a role in the early stages of desmosome cell-cell junction formation via facilitating the recruitment of DSG2 and DSP to desmosome plaques (PubMed:29999492). Has a potent invasive suppressor role. It is a ligand for integrin alpha-E/beta-7",
+    "location": [
+      "Cell junction, adherens junction",
+      "Cell membrane",
+      "Endosome",
+      "Golgi apparatus, trans-Golgi network",
+      "Cytoplasm",
+      "Cell junction, desmosome",
+      "Secreted"
+    ],
+    "categories": [
+      "protein_single"
+    ],
+    "marker_type": "protein_single",
+    "n_panels": 28,
+    "n_rows": 5,
+    "organism": "Homo sapiens",
+    "confidence": 1.0,
+    "gene_name": "CDH1"
+  },
+  "CDH17": {
+    "protein_name": "Cadherin-17",
+    "uniprot": "Q12864",
+    "function": "Cadherins are calcium-dependent cell adhesion proteins. They preferentially interact with themselves in a homophilic manner in connecting cells; cadherins may thus contribute to the sorting of heterogeneous cell types. LI-cadherin may have a role in the morphological organization of liver and intestine. Involved in intestinal peptide transport",
+    "location": [
+      "Cell membrane"
+    ],
+    "categories": [
+      "protein_single"
+    ],
+    "marker_type": "protein_single",
+    "n_panels": 4,
+    "n_rows": 1,
+    "organism": "Homo sapiens",
+    "confidence": 1.0,
+    "gene_name": "CDH17"
+  },
+  "CDX1": {
+    "protein_name": "Homeobox protein CDX-1",
+    "uniprot": "P47902",
+    "function": "Plays a role in transcriptional regulation (PubMed:24623306). Involved in activated KRAS-mediated transcriptional activation of PRKD1 in colorectal cancer (CRC) cells (PubMed:24623306). Binds to the PRKD1 promoter in colorectal cancer (CRC) cells (PubMed:24623306). Could play a role in the terminal differentiation of the intestine. Binds preferentially to methylated DNA (PubMed:28473536)",
+    "location": [
+      "Nucleus"
+    ],
+    "categories": [
+      "protein_single"
+    ],
+    "marker_type": "protein_single",
+    "n_panels": 5,
+    "n_rows": 2,
+    "organism": "Homo sapiens",
+    "confidence": 1.0,
+    "gene_name": "CDX1"
+  },
+  "CDX2": {
+    "protein_name": "Homeobox protein CDX-2",
+    "uniprot": "Q99626",
+    "function": "Transcription factor which regulates the transcription of multiple genes expressed in the intestinal epithelium (By similarity). Binds to the promoter of the intestinal sucrase-isomaltase SI and activates SI transcription (By similarity). Binds to the DNA sequence 5'-ATAAAAACTTAT-3' in the promoter region of VDR and activates VDR transcription (By similarity). Binds to and activates transcription of LPH (By similarity). Activates transcription of CLDN2 and intestinal mucin MUC2 (By similarity). Binds to the 5'-AATTTTTTACAACACCT-3' DNA sequence in the promoter region of CA1 and activates CA1 transcription (By similarity). Important in broad range of functions from early differentiation to maintenance of the intestinal epithelial lining of both the small and large intestine. Binds preferentially to methylated DNA (PubMed:28473536)",
+    "location": [
+      "Nucleus"
+    ],
+    "categories": [
+      "protein_single"
+    ],
+    "marker_type": "protein_single",
+    "n_panels": 68,
+    "n_rows": 7,
+    "organism": "Homo sapiens",
+    "confidence": 1.0,
+    "gene_name": "CDX2"
+  },
+  "CEA": {
+    "protein_name": "Cell adhesion molecule CEACAM16",
+    "uniprot": "Q2WEN9",
+    "function": "Required for proper hearing, plays a role in maintaining the integrity of the tectorial membrane",
+    "location": [
+      "Secreted"
+    ],
+    "categories": [
+      "protein_single"
+    ],
+    "marker_type": "protein_single",
+    "n_panels": 14,
+    "n_rows": 1,
+    "organism": "Homo sapiens",
+    "confidence": 0.8,
+    "gene_name": "CEACAM16"
+  },
+  "CHGA": {
+    "protein_name": "Chromogranin-A",
+    "uniprot": "P10645",
+    "function": "Strongly inhibits glucose induced insulin release from the pancreas",
+    "location": [
+      "Secreted",
+      "Cytoplasmic vesicle, secretory vesicle",
+      "Cytoplasmic vesicle, secretory vesicle",
+      "Cytoplasmic vesicle, secretory vesicle, neuronal dense core vesicle",
+      "Secreted"
+    ],
+    "categories": [
+      "protein_single"
+    ],
+    "marker_type": "protein_single",
+    "n_panels": 30,
+    "n_rows": 3,
+    "organism": "Homo sapiens",
+    "confidence": 1.0,
+    "gene_name": "CHGA"
+  },
+  "CLDN1": {
+    "protein_name": "Claudin-1",
+    "uniprot": "O95832",
+    "function": "Claudins function as major constituents of the tight junction complexes that regulate the permeability of epithelia. While some claudin family members play essential roles in the formation of impermeable barriers, others mediate the permeability to ions and small molecules. Often, several claudin family members are coexpressed and interact with each other, and this determines the overall permeability. CLDN1 is required to prevent the paracellular diffusion of small molecules through tight junctions in the epidermis and is required for the normal barrier function of the skin. Required for normal water homeostasis and to prevent excessive water loss through the skin, probably via an indirect effect on the expression levels of other proteins, since CLDN1 itself seems to be dispensable for water barrier formation in keratinocyte tight junctions (PubMed:23407391)",
+    "location": [
+      "Cell junction, tight junction",
+      "Cell membrane",
+      "Basolateral cell membrane"
+    ],
+    "categories": [
+      "protein_single"
+    ],
+    "marker_type": "protein_single",
+    "n_panels": 1,
+    "n_rows": 1,
+    "organism": "Homo sapiens",
+    "confidence": 1.0,
+    "gene_name": "CLDN1"
+  },
+  "CLDN4": {
+    "protein_name": "Claudin-4",
+    "uniprot": "O14493",
+    "function": "Can associate with other claudins to regulate tight junction structural and functional strand dynamics (PubMed:35773259, PubMed:36008380). May coassemble with CLDN8 into tight junction strands containing anion-selective channels that convey paracellular chloride permeability in renal collecting ducts (By similarity) (PubMed:36008380). May integrate into CLDN3 strands to modulate localized tight junction barrier properties (PubMed:35773259, PubMed:36008380). May disrupt strand assembly of channel-forming CLDN2 and CLDN15 and inhibit cation conductance (PubMed:35773259, PubMed:36008380). Cannot form tight junction strands on its own (PubMed:35773259, PubMed:36008380)",
+    "location": [
+      "Cell junction, tight junction",
+      "Cell membrane"
+    ],
+    "categories": [
+      "protein_single"
+    ],
+    "marker_type": "protein_single",
+    "n_panels": 4,
+    "n_rows": 1,
+    "organism": "Homo sapiens",
+    "confidence": 1.0,
+    "gene_name": "CLDN4"
+  },
+  "COL6A1": {
+    "protein_name": "Collagen alpha-1(VI) chain",
+    "uniprot": "P12109",
+    "function": "Collagen VI acts as a cell-binding protein",
+    "location": [
+      "Secreted, extracellular space, extracellular matrix"
+    ],
+    "categories": [
+      "protein_single"
+    ],
+    "marker_type": "protein_single",
+    "n_panels": 1,
+    "n_rows": 1,
+    "organism": "Homo sapiens",
+    "confidence": 1.0,
+    "gene_name": "COL6A1"
+  },
+  "COL6A2": {
+    "protein_name": "Collagen alpha-2(VI) chain",
+    "uniprot": "P12110",
+    "function": "Collagen VI acts as a cell-binding protein",
+    "location": [
+      "Secreted, extracellular space, extracellular matrix",
+      "Membrane"
+    ],
+    "categories": [
+      "protein_single"
+    ],
+    "marker_type": "protein_single",
+    "n_panels": 21,
+    "n_rows": 4,
+    "organism": "Homo sapiens",
+    "confidence": 1.0,
+    "gene_name": "COL6A2"
+  },
+  "CTLA4": {
+    "protein_name": "Cytotoxic T-lymphocyte protein 4",
+    "uniprot": "P16410",
+    "function": "Inhibitory receptor acting as a major negative regulator of T-cell responses (PubMed:11279501, PubMed:11279502, PubMed:16551244, PubMed:1714933, PubMed:18641304, PubMed:28484017). Acts as a decoy receptor: the affinity of CTLA4 for its natural B7 family ligands, CD80 and CD86, is considerably stronger than the affinity of their cognate stimulatory coreceptor CD28 (PubMed:11279501, PubMed:11279502, PubMed:16551244, PubMed:1714933, PubMed:28484017)",
+    "location": [
+      "Cell membrane"
+    ],
+    "categories": [
+      "protein_single"
+    ],
+    "marker_type": "protein_single",
+    "n_panels": 37,
+    "n_rows": 4,
+    "organism": "Homo sapiens",
+    "confidence": 1.0,
+    "gene_name": "CTLA4"
+  },
+  "CTNNA2": {
+    "protein_name": "Catenin alpha-2",
+    "uniprot": "P26232",
+    "function": "May function as a linker between cadherin adhesion receptors and the cytoskeleton to regulate cell-cell adhesion and differentiation in the nervous system (By similarity). Required for proper regulation of cortical neuronal migration and neurite growth (PubMed:30013181). It acts as a negative regulator of Arp2/3 complex activity and Arp2/3-mediated actin polymerization (PubMed:30013181). It thereby suppresses excessive actin branching which would impair neurite growth and stability (PubMed:30013181). Regulates morphological plasticity of synapses and cerebellar and hippocampal lamination during development. Functions in the control of startle modulation (By similarity)",
+    "location": [
+      "Cell membrane",
+      "Cytoplasm",
+      "Cytoplasm, cytoskeleton",
+      "Cell junction, adherens junction",
+      "Cell projection, axon",
+      "Nucleus"
+    ],
+    "categories": [
+      "protein_single"
+    ],
+    "marker_type": "protein_single",
+    "n_panels": 13,
+    "n_rows": 2,
+    "organism": "Homo sapiens",
+    "confidence": 1.0,
+    "gene_name": "CTNNA2"
+  },
+  "CgA": {
+    "protein_name": "Glycoprotein hormones alpha chain",
+    "uniprot": "P01215",
+    "function": "Shared alpha chain of the active heterodimeric glycoprotein hormones thyrotropin/thyroid stimulating hormone/TSH, lutropin/luteinizing hormone/LH, follitropin/follicle stimulating hormone/FSH and choriogonadotropin/CG. These hormones bind specific receptors on target cells that in turn activate downstream signaling pathways",
+    "location": [
+      "Secreted"
+    ],
+    "categories": [
+      "protein_single"
+    ],
+    "marker_type": "protein_single",
+    "n_panels": 243,
+    "n_rows": 5,
+    "organism": "Homo sapiens",
+    "confidence": 1.0,
+    "gene_name": "CGA"
+  },
+  "Channel B": {
+    "protein_name": null,
+    "uniprot": null,
+    "function": null,
+    "location": [],
+    "categories": [
+      "blank_or_background"
+    ],
+    "marker_type": "blank_or_background",
+    "n_panels": 1,
+    "n_rows": 1
+  },
+  "Collagen": {
+    "protein_name": "Collagen alpha-1(VII) chain",
+    "uniprot": "Q02388",
+    "function": "Stratified squamous epithelial basement membrane protein that forms anchoring fibrils which may contribute to epithelial basement membrane organization and adherence by interacting with extracellular matrix (ECM) proteins such as type IV collagen",
+    "location": [
+      "Secreted, extracellular space, extracellular matrix, basement membrane"
+    ],
+    "categories": [
+      "protein_single"
+    ],
+    "marker_type": "protein_single",
+    "n_panels": 320,
+    "n_rows": 8,
+    "organism": "Homo sapiens",
+    "confidence": 0.6,
+    "gene_name": "COL7A1"
+  },
+  "Cox2": {
+    "protein_name": "Cytochrome c oxidase assembly protein COX20, mitochondrial",
+    "uniprot": "Q5RI15",
+    "function": "Essential for the assembly of the mitochondrial respiratory chain complex IV (CIV), also known as cytochrome c oxidase (PubMed:23125284). Acts as a chaperone in the early steps of cytochrome c oxidase subunit II (MT-CO2/COX2) maturation, stabilizing the newly synthesized protein and presenting it to metallochaperones SCO1/2 which in turn facilitates the incorporation of the mature MT-CO2/COX2 into the assembling CIV holoenzyme (PubMed:24403053)",
+    "location": [
+      "Mitochondrion inner membrane"
+    ],
+    "categories": [
+      "protein_single"
+    ],
+    "marker_type": "protein_single",
+    "n_panels": 109,
+    "n_rows": 5,
+    "organism": "Homo sapiens",
+    "confidence": 0.8,
+    "gene_name": "COX20"
+  },
+  "DAPI": {
+    "protein_name": null,
+    "uniprot": null,
+    "function": null,
+    "location": [],
+    "categories": [
+      "nuclear_marker"
+    ],
+    "marker_type": "nuclear_marker",
+    "n_panels": 433,
+    "n_rows": 121
+  },
+  "DES": {
+    "protein_name": "Desmin",
+    "uniprot": "P17661",
+    "function": "Muscle-specific type III intermediate filament essential for proper muscular structure and function. Plays a crucial role in maintaining the structure of sarcomeres, inter-connecting the Z-disks and forming the myofibrils, linking them not only to the sarcolemmal cytoskeleton, but also to the nucleus and mitochondria, thus providing strength for the muscle fiber during activity (PubMed:25358400). In adult striated muscle they form a fibrous network connecting myofibrils to each other and to the plasma membrane from the periphery of the Z-line structures (PubMed:24200904, PubMed:25394388, PubMed:26724190). May act as a sarcomeric microtubule-anchoring protein: specifically associates with detyrosinated tubulin-alpha chains, leading to buckled microtubules and mechanical resistance to contraction. Required for nuclear membrane integrity, via anchoring at the cell tip and nuclear envelope, resulting in maintenance of microtubule-derived intracellular mechanical forces (By similarity). Contributes to the transcriptional regulation of the NKX2-5 gene in cardiac progenitor cells during a short period of cardiomyogenesis and in cardiac side population stem cells in the adult. Plays a role in maintaining an optimal conformation of nebulette (NEB) on heart muscle sarcomeres to bind and recruit cardiac alpha-actin (By similarity)",
+    "location": [
+      "Cytoplasm, myofibril, sarcomere, Z line",
+      "Cytoplasm",
+      "Cell membrane, sarcolemma",
+      "Nucleus",
+      "Cell tip",
+      "Nucleus envelope"
+    ],
+    "categories": [
+      "protein_single"
+    ],
+    "marker_type": "protein_single",
+    "n_panels": 1,
+    "n_rows": 1,
+    "organism": "Homo sapiens",
+    "confidence": 1.0,
+    "gene_name": "DES"
+  },
+  "DRAQ5": {
+    "protein_name": null,
+    "uniprot": null,
+    "function": null,
+    "location": [],
+    "categories": [
+      "nuclear_marker"
+    ],
+    "marker_type": "nuclear_marker",
+    "n_panels": 3,
+    "n_rows": 3
+  },
+  "EMPTY": {
+    "protein_name": null,
+    "uniprot": null,
+    "function": null,
+    "location": [],
+    "categories": [
+      "blank_or_background"
+    ],
+    "marker_type": "blank_or_background",
+    "n_panels": 32,
+    "n_rows": 28
+  },
+  "EMPTY 3": {
+    "protein_name": null,
+    "uniprot": null,
+    "function": null,
+    "location": [],
+    "categories": [
+      "blank_or_background"
+    ],
+    "marker_type": "blank_or_background",
+    "n_panels": 11,
+    "n_rows": 1
+  },
+  "EMPTY 7": {
+    "protein_name": null,
+    "uniprot": null,
+    "function": null,
+    "location": [],
+    "categories": [
+      "blank_or_background"
+    ],
+    "marker_type": "blank_or_background",
+    "n_panels": 11,
+    "n_rows": 1
+  },
+  "EMPTY 9": {
+    "protein_name": null,
+    "uniprot": null,
+    "function": null,
+    "location": [],
+    "categories": [
+      "blank_or_background"
+    ],
+    "marker_type": "blank_or_background",
+    "n_panels": 11,
+    "n_rows": 1
+  },
+  "EMPTY1": {
+    "protein_name": null,
+    "uniprot": null,
+    "function": null,
+    "location": [],
+    "categories": [
+      "blank_or_background"
+    ],
+    "marker_type": "blank_or_background",
+    "n_panels": 14,
+    "n_rows": 1
+  },
+  "ERBB2": {
+    "protein_name": "Receptor tyrosine-protein kinase erbB-2",
+    "uniprot": "P04626",
+    "function": "Protein tyrosine kinase that is part of several cell surface receptor complexes, but that apparently needs a coreceptor for ligand binding. Essential component of a neuregulin-receptor complex, although neuregulins do not interact with it alone. GP30 is a potential ligand for this receptor. Regulates outgrowth and stabilization of peripheral microtubules (MTs). Upon ERBB2 activation, the MEMO1-RHOA-DIAPH1 signaling pathway elicits the phosphorylation and thus the inhibition of GSK3B at cell membrane. This prevents the phosphorylation of APC and CLASP2, allowing its association with the cell membrane. In turn, membrane-bound APC allows the localization of MACF1 to the cell membrane, which is required for microtubule capture and stabilization",
+    "location": [
+      "Cell membrane",
+      "Cell projection, ruffle membrane",
+      "Cell membrane",
+      "Early endosome",
+      "Cytoplasm, perinuclear region",
+      "Nucleus",
+      "Cytoplasm",
+      "Nucleus",
+      "Cytoplasm",
+      "Nucleus"
+    ],
+    "categories": [
+      "protein_single"
+    ],
+    "marker_type": "protein_single",
+    "n_panels": 216,
+    "n_rows": 5,
+    "organism": "Homo sapiens",
+    "confidence": 1.0,
+    "gene_name": "ERBB2"
+  },
+  "FOXP3": {
+    "protein_name": "Forkhead box protein P3",
+    "uniprot": "Q9BZS1",
+    "function": "Transcriptional regulator which is crucial for the development and inhibitory function of regulatory T-cells (Treg) (PubMed:17377532, PubMed:21458306, PubMed:23947341, PubMed:24354325, PubMed:24722479, PubMed:24835996, PubMed:30513302, PubMed:32644293). Plays an essential role in maintaining homeostasis of the immune system by allowing the acquisition of full suppressive function and stability of the Treg lineage, and by directly modulating the expansion and function of conventional T-cells (PubMed:23169781). Can act either as a transcriptional repressor or a transcriptional activator depending on its interactions with other transcription factors, histone acetylases and deacetylases (PubMed:17377532, PubMed:21458306, PubMed:23947341, PubMed:24354325, PubMed:24722479). The suppressive activity of Treg involves the coordinate activation of many genes, including CTLA4 and TNFRSF18 by FOXP3 along with repression of genes encoding cytokines such as interleukin-2 (IL2) and interferon-gamma (IFNG) (PubMed:17377532, PubMed:21458306, PubMed:23947341, PubMed:24354325, PubMed:24722479). Inhibits cytokine production and T-cell effector function by repressing the activity of two key transcription factors, RELA and NFATC2 (PubMed:15790681). Mediates transcriptional repression of IL2 via its association with histone acetylase KAT5 and histone deacetylase HDAC7 (PubMed:17360565). Can activate the expression of TNFRSF18, IL2RA and CTLA4 and repress the expression of IL2 and IFNG via its association with transcription factor RUNX1 (PubMed:17377532). Inhibits the differentiation of IL17 producing helper T-cells (Th17) by antagonizing RORC function, leading to down-regulation of IL17 expression, favoring Treg development (PubMed:18368049). Inhibits the transcriptional activator activity of RORA (PubMed:18354202). Can repress the expression of IL2 and IFNG via its association with transcription factor IKZF4 (By similarity)",
+    "location": [
+      "Nucleus",
+      "Cytoplasm"
+    ],
+    "categories": [
+      "protein_single"
+    ],
+    "marker_type": "protein_single",
+    "n_panels": 511,
+    "n_rows": 76,
+    "organism": "Homo sapiens",
+    "confidence": 1.0,
+    "gene_name": "FOXP3"
+  },
+  "Galectin": {
+    "protein_name": "Galectin-9C",
+    "uniprot": "Q6DKI2",
+    "function": "Binds galactosides",
+    "location": [],
+    "categories": [
+      "protein_single"
+    ],
+    "marker_type": "protein_single",
+    "n_panels": 14,
+    "n_rows": 1,
+    "organism": "Homo sapiens",
+    "confidence": 0.6,
+    "gene_name": "LGALS9C"
+  },
+  "Gamma-Actin": {
+    "protein_name": "Actin, gamma-enteric smooth muscle",
+    "uniprot": "P63267",
+    "function": "Actins are highly conserved proteins that are involved in various types of cell motility and are ubiquitously expressed in all eukaryotic cells",
+    "location": [
+      "Cytoplasm, cytoskeleton"
+    ],
+    "categories": [
+      "protein_single"
+    ],
+    "marker_type": "protein_single",
+    "n_panels": 50,
+    "n_rows": 1,
+    "organism": "Homo sapiens",
+    "confidence": 0.6,
+    "gene_name": "ACTG2"
+  },
+  "Green Channel": {
+    "protein_name": null,
+    "uniprot": null,
+    "function": null,
+    "location": [],
+    "categories": [
+      "other"
+    ],
+    "marker_type": "other",
+    "n_panels": 1,
+    "n_rows": 1
+  },
+  "H&E": {
+    "protein_name": null,
+    "uniprot": null,
+    "function": null,
+    "location": [],
+    "categories": [
+      "chemical_stain"
+    ],
+    "marker_type": "chemical_stain",
+    "n_panels": 1,
+    "n_rows": 1
+  },
+  "HLA-A": {
+    "protein_name": "HLA class I histocompatibility antigen, A alpha chain",
+    "uniprot": "P04439",
+    "function": "Antigen-presenting major histocompatibility complex class I (MHCI) molecule. In complex with B2M/beta 2 microglobulin displays primarily viral and tumor-derived peptides on antigen-presenting cells for recognition by alpha-beta T cell receptor (TCR) on HLA-A-restricted CD8-positive T cells, guiding antigen-specific T cell immune response to eliminate infected or transformed cells (PubMed:10449296, PubMed:12138174, PubMed:12393434, PubMed:1402688, PubMed:15893615, PubMed:17189421, PubMed:19543285, PubMed:21498667, PubMed:24192765, PubMed:24395804, PubMed:2456340, PubMed:2784196, PubMed:28250417, PubMed:7504010, PubMed:7694806, PubMed:9862734). May also present self-peptides derived from the signal sequence of secreted or membrane proteins, although T cells specific for these peptides are usually inactivated to prevent autoreactivity (PubMed:25880248, PubMed:7506728, PubMed:7679507). Both the peptide and the MHC molecule are recognized by TCR, the peptide is responsible for the fine specificity of antigen recognition and MHC residues account for the MHC restriction of T cells (PubMed:12796775, PubMed:18275829, PubMed:19542454, PubMed:28250417). Typically presents intracellular peptide antigens of 8 to 13 amino acids that arise from cytosolic proteolysis via IFNG-induced immunoproteasome or via endopeptidase IDE/insulin-degrading enzyme (PubMed:17079320, PubMed:17189421, PubMed:20364150, PubMed:26929325, PubMed:27049119). Can bind different peptides containing allele-specific binding motifs, which are mainly defined by anchor residues at position 2 and 9 (PubMed:7504010, PubMed:9862734)",
+    "location": [
+      "Cell membrane",
+      "Endoplasmic reticulum membrane"
+    ],
+    "categories": [
+      "protein_single"
+    ],
+    "marker_type": "protein_single",
+    "n_panels": 257,
+    "n_rows": 19,
+    "organism": "Homo sapiens",
+    "confidence": 1.0,
+    "gene_name": "HLA-A"
+  },
+  "HLA-DR": {
+    "protein_name": "HLA class II histocompatibility antigen, DR alpha chain",
+    "uniprot": "P01903",
+    "function": "An alpha chain of antigen-presenting major histocompatibility complex class II (MHCII) molecule. In complex with the beta chain HLA-DRB, displays antigenic peptides on professional antigen presenting cells (APCs) for recognition by alpha-beta T cell receptor (TCR) on HLA-DR-restricted CD4-positive T cells. This guides antigen-specific T-helper effector functions, both antibody-mediated immune response and macrophage activation, to ultimately eliminate the infectious agents and transformed cells (PubMed:15265931, PubMed:15322540, PubMed:17334368, PubMed:22327072, PubMed:24190431, PubMed:27591323, PubMed:29884618, PubMed:31495665, PubMed:8145819, PubMed:9075930). Typically presents extracellular peptide antigens of 10 to 30 amino acids that arise from proteolysis of endocytosed antigens in lysosomes (PubMed:8145819). In the tumor microenvironment, presents antigenic peptides that are primarily generated in tumor-resident APCs likely via phagocytosis of apoptotic tumor cells or macropinocytosis of secreted tumor proteins (PubMed:31495665). Presents peptides derived from intracellular proteins that are trapped in autolysosomes after macroautophagy, a mechanism especially relevant for T cell selection in the thymus and central immune tolerance (PubMed:17182262, PubMed:23783831). The selection of the immunodominant epitopes follows two processing modes: 'bind first, cut/trim later' for pathogen-derived antigenic peptides and 'cut first, bind later' for autoantigens/self-peptides (PubMed:25413013). The anchor residue at position 1 of the peptide N-terminus, usually a large hydrophobic residue, is essential for high affinity interaction with MHCII molecules (PubMed:8145819)",
+    "location": [
+      "Cell membrane",
+      "Endoplasmic reticulum membrane",
+      "Early endosome membrane",
+      "Late endosome membrane",
+      "Lysosome membrane",
+      "Autolysosome membrane"
+    ],
+    "categories": [
+      "protein_single"
+    ],
+    "marker_type": "protein_single",
+    "n_panels": 237,
+    "n_rows": 22,
+    "organism": "Homo sapiens",
+    "confidence": 0.8,
+    "gene_name": "HLA-DRA"
+  },
+  "HNF4A": {
+    "protein_name": "Hepatocyte nuclear factor 4-alpha",
+    "uniprot": "P41235",
+    "function": "Transcriptional regulator which controls the expression of hepatic genes during the transition of endodermal cells to hepatic progenitor cells, facilitating the recruitment of RNA pol II to the promoters of target genes (PubMed:30597922). Activates the transcription of CYP2C38 (By similarity). Represses the CLOCK-BMAL1 transcriptional activity and is essential for circadian rhythm maintenance and period regulation in the liver and colon cells (PubMed:30530698)",
+    "location": [
+      "Nucleus"
+    ],
+    "categories": [
+      "protein_single"
+    ],
+    "marker_type": "protein_single",
+    "n_panels": 1,
+    "n_rows": 1,
+    "organism": "Homo sapiens",
+    "confidence": 1.0,
+    "gene_name": "HNF4A"
+  },
+  "IGLL5": {
+    "protein_name": "Immunoglobulin lambda-like polypeptide 5",
+    "uniprot": "B9A064",
+    "function": null,
+    "location": [
+      "Secreted"
+    ],
+    "categories": [
+      "protein_single"
+    ],
+    "marker_type": "protein_single",
+    "n_panels": 11,
+    "n_rows": 1,
+    "organism": "Homo sapiens",
+    "confidence": 1.0,
+    "gene_name": "IGLL5"
+  },
+  "KRT18": {
+    "protein_name": "Keratin, type I cytoskeletal 18",
+    "uniprot": "P05783",
+    "function": "Structural component of intermediate filaments in simple epithelial cells. Forms intermediate filaments by heterodimerizing with the type II keratin KRT8, providing mechanical stability and resilience to epithelial cells (PubMed:15529338, PubMed:26823019). Involved in ARHGEF40-mediated actin stress fiber formation and tensional force-induced stress fiber formation and reinforcement (PubMed:26823019). Integrates into the intermediate filament network of skeletal muscle fibers alongside desmin and KRT19, contributing to force transmission (By similarity). Organization and orientation of KRT8/KRT18 filaments are responsible for the properly elongated morphology of epithelial tubules (By similarity). Also acts downstream of ROCK kinase activation as part of a positive feedback mechanism in response to cellular mechanical stress loading (PubMed:26823019). Involved in the uptake of thrombin-antithrombin complexes by hepatic cells (By similarity). When phosphorylated, plays a role in filament reorganization (PubMed:7523419, PubMed:8522591, PubMed:9298992, PubMed:9524113). Involved in the delivery of mutated CFTR to the plasma membrane (PubMed:15529338, PubMed:16424149). Involved in interleukin-6 (IL-6)-mediated barrier protection (PubMed:17213200)",
+    "location": [
+      "Nucleus matrix",
+      "Cytoplasm, perinuclear region",
+      "Nucleus, nucleolus",
+      "Cytoplasm"
+    ],
+    "categories": [
+      "protein_single"
+    ],
+    "marker_type": "protein_single",
+    "n_panels": 27,
+    "n_rows": 2,
+    "organism": "Homo sapiens",
+    "confidence": 1.0,
+    "gene_name": "KRT18"
+  },
+  "KRT20": {
+    "protein_name": "Keratin, type I cytoskeletal 20",
+    "uniprot": "P35900",
+    "function": "Plays a significant role in maintaining keratin filament organization in intestinal epithelia. When phosphorylated, plays a role in the secretion of mucin in the small intestine (By similarity)",
+    "location": [
+      "Cytoplasm"
+    ],
+    "categories": [
+      "protein_single"
+    ],
+    "marker_type": "protein_single",
+    "n_panels": 1,
+    "n_rows": 1,
+    "organism": "Homo sapiens",
+    "confidence": 1.0,
+    "gene_name": "KRT20"
+  },
+  "Ki67": {
+    "protein_name": "Proliferation marker protein Ki-67",
+    "uniprot": "P46013",
+    "function": "Protein that associates with the surface of mitotic chromosomes and acts both as a chromosome repellent during early mitosis and chromosome attractant during late mitosis (PubMed:27362226, PubMed:32879492, PubMed:35513709, PubMed:39153474). Required to maintain individual mitotic chromosomes dispersed in the cytoplasm following nuclear envelope disassembly (PubMed:27362226). During early mitosis, relocalizes from nucleoli to the chromosome surface where it forms extended brush structures that cover a substantial fraction of the chromosome surface (PubMed:27362226). The MKI67 brush structure prevents chromosomes from collapsing into a single chromatin mass by forming a steric and electrostatic charge barrier: the protein has a high net electrical charge and acts as a surfactant, dispersing chromosomes and enabling independent chromosome motility (PubMed:27362226). During mitotic anaphase, the MKI67 brush structure collapses and MKI67 switches from a chromosome repellent to a chromosome attractant to promote chromosome clustering and facilitate the exclusion of large cytoplasmic particles from the future nuclear space (PubMed:32879492, PubMed:39153474). Mechanistically, dephosphorylation during mitotic exit and simultaneous exposure of a conserved basic patch induce the RNA-dependent formation of a liquid-like condensed phase on the chromosome surface, promoting coalescence of neighboring chromosome surfaces and clustering of chromosomes (PubMed:39153474). Binds premature ribosomal RNAs during anaphase; promoting liquid-liquid phase separation (PubMed:28935370, PubMed:39153474). Binds DNA, with a preference for supercoiled DNA and AT-rich DNA (PubMed:10878551). Does not contribute to the internal structure of mitotic chromosomes (By similarity). May play a role in chromatin organization; it is however unclear whether it plays a direct role in chromatin organization or whether it is an indirect consequence of its function in mitotic chromosome (PubMed:24867636)",
+    "location": [
+      "Chromosome",
+      "Nucleus",
+      "Nucleus, nucleolus"
+    ],
+    "categories": [
+      "protein_single"
+    ],
+    "marker_type": "protein_single",
+    "n_panels": 304,
+    "n_rows": 85,
+    "organism": "Homo sapiens",
+    "confidence": 0.8,
+    "gene_name": "MKI67"
+  },
+  "LGR5": {
+    "protein_name": "Leucine-rich repeat-containing G protein-coupled receptor 5",
+    "uniprot": "O75473",
+    "function": "Receptor for R-spondins that potentiates the canonical Wnt signaling pathway and acts as a stem cell marker of the intestinal epithelium and the hair follicle. Upon binding to R-spondins (RSPO1, RSPO2, RSPO3 or RSPO4), associates with phosphorylated LRP6 and frizzled receptors that are activated by extracellular Wnt receptors, triggering the canonical Wnt signaling pathway to increase expression of target genes. In contrast to classical G protein-coupled receptors, does not activate heterotrimeric G proteins to transduce the signal. Involved in the development and/or maintenance of the adult intestinal stem cells during postembryonic development",
+    "location": [
+      "Cell membrane",
+      "Golgi apparatus, trans-Golgi network membrane"
+    ],
+    "categories": [
+      "protein_single"
+    ],
+    "marker_type": "protein_single",
+    "n_panels": 6,
+    "n_rows": 2,
+    "organism": "Homo sapiens",
+    "confidence": 1.0,
+    "gene_name": "LGR5"
+  },
+  "Lysozyme": {
+    "protein_name": "Lysozyme C",
+    "uniprot": "P61626",
+    "function": "Lysozymes have primarily a bacteriolytic function; those in tissues and body fluids are associated with the monocyte-macrophage system and enhance the activity of immunoagents",
+    "location": [
+      "Secreted"
+    ],
+    "categories": [
+      "protein_single"
+    ],
+    "marker_type": "protein_single",
+    "n_panels": 240,
+    "n_rows": 5,
+    "organism": "Homo sapiens",
+    "confidence": 0.6,
+    "gene_name": "LYZ"
+  },
+  "MKi67": {
+    "protein_name": "Proliferation marker protein Ki-67",
+    "uniprot": "P46013",
+    "function": "Protein that associates with the surface of mitotic chromosomes and acts both as a chromosome repellent during early mitosis and chromosome attractant during late mitosis (PubMed:27362226, PubMed:32879492, PubMed:35513709, PubMed:39153474). Required to maintain individual mitotic chromosomes dispersed in the cytoplasm following nuclear envelope disassembly (PubMed:27362226). During early mitosis, relocalizes from nucleoli to the chromosome surface where it forms extended brush structures that cover a substantial fraction of the chromosome surface (PubMed:27362226). The MKI67 brush structure prevents chromosomes from collapsing into a single chromatin mass by forming a steric and electrostatic charge barrier: the protein has a high net electrical charge and acts as a surfactant, dispersing chromosomes and enabling independent chromosome motility (PubMed:27362226). During mitotic anaphase, the MKI67 brush structure collapses and MKI67 switches from a chromosome repellent to a chromosome attractant to promote chromosome clustering and facilitate the exclusion of large cytoplasmic particles from the future nuclear space (PubMed:32879492, PubMed:39153474). Mechanistically, dephosphorylation during mitotic exit and simultaneous exposure of a conserved basic patch induce the RNA-dependent formation of a liquid-like condensed phase on the chromosome surface, promoting coalescence of neighboring chromosome surfaces and clustering of chromosomes (PubMed:39153474). Binds premature ribosomal RNAs during anaphase; promoting liquid-liquid phase separation (PubMed:28935370, PubMed:39153474). Binds DNA, with a preference for supercoiled DNA and AT-rich DNA (PubMed:10878551). Does not contribute to the internal structure of mitotic chromosomes (By similarity). May play a role in chromatin organization; it is however unclear whether it plays a direct role in chromatin organization or whether it is an indirect consequence of its function in mitotic chromosome (PubMed:24867636)",
+    "location": [
+      "Chromosome",
+      "Nucleus",
+      "Nucleus, nucleolus"
+    ],
+    "categories": [
+      "protein_single"
+    ],
+    "marker_type": "protein_single",
+    "n_panels": 15,
+    "n_rows": 2,
+    "organism": "Homo sapiens",
+    "confidence": 1.0,
+    "gene_name": "MKI67"
+  },
+  "MUC1": {
+    "protein_name": "Mucin-1",
+    "uniprot": "P15941",
+    "function": "The alpha subunit has cell adhesive properties. Can act both as an adhesion and an anti-adhesion protein. May provide a protective layer on epithelial cells against bacterial and enzyme attack",
+    "location": [
+      "Apical cell membrane",
+      "Secreted",
+      "Secreted",
+      "Secreted",
+      "Cell membrane",
+      "Cytoplasm",
+      "Nucleus"
+    ],
+    "categories": [
+      "protein_single"
+    ],
+    "marker_type": "protein_single",
+    "n_panels": 22,
+    "n_rows": 5,
+    "organism": "Homo sapiens",
+    "confidence": 1.0,
+    "gene_name": "MUC1"
+  },
+  "MUC5AC": {
+    "protein_name": "Mucin-5AC",
+    "uniprot": "P98088",
+    "function": "Gel-forming glycoprotein of gastric and respiratory tract epithelia that protects the mucosa from infection and chemical damage by binding to inhaled microorganisms and particles that are subsequently removed by the mucociliary system (PubMed:14535999, PubMed:14718370). Interacts with H.pylori in the gastric epithelium, Barrett's esophagus as well as in gastric metaplasia of the duodenum (GMD) (PubMed:14535999)",
+    "location": [
+      "Secreted"
+    ],
+    "categories": [
+      "protein_single"
+    ],
+    "marker_type": "protein_single",
+    "n_panels": 63,
+    "n_rows": 3,
+    "organism": "Homo sapiens",
+    "confidence": 1.0,
+    "gene_name": "MUC5AC"
+  },
+  "MYH11": {
+    "protein_name": "Myosin-11",
+    "uniprot": "P35749",
+    "function": "Muscle contraction",
+    "location": [
+      "Melanosome"
+    ],
+    "categories": [
+      "protein_single"
+    ],
+    "marker_type": "protein_single",
+    "n_panels": 32,
+    "n_rows": 5,
+    "organism": "Homo sapiens",
+    "confidence": 1.0,
+    "gene_name": "MYH11"
+  },
+  "Muc2": {
+    "protein_name": "Mucin-2",
+    "uniprot": "Q02817",
+    "function": "Coats the epithelia of the intestines and other mucus membrane-containing organs to provide a protective, lubricating barrier against particles and infectious agents at mucosal surfaces (PubMed:17058067, PubMed:19432394, PubMed:33031746). Major constituent of the colon mucus, which is mainly formed by large polymeric networks of MUC2 secreted by goblet cells that cover the exposed surfaces of intestine (PubMed:19432394, PubMed:33031746). MUC2 networks form hydrogels that guard the underlying epithelium from pathogens and other hazardous matter entering from the outside world, while permitting nutrient absorption and gas exchange (PubMed:33031746, PubMed:36206754). Acts as a divalent copper chaperone that protects intestinal cells from copper toxicity and facilitates nutritional copper unptake into cells (PubMed:36206754). Binds both Cu(2+) and its reduced form, Cu(1+), at two juxtaposed binding sites: Cu(2+), once reduced to Cu(1+) by vitamin C (ascorbate) or other dietary antioxidants, transits to the other binding site (PubMed:36206754). MUC2-bound Cu(1+) is protected from oxidation in aerobic environments, and can be released for nutritional delivery to cells (PubMed:36206754). Mucin gels store antimicrobial molecules that participate in innate immunity (PubMed:33031746). Mucin glycoproteins also house and feed the microbiome, lubricate tissue surfaces, and may facilitate the removal of contaminants and waste products from the body (PubMed:33031746). Goblet cells synthesize two forms of MUC2 mucin that differ in branched chain O-glycosylation and the site of production in the colon: a (1) 'thick' mucus that wraps the microbiota to form fecal pellets is produced in the proximal, ascending colon (By similarity). 'Thick' mucus transits along the descending colon and is lubricated by a (2) 'thin' MUC2 mucus produced in the distal colon which adheres to the 'thick' mucus (By similarity)",
+    "location": [
+      "Secreted"
+    ],
+    "categories": [
+      "protein_single"
+    ],
+    "marker_type": "protein_single",
+    "n_panels": 335,
+    "n_rows": 13,
+    "organism": "Homo sapiens",
+    "confidence": 1.0,
+    "gene_name": "MUC2"
+  },
+  "NAKATAase": {
+    "protein_name": null,
+    "uniprot": null,
+    "function": null,
+    "location": [],
+    "categories": [
+      "protein_single"
+    ],
+    "marker_type": "protein_single",
+    "n_panels": 1,
+    "n_rows": 1
+  },
+  "NEURL1": {
+    "protein_name": "E3 ubiquitin-protein ligase NEURL1",
+    "uniprot": "O76050",
+    "function": "Plays a role in hippocampal-dependent synaptic plasticity, learning and memory. Involved in the formation of spines and functional synaptic contacts by modulating the translational activity of the cytoplasmic polyadenylation element-binding protein CPEB3. Promotes ubiquitination of CPEB3, and hence induces CPEB3-dependent mRNA translation activation of glutamate receptor GRIA1 and GRIA2. Can function as an E3 ubiquitin-protein ligase to activate monoubiquitination of JAG1 (in vitro), thereby regulating the Notch pathway. Acts as a tumor suppressor; inhibits malignant cell transformation of medulloblastoma (MB) cells by inhibiting the Notch signaling pathway",
+    "location": [
+      "Cytoplasm, perinuclear region",
+      "Cell membrane",
+      "Perikaryon",
+      "Cell projection, dendrite",
+      "Postsynaptic density"
+    ],
+    "categories": [
+      "protein_single"
+    ],
+    "marker_type": "protein_single",
+    "n_panels": 1,
+    "n_rows": 1,
+    "organism": "Homo sapiens",
+    "confidence": 1.0,
+    "gene_name": "NEURL1"
+  },
+  "NOVA2": {
+    "protein_name": "RNA-binding protein Nova-2",
+    "uniprot": "Q9UNW9",
+    "function": "Functions to regulate alternative splicing in neurons by binding pre-mRNA in a sequence-specific manner to activate exon inclusion or exclusion (PubMed:32197073). It binds specifically to the sequences 5'-YCAY-3' and regulates splicing in only a subset of regulated exons (PubMed:10811881). Binding to an exonic 5'-YCAY-3' cluster changes the protein complexes assembled on pre-mRNA, blocking U1 snRNP binding and exon inclusion, whereas binding to an intronic 5'-YCAY-3' cluster enhances spliceosome assembly and exon inclusion. With NOVA1, they perform unique biological functions in different brain areas and cell types. Uniquely regulates alternative splicing events of a series of axon guidance related genes during cortical development, being essential for central nervous system development by regulating neural networks wiring. Regulates differentially alternative splicing on the same transcripts expressed in different neurons. This includes functional differences in transcripts expressed in cortical and cerebellar excitatory versus inhibitory neurons where is required for, respectively, development of laminar structure and motor coordination and synapse formation. Also the regulation the regulation of intron retention can sequester the trans-acting splicing factor PTBP2, acting as a variable cis-acting scaffolding platform for PTBP2 across various natural conditions (By similarity)",
+    "location": [
+      "Nucleus"
+    ],
+    "categories": [
+      "protein_single"
+    ],
+    "marker_type": "protein_single",
+    "n_panels": 1,
+    "n_rows": 1,
+    "organism": "Homo sapiens",
+    "confidence": 1.0,
+    "gene_name": "NOVA2"
+  },
+  "NaKATPase": {
+    "protein_name": "Potassium-transporting ATPase alpha chain 1",
+    "uniprot": "P20648",
+    "function": "The catalytic subunit of the gastric H(+)/K(+) ATPase pump which transports H(+) ions in exchange for K(+) ions across the apical membrane of parietal cells. Uses ATP as an energy source to pump H(+) ions to the gastric lumen while transporting K(+) ion from the lumen into the cell (By similarity). Remarkably generates a million-fold proton gradient across the gastric parietal cell membrane, acidifying the gastric juice down to pH 1 (By similarity). Within a transport cycle, the transfer of a H(+) ion across the membrane is coupled to ATP hydrolysis and is associated with a transient phosphorylation that shifts the pump conformation from inward-facing (E1) to outward-facing state (E2). The release of the H(+) ion in the stomach lumen is followed by binding of K(+) ion converting the pump conformation back to the E1 state (By similarity)",
+    "location": [
+      "Apical cell membrane"
+    ],
+    "categories": [
+      "protein_single"
+    ],
+    "marker_type": "protein_single",
+    "n_panels": 244,
+    "n_rows": 11,
+    "organism": "Homo sapiens",
+    "confidence": 0.6,
+    "gene_name": "ATP4A"
+  },
+  "OLFM4": {
+    "protein_name": "Olfactomedin-4",
+    "uniprot": "Q6UX06",
+    "function": "May promote proliferation of pancreatic cancer cells by favoring the transition from the S to G2/M phase. In myeloid leukemic cell lines, inhibits cell growth and induces cell differentiation and apoptosis. May play a role in the inhibition of EIF4EBP1 phosphorylation/deactivation. Facilitates cell adhesion, most probably through interaction with cell surface lectins and cadherin",
+    "location": [
+      "Secreted, extracellular space",
+      "Mitochondrion"
+    ],
+    "categories": [
+      "protein_single"
+    ],
+    "marker_type": "protein_single",
+    "n_panels": 273,
+    "n_rows": 11,
+    "organism": "Homo sapiens",
+    "confidence": 1.0,
+    "gene_name": "OLFM4"
+  },
+  "OTOP3": {
+    "protein_name": "Proton channel OTOP3",
+    "uniprot": "Q7RTS5",
+    "function": "Proton-selective channel gated by extracellular protons",
+    "location": [
+      "Cell membrane"
+    ],
+    "categories": [
+      "protein_single"
+    ],
+    "marker_type": "protein_single",
+    "n_panels": 1,
+    "n_rows": 1,
+    "organism": "Homo sapiens",
+    "confidence": 1.0,
+    "gene_name": "OTOP3"
+  },
+  "PBX3": {
+    "protein_name": "Pre-B-cell leukemia transcription factor 3",
+    "uniprot": "P40426",
+    "function": "Transcriptional activator that binds the sequence 5'-ATCAATCAA-3'",
+    "location": [
+      "Nucleus"
+    ],
+    "categories": [
+      "protein_single"
+    ],
+    "marker_type": "protein_single",
+    "n_panels": 1,
+    "n_rows": 1,
+    "organism": "Homo sapiens",
+    "confidence": 1.0,
+    "gene_name": "PBX3"
+  },
+  "PCNA": {
+    "protein_name": "DNA sliding clamp PCNA",
+    "uniprot": "P12004",
+    "function": "Confers DNA tethering and processivity to DNA polymerases and other proteins (PubMed:24695737, PubMed:24939902, PubMed:35585232). Auxiliary protein of DNA polymerase delta and epsilon, is involved in the control of DNA replication by increasing the polymerases' processivity during elongation of the leading strand (PubMed:35585232). Induces a robust stimulatory effect on the 3'-5' exonuclease and 3'-phosphodiesterase, but not apurinic-apyrimidinic (AP) endonuclease, APEX2 activities. Has to be loaded onto DNA in order to be able to stimulate APEX2. Plays a key role in DNA damage response (DDR) by being conveniently positioned at the replication fork to coordinate DNA replication with DNA repair and DNA damage tolerance pathways (PubMed:24939902). Acts as a loading platform to recruit DDR proteins that allow completion of DNA replication after DNA damage and promote postreplication repair: monoubiquitinated PCNA leads to recruitment of translesion (TLS) polymerases, while 'Lys-63'-linked polyubiquitination of PCNA is involved in error-free pathway and employs recombination mechanisms to synthesize across the lesion (PubMed:24695737)",
+    "location": [
+      "Nucleus"
+    ],
+    "categories": [
+      "protein_single"
+    ],
+    "marker_type": "protein_single",
+    "n_panels": 268,
+    "n_rows": 25,
+    "organism": "Homo sapiens",
+    "confidence": 1.0,
+    "gene_name": "PCNA"
+  },
+  "PD-L1": {
+    "protein_name": "Programmed cell death 1 ligand 1",
+    "uniprot": "Q9NZQ7",
+    "function": "Plays a critical role in induction and maintenance of immune tolerance to self (PubMed:11015443, PubMed:28813410, PubMed:28813417, PubMed:31399419). As a ligand for the inhibitory receptor PDCD1/PD-1, modulates the activation threshold of T-cells and limits T-cell effector response (PubMed:11015443, PubMed:28813410, PubMed:28813417, PubMed:36727298). Through a yet unknown activating receptor, may costimulate T-cell subsets that predominantly produce interleukin-10 (IL10) (PubMed:10581077). Can also act as a transcription coactivator: in response to hypoxia, translocates into the nucleus via its interaction with phosphorylated STAT3 and promotes transcription of GSDMC, leading to pyroptosis (PubMed:32929201)",
+    "location": [
+      "Cell membrane",
+      "Early endosome membrane",
+      "Recycling endosome membrane",
+      "Nucleus",
+      "Cell membrane",
+      "Endomembrane system",
+      "Secreted"
+    ],
+    "categories": [
+      "protein_single"
+    ],
+    "marker_type": "protein_single",
+    "n_panels": 203,
+    "n_rows": 64,
+    "organism": "Homo sapiens",
+    "confidence": 0.6,
+    "gene_name": "CD274"
+  },
+  "PD1": {
+    "protein_name": "Programmed cell death protein 1",
+    "uniprot": "Q15116",
+    "function": "Inhibitory receptor on antigen activated T-cells that plays a critical role in induction and maintenance of immune tolerance to self (PubMed:21276005, PubMed:31754127, PubMed:32184441, PubMed:37208329). Delivers inhibitory signals upon binding to ligands CD274/PDCD1L1 and CD273/PDCD1LG2 (PubMed:21276005, PubMed:26602187). Following T-cell receptor (TCR) engagement, PDCD1 associates with TCR-CD3 in the immunological synapse and directly inhibits T-cell activation (PubMed:32184441). Suppresses T-cell activation through the recruitment of PTPN11/SHP-2: following ligand-binding, PDCD1 is phosphorylated within the ITSM motif, leading to the recruitment of the protein tyrosine phosphatase PTPN11/SHP-2 that mediates dephosphorylation of key TCR proximal signaling molecules, such as ZAP70, PRKCQ/PKCtheta and CD247/CD3zeta (PubMed:32184441)",
+    "location": [
+      "Cell membrane"
+    ],
+    "categories": [
+      "protein_single"
+    ],
+    "marker_type": "protein_single",
+    "n_panels": 172,
+    "n_rows": 60,
+    "organism": "Homo sapiens",
+    "confidence": 0.6,
+    "gene_name": "PDCD1"
+  },
+  "PDE3A": {
+    "protein_name": "cGMP-inhibited 3',5'-cyclic phosphodiesterase 3A",
+    "uniprot": "Q14432",
+    "function": "Cyclic nucleotide phosphodiesterase with specificity for the second messengers cAMP and cGMP, which are key regulators of many important physiological processes (PubMed:1315035, PubMed:25961942, PubMed:8155697, PubMed:8695850). Also has activity toward cUMP (PubMed:27975297). Independently of its catalytic activity it is part of an E2/17beta-estradiol-induced pro-apoptotic signaling pathway. E2 stabilizes the PDE3A/SLFN12 complex in the cytosol, promoting the dephosphorylation of SLFN12 and activating its pro-apoptotic ribosomal RNA/rRNA ribonuclease activity. This apoptotic pathway might be relevant in tissues with high concentration of E2 and be for instance involved in placenta remodeling (PubMed:31420216, PubMed:34707099)",
+    "location": [
+      "Membrane",
+      "Cytoplasm, cytosol"
+    ],
+    "categories": [
+      "protein_single"
+    ],
+    "marker_type": "protein_single",
+    "n_panels": 2,
+    "n_rows": 1,
+    "organism": "Homo sapiens",
+    "confidence": 1.0,
+    "gene_name": "PDE3A"
+  },
+  "PDGFRB": {
+    "protein_name": "Platelet-derived growth factor receptor beta",
+    "uniprot": "P09619",
+    "function": "Tyrosine-protein kinase that acts as a cell-surface receptor for homodimeric PDGFB and PDGFD and for heterodimers formed by PDGFA and PDGFB, and plays an essential role in the regulation of embryonic development, cell proliferation, survival, differentiation, chemotaxis and migration. Plays an essential role in blood vessel development by promoting proliferation, migration and recruitment of pericytes and smooth muscle cells to endothelial cells. Plays a role in the migration of vascular smooth muscle cells and the formation of neointima at vascular injury sites. Required for normal development of the cardiovascular system. Required for normal recruitment of pericytes (mesangial cells) in the kidney glomerulus, and for normal formation of a branched network of capillaries in kidney glomeruli. Promotes rearrangement of the actin cytoskeleton and the formation of membrane ruffles. Binding of its cognate ligands - homodimeric PDGFB, heterodimers formed by PDGFA and PDGFB or homodimeric PDGFD -leads to the activation of several signaling cascades; the response depends on the nature of the bound ligand and is modulated by the formation of heterodimers between PDGFRA and PDGFRB. Phosphorylates PLCG1, PIK3R1, PTPN11, RASA1/GAP, CBL, SHC1 and NCK1. Activation of PLCG1 leads to the production of the cellular signaling molecules diacylglycerol and inositol 1,4,5-trisphosphate, mobilization of cytosolic Ca(2+) and the activation of protein kinase C. Phosphorylation of PIK3R1, the regulatory subunit of phosphatidylinositol 3-kinase, leads to the activation of the AKT1 signaling pathway. Phosphorylation of SHC1, or of the C-terminus of PTPN11, creates a binding site for GRB2, resulting in the activation of HRAS, RAF1 and down-stream MAP kinases, including MAPK1/ERK2 and/or MAPK3/ERK1. Promotes phosphorylation and activation of SRC family kinases. Promotes phosphorylation of PDCD6IP/ALIX and STAM. Receptor signaling is down-regulated by protein phosphatases that dephosphorylate the receptor and its down-stream effectors, and by rapid internalization of the activated receptor",
+    "location": [
+      "Cell membrane",
+      "Cytoplasmic vesicle",
+      "Lysosome lumen"
+    ],
+    "categories": [
+      "protein_single"
+    ],
+    "marker_type": "protein_single",
+    "n_panels": 4,
+    "n_rows": 1,
+    "organism": "Homo sapiens",
+    "confidence": 1.0,
+    "gene_name": "PDGFRB"
+  },
+  "PDPN": {
+    "protein_name": "Podoplanin",
+    "uniprot": "Q86YL7",
+    "function": "Mediates effects on cell migration and adhesion through its different partners. During development plays a role in blood and lymphatic vessels separation by binding CLEC1B, triggering CLEC1B activation in platelets and leading to platelet activation and/or aggregation (PubMed:14522983, PubMed:15231832, PubMed:17222411, PubMed:17616532, PubMed:18215137). Interaction with CD9, on the contrary, attenuates platelet aggregation induced by PDPN (PubMed:18541721). Through MSN or EZR interaction promotes epithelial-mesenchymal transition (EMT) leading to ERZ phosphorylation and triggering RHOA activation leading to cell migration increase and invasiveness (PubMed:17046996, PubMed:21376833). Interaction with CD44 promotes directional cell migration in epithelial and tumor cells (PubMed:20962267). In lymph nodes (LNs), controls fibroblastic reticular cells (FRCs) adhesion to the extracellular matrix (ECM) and contraction of the actomyosin by maintaining ERM proteins (EZR; MSN and RDX) and MYL9 activation through association with unknown transmembrane proteins. Engagement of CLEC1B by PDPN promotes FRCs relaxation by blocking lateral membrane interactions leading to reduction of ERM proteins (EZR; MSN and RDX) and MYL9 activation (By similarity). Through binding with LGALS8 may participate in connection of the lymphatic endothelium to the surrounding extracellular matrix (PubMed:19268462). In keratinocytes, induces changes in cell morphology showing an elongated shape, numerous membrane protrusions, major reorganization of the actin cytoskeleton, increased motility and decreased cell adhesion (PubMed:15515019). Controls invadopodia stability and maturation leading to efficient degradation of the extracellular matrix (ECM) in tumor cells through modulation of RHOC activity in order to activate ROCK1/ROCK2 and LIMK1/LIMK2 and inactivation of CFL1 (PubMed:25486435). Required for normal lung cell proliferation and alveolus formation at birth (By similarity). Does not function as a water channel or as a regulator of aquaporin-type water channels (PubMed:9651190). Does not have any effect on folic acid or amino acid transport (By similarity)",
+    "location": [
+      "Membrane",
+      "Cell projection, lamellipodium membrane",
+      "Cell projection, filopodium membrane",
+      "Cell projection, microvillus membrane",
+      "Cell projection, ruffle membrane",
+      "Membrane raft",
+      "Apical cell membrane",
+      "Basolateral cell membrane",
+      "Cell projection, invadopodium",
+      "Cytoplasm, cytosol"
+    ],
+    "categories": [
+      "protein_single"
+    ],
+    "marker_type": "protein_single",
+    "n_panels": 38,
+    "n_rows": 10,
+    "organism": "Homo sapiens",
+    "confidence": 1.0,
+    "gene_name": "PDPN"
+  },
+  "PDX1": {
+    "protein_name": "Pancreas/duodenum homeobox protein 1",
+    "uniprot": "P52945",
+    "function": "Activates insulin, somatostatin, glucokinase, islet amyloid polypeptide and glucose transporter type 2 gene transcription. Particularly involved in glucose-dependent regulation of insulin gene transcription. As part of a PDX1:PBX1b:MEIS2b complex in pancreatic acinar cells is involved in the transcriptional activation of the ELA1 enhancer; the complex binds to the enhancer B element and cooperates with the transcription factor 1 complex (PTF1) bound to the enhancer A element. Binds preferentially the DNA motif 5'-[CT]TAAT[TG]-3'. During development, specifies the early pancreatic epithelium, permitting its proliferation, branching and subsequent differentiation. At adult stage, required for maintaining the hormone-producing phenotype of the beta-cell",
+    "location": [
+      "Nucleus",
+      "Cytoplasm, cytosol"
+    ],
+    "categories": [
+      "protein_single"
+    ],
+    "marker_type": "protein_single",
+    "n_panels": 4,
+    "n_rows": 1,
+    "organism": "Homo sapiens",
+    "confidence": 1.0,
+    "gene_name": "PDX1"
+  },
+  "PLIN4": {
+    "protein_name": "Perilipin-4",
+    "uniprot": "Q96Q06",
+    "function": "May play a role in triacylglycerol packaging into adipocytes. May function as a coat protein involved in the biogenesis of lipid droplets (By similarity)",
+    "location": [
+      "Cell membrane",
+      "Cytoplasm",
+      "Lipid droplet"
+    ],
+    "categories": [
+      "protein_single"
+    ],
+    "marker_type": "protein_single",
+    "n_panels": 1,
+    "n_rows": 1,
+    "organism": "Homo sapiens",
+    "confidence": 1.0,
+    "gene_name": "PLIN4"
+  },
+  "Pan-KRT": {
+    "protein_name": null,
+    "uniprot": null,
+    "function": null,
+    "location": [],
+    "categories": [
+      "protein_group"
+    ],
+    "marker_type": "protein_group",
+    "n_panels": 4,
+    "n_rows": 1
+  },
+  "PanCK": {
+    "protein_name": null,
+    "uniprot": null,
+    "function": null,
+    "location": [],
+    "categories": [
+      "protein_single"
+    ],
+    "marker_type": "protein_single",
+    "n_panels": 288,
+    "n_rows": 24
+  },
+  "PanCytokeratin": {
+    "protein_name": null,
+    "uniprot": null,
+    "function": null,
+    "location": [],
+    "categories": [
+      "protein_single"
+    ],
+    "marker_type": "protein_single",
+    "n_panels": 139,
+    "n_rows": 38
+  },
+  "Podoplanin": {
+    "protein_name": "Podoplanin",
+    "uniprot": "Q86YL7",
+    "function": "Mediates effects on cell migration and adhesion through its different partners. During development plays a role in blood and lymphatic vessels separation by binding CLEC1B, triggering CLEC1B activation in platelets and leading to platelet activation and/or aggregation (PubMed:14522983, PubMed:15231832, PubMed:17222411, PubMed:17616532, PubMed:18215137). Interaction with CD9, on the contrary, attenuates platelet aggregation induced by PDPN (PubMed:18541721). Through MSN or EZR interaction promotes epithelial-mesenchymal transition (EMT) leading to ERZ phosphorylation and triggering RHOA activation leading to cell migration increase and invasiveness (PubMed:17046996, PubMed:21376833). Interaction with CD44 promotes directional cell migration in epithelial and tumor cells (PubMed:20962267). In lymph nodes (LNs), controls fibroblastic reticular cells (FRCs) adhesion to the extracellular matrix (ECM) and contraction of the actomyosin by maintaining ERM proteins (EZR; MSN and RDX) and MYL9 activation through association with unknown transmembrane proteins. Engagement of CLEC1B by PDPN promotes FRCs relaxation by blocking lateral membrane interactions leading to reduction of ERM proteins (EZR; MSN and RDX) and MYL9 activation (By similarity). Through binding with LGALS8 may participate in connection of the lymphatic endothelium to the surrounding extracellular matrix (PubMed:19268462). In keratinocytes, induces changes in cell morphology showing an elongated shape, numerous membrane protrusions, major reorganization of the actin cytoskeleton, increased motility and decreased cell adhesion (PubMed:15515019). Controls invadopodia stability and maturation leading to efficient degradation of the extracellular matrix (ECM) in tumor cells through modulation of RHOC activity in order to activate ROCK1/ROCK2 and LIMK1/LIMK2 and inactivation of CFL1 (PubMed:25486435). Required for normal lung cell proliferation and alveolus formation at birth (By similarity). Does not function as a water channel or as a regulator of aquaporin-type water channels (PubMed:9651190). Does not have any effect on folic acid or amino acid transport (By similarity)",
+    "location": [
+      "Membrane",
+      "Cell projection, lamellipodium membrane",
+      "Cell projection, filopodium membrane",
+      "Cell projection, microvillus membrane",
+      "Cell projection, ruffle membrane",
+      "Membrane raft",
+      "Apical cell membrane",
+      "Basolateral cell membrane",
+      "Cell projection, invadopodium",
+      "Cytoplasm, cytosol"
+    ],
+    "categories": [
+      "protein_single"
+    ],
+    "marker_type": "protein_single",
+    "n_panels": 146,
+    "n_rows": 16,
+    "organism": "Homo sapiens",
+    "confidence": 0.6,
+    "gene_name": "PDPN"
+  },
+  "R": {
+    "protein_name": null,
+    "uniprot": null,
+    "function": null,
+    "location": [],
+    "categories": [
+      "other"
+    ],
+    "marker_type": "other",
+    "n_panels": 1,
+    "n_rows": 1
+  },
+  "RAB6B": {
+    "protein_name": "Ras-related protein Rab-6B",
+    "uniprot": "Q9NRW1",
+    "function": "The small GTPases Rab are key regulators of intracellular membrane trafficking, from the formation of transport vesicles to their fusion with membranes. Rabs cycle between active GTP-bound and inactive GDP-bound states. In their active state, drive transport of vesicular carriers from donor organelles to acceptor organelles to regulate the membrane traffic that maintains organelle identity and morphology (By similarity). Recruits VPS13B to the Golgi membrane (PubMed:25492866). Regulates the compacted morphology of the Golgi (PubMed:26209634). Seems to have a role in retrograde membrane traffic at the level of the Golgi complex. May function in retrograde transport in neuronal cells (PubMed:17707369). Plays a role in neuron projection development (PubMed:25492866)",
+    "location": [
+      "Golgi apparatus membrane",
+      "Endoplasmic reticulum-Golgi intermediate compartment",
+      "Cytoplasmic vesicle"
+    ],
+    "categories": [
+      "protein_single"
+    ],
+    "marker_type": "protein_single",
+    "n_panels": 2,
+    "n_rows": 1,
+    "organism": "Homo sapiens",
+    "confidence": 1.0,
+    "gene_name": "RAB6B"
+  },
+  "REG4": {
+    "protein_name": "Regenerating islet-derived protein 4",
+    "uniprot": "Q9BYZ8",
+    "function": "Calcium-independent lectin displaying mannose-binding specificity and able to maintain carbohydrate recognition activity in an acidic environment. May be involved in inflammatory and metaplastic responses of the gastrointestinal epithelium",
+    "location": [
+      "Secreted"
+    ],
+    "categories": [
+      "protein_single"
+    ],
+    "marker_type": "protein_single",
+    "n_panels": 1,
+    "n_rows": 1,
+    "organism": "Homo sapiens",
+    "confidence": 1.0,
+    "gene_name": "REG4"
+  },
+  "RETNLB": {
+    "protein_name": "Resistin-like beta",
+    "uniprot": "Q9BQ08",
+    "function": "Probable hormone",
+    "location": [
+      "Secreted"
+    ],
+    "categories": [
+      "protein_single"
+    ],
+    "marker_type": "protein_single",
+    "n_panels": 1,
+    "n_rows": 1,
+    "organism": "Homo sapiens",
+    "confidence": 1.0,
+    "gene_name": "RETNLB"
+  },
+  "RSPO3": {
+    "protein_name": "R-spondin-3",
+    "uniprot": "Q9BXY4",
+    "function": "Activator of the canonical Wnt signaling pathway by acting as a ligand for LGR4-6 receptors, which acts as a key regulator of angiogenesis. Upon binding to LGR4-6 (LGR4, LGR5 or LGR6), LGR4-6 associate with phosphorylated LRP6 and frizzled receptors that are activated by extracellular Wnt receptors, triggering the canonical Wnt signaling pathway to increase expression of target genes. Also regulates the canonical Wnt/beta-catenin-dependent pathway and non-canonical Wnt signaling by acting as an inhibitor of ZNRF3, an important regulator of the Wnt signaling pathway. Acts as a ligand for frizzled FZD8 and LRP6. May negatively regulate the TGF-beta pathway (PubMed:21727895, PubMed:21909076, PubMed:22615920). Acts as a key regulator of angiogenesis by controlling vascular stability and pruning: acts by activating the non-canonical Wnt signaling pathway in endothelial cells (By similarity) (PubMed:21727895, PubMed:21909076, PubMed:22615920). Can also amplify Wnt signaling pathway independently of LGR4-6 receptors, possibly by acting as a direct antagonistic ligand to RNF43 and ZNRF3 (PubMed:29769720)",
+    "location": [
+      "Secreted"
+    ],
+    "categories": [
+      "protein_single"
+    ],
+    "marker_type": "protein_single",
+    "n_panels": 18,
+    "n_rows": 4,
+    "organism": "Homo sapiens",
+    "confidence": 1.0,
+    "gene_name": "RSPO3"
+  },
+  "RUNX1": {
+    "protein_name": "Runt-related transcription factor 1",
+    "uniprot": "Q01196",
+    "function": "Forms the heterodimeric complex core-binding factor (CBF) with CBFB. RUNX members modulate the transcription of their target genes through recognizing the core consensus binding sequence 5'-TGTGGT-3', or very rarely, 5'-TGCGGT-3', within their regulatory regions via their runt domain, while CBFB is a non-DNA-binding regulatory subunit that allosterically enhances the sequence-specific DNA-binding capacity of RUNX. The heterodimers bind to the core site of a number of enhancers and promoters, including murine leukemia virus, polyomavirus enhancer, T-cell receptor enhancers, LCK, IL3 and GM-CSF promoters (Probable). Essential for the development of normal hematopoiesis (PubMed:17431401). Acts synergistically with ELF4 to transactivate the IL-3 promoter and with ELF2 to transactivate the BLK promoter (PubMed:10207087, PubMed:14970218). Inhibits KAT6B-dependent transcriptional activation (By similarity). Involved in lineage commitment of immature T cell precursors. CBF complexes repress ZBTB7B transcription factor during cytotoxic (CD8+) T cell development. They bind to RUNX-binding sequence within the ZBTB7B locus acting as transcriptional silencer and allowing for cytotoxic T cell differentiation. CBF complexes binding to the transcriptional silencer is essential for recruitment of nuclear protein complexes that catalyze epigenetic modifications to establish epigenetic ZBTB7B silencing (By similarity). Controls the anergy and suppressive function of regulatory T-cells (Treg) by associating with FOXP3. Activates the expression of IL2 and IFNG and down-regulates the expression of TNFRSF18, IL2RA and CTLA4, in conventional T-cells (PubMed:17377532). Positively regulates the expression of RORC in T-helper 17 cells (By similarity)",
+    "location": [
+      "Nucleus"
+    ],
+    "categories": [
+      "protein_single"
+    ],
+    "marker_type": "protein_single",
+    "n_panels": 14,
+    "n_rows": 1,
+    "organism": "Homo sapiens",
+    "confidence": 1.0,
+    "gene_name": "RUNX1"
+  },
+  "SLC19A2": {
+    "protein_name": "Thiamine transporter 1",
+    "uniprot": "O60779",
+    "function": "High-affinity transporter for the intake of thiamine (PubMed:10391222, PubMed:10542220, PubMed:21836059, PubMed:33008889, PubMed:35512554, PubMed:35724964). Mediates H(+)-dependent pyridoxine transport (PubMed:33008889, PubMed:35512554, PubMed:35724964)",
+    "location": [
+      "Cell membrane"
+    ],
+    "categories": [
+      "protein_single"
+    ],
+    "marker_type": "protein_single",
+    "n_panels": 15,
+    "n_rows": 2,
+    "organism": "Homo sapiens",
+    "confidence": 1.0,
+    "gene_name": "SLC19A2"
+  },
+  "SMA": {
+    "protein_name": "SMAD family member 6",
+    "uniprot": "O43541",
+    "function": "Acts as an inhibitory regulator of signaling mediated by the TGF-beta superfamily, with strong selectivity toward BMP-dependent pathways (PubMed:10647776, PubMed:10708948, PubMed:10708949, PubMed:16951688, PubMed:22275001, PubMed:30848080, PubMed:9436979, PubMed:9759503). Suppresses IL1R-TLR signaling through its direct interaction with PEL1, preventing NF-kappa-B activation, nuclear translocation and NF-kappa-B-mediated expression of pro-inflammatory genes (PubMed:16951688). Blocks the BMP-SMAD1 signaling pathway by competing with SMAD4 for receptor-activated SMAD1-binding (PubMed:30848080, PubMed:9436979). Associates with regulatory elements in target promoter regions (PubMed:16491121). Functions as an adapter protein that recruits ubiquitin ligases, including SMURF1 and, in some contexts, SMURF2, promoting proteasomal degradation of signaling components and transcription factors such as RUNX2, TBX6, BMPR1A and MYD88 (PubMed:16299379, PubMed:19561075, PubMed:28847510)",
+    "location": [
+      "Nucleus",
+      "Cytoplasm"
+    ],
+    "categories": [
+      "protein_single"
+    ],
+    "marker_type": "protein_single",
+    "n_panels": 452,
+    "n_rows": 31,
+    "organism": "Homo sapiens",
+    "confidence": 0.8,
+    "gene_name": "SMAD6"
+  },
+  "SMARCC1": {
+    "protein_name": "SWI/SNF complex subunit SMARCC1",
+    "uniprot": "Q92922",
+    "function": "Involved in transcriptional activation and repression of select genes by chromatin remodeling (alteration of DNA-nucleosome topology). Component of SWI/SNF chromatin remodeling complexes that carry out key enzymatic activities, changing chromatin structure by altering DNA-histone contacts within a nucleosome in an ATP-dependent manner. May stimulate the ATPase activity of the catalytic subunit of the complex (PubMed:10078207, PubMed:29374058). Belongs to the neural progenitors-specific chromatin remodeling complex (npBAF complex) and the neuron-specific chromatin remodeling complex (nBAF complex). During neural development a switch from a stem/progenitor to a postmitotic chromatin remodeling mechanism occurs as neurons exit the cell cycle and become committed to their adult state. The transition from proliferating neural stem/progenitor cells to postmitotic neurons requires a switch in subunit composition of the npBAF and nBAF complexes. As neural progenitors exit mitosis and differentiate into neurons, npBAF complexes which contain ACTL6A/BAF53A and PHF10/BAF45A, are exchanged for homologous alternative ACTL6B/BAF53B and DPF1/BAF45B or DPF3/BAF45C subunits in neuron-specific complexes (nBAF). The npBAF complex is essential for the self-renewal/proliferative capacity of the multipotent neural stem cells. The nBAF complex along with CREST plays a role regulating the activity of genes essential for dendrite growth (By similarity)",
+    "location": [
+      "Nucleus",
+      "Cytoplasm"
+    ],
+    "categories": [
+      "protein_single"
+    ],
+    "marker_type": "protein_single",
+    "n_panels": 1,
+    "n_rows": 1,
+    "organism": "Homo sapiens",
+    "confidence": 1.0,
+    "gene_name": "SMARCC1"
+  },
+  "SMOC2": {
+    "protein_name": "SPARC-related modular calcium-binding protein 2",
+    "uniprot": "Q9H3U7",
+    "function": "Promotes matrix assembly and cell adhesiveness (By similarity). Can stimulate endothelial cell proliferation, migration, as well as angiogenesis",
+    "location": [
+      "Secreted, extracellular space, extracellular matrix, basement membrane"
+    ],
+    "categories": [
+      "protein_single"
+    ],
+    "marker_type": "protein_single",
+    "n_panels": 12,
+    "n_rows": 2,
+    "organism": "Homo sapiens",
+    "confidence": 1.0,
+    "gene_name": "SMOC2"
+  },
+  "SNA": {
+    "protein_name": null,
+    "uniprot": null,
+    "function": null,
+    "location": [],
+    "categories": [
+      "chemical_stain"
+    ],
+    "marker_type": "chemical_stain",
+    "n_panels": 178,
+    "n_rows": 5
+  },
+  "SOX17": {
+    "protein_name": "Transcription factor SOX-17",
+    "uniprot": "Q9H6I2",
+    "function": "Acts as a transcription regulator that binds target promoter DNA (PubMed:33952808). Binds to the sequences 5'-AACAAT-'3 or 5'-AACAAAG-3'. Modulates transcriptional regulation via WNT3A. Inhibits Wnt signaling. Promotes degradation of activated CTNNB1. Plays a key role in the regulation of embryonic development. Required for normal development of the definitive gut endoderm. Required for normal looping of the embryonic heart tube. Plays an important role in embryonic and postnatal vascular development, including development of arteries. Plays an important role in postnatal angiogenesis, where it is functionally redundant with SOX18. Required for the generation and maintenance of fetal hematopoietic stem cells, and for fetal hematopoiesis. Probable transcriptional activator in the premeiotic germ cells",
+    "location": [
+      "Nucleus"
+    ],
+    "categories": [
+      "protein_single"
+    ],
+    "marker_type": "protein_single",
+    "n_panels": 1,
+    "n_rows": 1,
+    "organism": "Homo sapiens",
+    "confidence": 1.0,
+    "gene_name": "SOX17"
+  },
+  "SOX2": {
+    "protein_name": "Transcription factor SOX-2",
+    "uniprot": "P48431",
+    "function": "Transcription factor that forms a trimeric complex with OCT4 on DNA and controls the expression of a number of genes involved in embryonic development such as YES1, FGF4, UTF1 and ZFP206 (By similarity). Binds to the proximal enhancer region of NANOG (By similarity). Critical for early embryogenesis and for embryonic stem cell pluripotency (PubMed:18035408). Downstream SRRT target that mediates the promotion of neural stem cell self-renewal (By similarity). Keeps neural cells undifferentiated by counteracting the activity of proneural proteins and suppresses neuronal differentiation (By similarity). May function as a switch in neuronal development (By similarity)",
+    "location": [
+      "Nucleus speckle",
+      "Cytoplasm",
+      "Nucleus"
+    ],
+    "categories": [
+      "protein_single"
+    ],
+    "marker_type": "protein_single",
+    "n_panels": 20,
+    "n_rows": 10,
+    "organism": "Homo sapiens",
+    "confidence": 1.0,
+    "gene_name": "SOX2"
+  },
+  "SSR4": {
+    "protein_name": "Translocon-associated protein subunit delta",
+    "uniprot": "P51571",
+    "function": "TRAP proteins are part of a complex whose function is to bind calcium to the ER membrane and thereby regulate the retention of ER resident proteins",
+    "location": [
+      "Endoplasmic reticulum membrane"
+    ],
+    "categories": [
+      "protein_single"
+    ],
+    "marker_type": "protein_single",
+    "n_panels": 2,
+    "n_rows": 1,
+    "organism": "Homo sapiens",
+    "confidence": 1.0,
+    "gene_name": "SSR4"
+  },
+  "SYNAPTOPHYSIN": {
+    "protein_name": "Synaptophysin",
+    "uniprot": "P08247",
+    "function": "Possibly involved in structural functions as organizing other membrane components or in targeting the vesicles to the plasma membrane. Involved in the regulation of short-term and long-term synaptic plasticity (By similarity)",
+    "location": [
+      "Cytoplasmic vesicle, secretory vesicle, synaptic vesicle membrane",
+      "Synapse, synaptosome"
+    ],
+    "categories": [
+      "protein_single"
+    ],
+    "marker_type": "protein_single",
+    "n_panels": 25,
+    "n_rows": 1,
+    "organism": "Homo sapiens",
+    "confidence": 0.6,
+    "gene_name": "SYP"
+  },
+  "Sox9": {
+    "protein_name": "Transcription factor SOX-9",
+    "uniprot": "P48436",
+    "function": "Transcription factor that plays a key role in chondrocytes differentiation and skeletal development (PubMed:24038782). Specifically binds the 5'-ACAAAG-3' DNA motif present in enhancers and super-enhancers and promotes expression of genes important for chondrogenesis, including cartilage matrix protein-coding genes COL2A1, COL4A2, COL9A1, COL11A2 and ACAN, SOX5 and SOX6 (PubMed:8640233). Also binds to some promoter regions (By similarity). Plays a central role in successive steps of chondrocyte differentiation (By similarity). Absolutely required for precartilaginous condensation, the first step in chondrogenesis during which skeletal progenitors differentiate into prechondrocytes (By similarity). Together with SOX5 and SOX6, required for overt chondrogenesis when condensed prechondrocytes differentiate into early stage chondrocytes, the second step in chondrogenesis (By similarity). Later, required to direct hypertrophic maturation and block osteoblast differentiation of growth plate chondrocytes: maintains chondrocyte columnar proliferation, delays prehypertrophy and then prevents osteoblastic differentiation of chondrocytes by lowering beta-catenin (CTNNB1) signaling and RUNX2 expression (By similarity). Also required for chondrocyte hypertrophy, both indirectly, by keeping the lineage fate of chondrocytes, and directly, by remaining present in upper hypertrophic cells and transactivating COL10A1 along with MEF2C (By similarity). Low lipid levels are the main nutritional determinant for chondrogenic commitment of skeletal progenitor cells: when lipids levels are low, FOXO (FOXO1 and FOXO3) transcription factors promote expression of SOX9, which induces chondrogenic commitment and suppresses fatty acid oxidation (By similarity). Mechanistically, helps, but is not required, to remove epigenetic signatures of transcriptional repression and deposit active promoter and enhancer marks at chondrocyte-specific genes (By similarity). Acts in cooperation with the Hedgehog pathway-dependent GLI (GLI1 and GLI3) transcription factors (By similarity). In addition to cartilage development, also acts as a regulator of proliferation and differentiation in epithelial stem/progenitor cells: involved in the lung epithelium during branching morphogenesis, by balancing proliferation and differentiation and regulating the extracellular matrix (By similarity). Controls epithelial branching during kidney development (By similarity)",
+    "location": [
+      "Nucleus"
+    ],
+    "categories": [
+      "protein_single"
+    ],
+    "marker_type": "protein_single",
+    "n_panels": 319,
+    "n_rows": 9,
+    "organism": "Homo sapiens",
+    "confidence": 1.0,
+    "gene_name": "SOX9"
+  },
+  "Synaphysin": {
+    "protein_name": null,
+    "uniprot": null,
+    "function": null,
+    "location": [],
+    "categories": [
+      "protein_single"
+    ],
+    "marker_type": "protein_single",
+    "n_panels": 4,
+    "n_rows": 1
+  },
+  "TCF1/TCF7": {
+    "protein_name": "Transcription factor 7",
+    "uniprot": "P36402",
+    "function": "Transcriptional activator involved in T-cell lymphocyte differentiation. Necessary for the survival of CD4(+) CD8(+) immature thymocytes. Isoforms lacking the N-terminal CTNNB1 binding domain cannot fulfill this role. Binds to the T-lymphocyte-specific enhancer element (5'-WWCAAAG-3') found in the promoter of the CD3E gene. Represses expression of the T-cell receptor gamma gene in alpha-beta T-cell lineages (By similarity). Required for the development of natural killer receptor-positive lymphoid tissue inducer T-cells (By similarity). TLE1, TLE2, TLE3 and TLE4 repress transactivation mediated by TCF7 and CTNNB1. May also act as feedback transcriptional repressor of CTNNB1 and TCF7L2 target genes",
+    "location": [
+      "Nucleus"
+    ],
+    "categories": [
+      "protein_single"
+    ],
+    "marker_type": "protein_single",
+    "n_panels": 2,
+    "n_rows": 2,
+    "organism": "Homo sapiens",
+    "confidence": 0.8,
+    "gene_name": "TCF7"
+  },
+  "TERT": {
+    "protein_name": "Telomerase reverse transcriptase",
+    "uniprot": "O14746",
+    "function": "Telomerase is a ribonucleoprotein enzyme essential for the replication of chromosome termini in most eukaryotes. Active in progenitor and cancer cells. Inactive, or very low activity, in normal somatic cells. Catalytic component of the teleromerase holoenzyme complex whose main activity is the elongation of telomeres by acting as a reverse transcriptase that adds simple sequence repeats to chromosome ends by copying a template sequence within the RNA component of the enzyme. Catalyzes the RNA-dependent extension of 3'-chromosomal termini with the 6-nucleotide telomeric repeat unit, 5'-TTAGGG-3'. The catalytic cycle involves primer binding, primer extension and release of product once the template boundary has been reached or nascent product translocation followed by further extension. More active on substrates containing 2 or 3 telomeric repeats. Telomerase activity is regulated by a number of factors including telomerase complex-associated proteins, chaperones and polypeptide modifiers. Modulates Wnt signaling. Plays important roles in aging and antiapoptosis",
+    "location": [
+      "Nucleus, nucleolus",
+      "Nucleus, nucleoplasm",
+      "Nucleus",
+      "Chromosome, telomere",
+      "Cytoplasm",
+      "Nucleus, PML body"
+    ],
+    "categories": [
+      "protein_single"
+    ],
+    "marker_type": "protein_single",
+    "n_panels": 1,
+    "n_rows": 1,
+    "organism": "Homo sapiens",
+    "confidence": 1.0,
+    "gene_name": "TERT"
+  },
+  "VCAN": {
+    "protein_name": "Versican core protein",
+    "uniprot": "P13611",
+    "function": "May play a role in intercellular signaling and in connecting cells with the extracellular matrix. May take part in the regulation of cell motility, growth and differentiation. Binds hyaluronic acid",
+    "location": [
+      "Secreted, extracellular space, extracellular matrix",
+      "Cell projection, cilium, photoreceptor outer segment",
+      "Secreted, extracellular space, extracellular matrix, interphotoreceptor matrix",
+      "Secreted"
+    ],
+    "categories": [
+      "protein_single"
+    ],
+    "marker_type": "protein_single",
+    "n_panels": 14,
+    "n_rows": 1,
+    "organism": "Homo sapiens",
+    "confidence": 1.0,
+    "gene_name": "VCAN"
+  },
+  "Vimentin": {
+    "protein_name": "Vimentin",
+    "uniprot": "P08670",
+    "function": "Vimentins are class-III intermediate filaments found in various non-epithelial cells, especially mesenchymal cells. Vimentin is attached to the nucleus, endoplasmic reticulum, and mitochondria, either laterally or terminally. Plays a role in cell directional movement, orientation, cell sheet organization and Golgi complex polarization at the cell migration front (By similarity). Protects SCRIB from proteasomal degradation and facilitates its localization to intermediate filaments in a cell contact-mediated manner (By similarity). May promote axon outgrowth and motor fiber repair via DSP-mediated recruitment to outgrowth tips (By similarity)",
+    "location": [
+      "Cytoplasm",
+      "Cytoplasm, cytoskeleton",
+      "Nucleus matrix",
+      "Cell membrane",
+      "Cell projection, axon"
+    ],
+    "categories": [
+      "protein_single"
+    ],
+    "marker_type": "protein_single",
+    "n_panels": 473,
+    "n_rows": 40,
+    "organism": "Homo sapiens",
+    "confidence": 0.8,
+    "gene_name": "VIM"
+  },
+  "WNT2": {
+    "protein_name": "Protein Wnt-2",
+    "uniprot": "P09544",
+    "function": "Ligand for members of the frizzled family of seven transmembrane receptors. Functions in the canonical Wnt signaling pathway that results in activation of transcription factors of the TCF/LEF family (PubMed:20018874). Functions as a upstream regulator of FGF10 expression. Plays an important role in embryonic lung development. May contribute to embryonic brain development by regulating the proliferation of dopaminergic precursors and neurons (By similarity)",
+    "location": [
+      "Secreted, extracellular space, extracellular matrix",
+      "Secreted"
+    ],
+    "categories": [
+      "protein_single"
+    ],
+    "marker_type": "protein_single",
+    "n_panels": 4,
+    "n_rows": 1,
+    "organism": "Homo sapiens",
+    "confidence": 1.0,
+    "gene_name": "WNT2"
+  },
+  "WNT2B": {
+    "protein_name": "Protein Wnt-2b",
+    "uniprot": "Q93097",
+    "function": "Ligand for members of the frizzled family of seven transmembrane receptors. Functions in the canonical Wnt/beta-catenin signaling pathway. Plays a redundant role in embryonic lung development",
+    "location": [
+      "Secreted, extracellular space, extracellular matrix",
+      "Secreted"
+    ],
+    "categories": [
+      "protein_single"
+    ],
+    "marker_type": "protein_single",
+    "n_panels": 27,
+    "n_rows": 4,
+    "organism": "Homo sapiens",
+    "confidence": 1.0,
+    "gene_name": "WNT2B"
+  },
+  "WNT5B": {
+    "protein_name": "Protein Wnt-5b",
+    "uniprot": "Q9H1J7",
+    "function": "Ligand for members of the frizzled family of seven transmembrane receptors. Probable developmental protein. May be a signaling molecule which affects the development of discrete regions of tissues. Is likely to signal over only few cell diameters (By similarity)",
+    "location": [
+      "Secreted, extracellular space, extracellular matrix"
+    ],
+    "categories": [
+      "protein_single"
+    ],
+    "marker_type": "protein_single",
+    "n_panels": 31,
+    "n_rows": 5,
+    "organism": "Homo sapiens",
+    "confidence": 1.0,
+    "gene_name": "WNT5B"
+  },
+  "alpha SMA": {
+    "protein_name": "SMAD family member 9",
+    "uniprot": "O15198",
+    "function": "Transcriptional modulator activated by BMP (bone morphogenetic proteins) type 1 receptor kinase. SMAD9 is a receptor-regulated SMAD (R-SMAD)",
+    "location": [
+      "Cytoplasm",
+      "Nucleus"
+    ],
+    "categories": [
+      "protein_single"
+    ],
+    "marker_type": "protein_single",
+    "n_panels": 45,
+    "n_rows": 17,
+    "organism": "Homo sapiens",
+    "confidence": 0.6,
+    "gene_name": "SMAD9"
+  },
+  "blank_or_background": {
+    "protein_name": null,
+    "uniprot": null,
+    "function": null,
+    "location": [],
+    "categories": [
+      "blank_or_background"
+    ],
+    "marker_type": "blank_or_background",
+    "n_panels": 20,
+    "n_rows": 17
+  },
+  "p-STAT3": {
+    "protein_name": "Signal transducer and activator of transcription 3",
+    "uniprot": "P40763",
+    "function": "Signal transducer and transcription activator that mediates cellular responses to interleukins, KITLG/SCF, LEP and other growth factors (PubMed:10688651, PubMed:11294841, PubMed:12359225, PubMed:12873986, PubMed:15194700, PubMed:15653507, PubMed:16285960, PubMed:17344214, PubMed:18242580, PubMed:18782771, PubMed:22306293, PubMed:23084476, PubMed:28262505, PubMed:32929201, PubMed:38404237). Once activated, recruits coactivators, such as NCOA1 or MED1, to the promoter region of the target gene (PubMed:15653507, PubMed:16285960, PubMed:17344214, PubMed:18782771, PubMed:28262505, PubMed:32929201). May mediate cellular responses to activated FGFR1, FGFR2, FGFR3 and FGFR4 (PubMed:12873986). Upon activation of IL6ST/gp130 signaling by interleukin-6 (IL6), binds to the IL6-responsive elements identified in the promoters of various acute-phase protein genes (PubMed:12359225). Activated by IL31 through IL31RA (PubMed:15194700). Acts as a regulator of inflammatory response by regulating differentiation of naive CD4(+) T-cells into T-helper Th17 or regulatory T-cells (Treg): acetylation promotes its transcription activity and cell differentiation while deacetylation and oxidation of lysine residues by LOXL3 inhibits differentiation (PubMed:28065600, PubMed:28262505). Involved in cell cycle regulation by inducing the expression of key genes for the progression from G1 to S phase, such as CCND1 (PubMed:17344214). Mediates the effects of LEP on melanocortin production, body energy homeostasis and lactation (By similarity). May play an apoptotic role by transactivating BIRC5 expression under LEP activation (PubMed:18242580). Cytoplasmic STAT3 represses macroautophagy by inhibiting EIF2AK2/PKR activity (PubMed:23084476). Plays a crucial role in basal beta cell functions, such as regulation of insulin secretion (By similarity). Following JAK/STAT signaling activation and as part of a complex with NFATC3 and NFATC4, binds to the alpha-beta E4 promoter region of CRYAB and activates transcription in cardiomyocytes (By similarity). Involved in the oncostatin-M-mediated signaling pathway through both type I OSM receptor complex (heterodimers composed of LIFR and IL6ST) and type II OSM receptor complex (heterodimers composed of OSMR and IL6ST) (PubMed:9188471)",
+    "location": [
+      "Cytoplasm",
+      "Nucleus"
+    ],
+    "categories": [
+      "protein_single"
+    ],
+    "marker_type": "protein_single",
+    "n_panels": 245,
+    "n_rows": 8,
+    "organism": "Homo sapiens",
+    "confidence": 0.8,
+    "gene_name": "STAT3"
+  },
+  "pEGFR": {
+    "protein_name": null,
+    "uniprot": null,
+    "function": null,
+    "location": [],
+    "categories": [
+      "protein_single"
+    ],
+    "marker_type": "protein_single",
+    "n_panels": 240,
+    "n_rows": 3
+  },
+  "unknown": {
+    "protein_name": null,
+    "uniprot": null,
+    "function": null,
+    "location": [],
+    "categories": [
+      "blank_or_background"
+    ],
+    "marker_type": "blank_or_background",
+    "n_panels": 9,
+    "n_rows": 8
+  },
+  "unknown_marker_9999": {
+    "protein_name": null,
+    "uniprot": null,
+    "function": null,
+    "location": [],
+    "categories": [
+      "other"
+    ],
+    "marker_type": "other",
+    "n_panels": 2,
+    "n_rows": 2
+  }
+}

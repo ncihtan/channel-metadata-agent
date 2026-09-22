@@ -14,5 +14,9 @@ claude-agent-sdk>=0.1.0  # Claude Agent SDK for agentic workflows
 requests>=2.31.0         # HTTP requests
 tenacity>=8.2.0          # Retry logic with exponential backoff
 
+# HTAN data access (stages 0.1 and 3.1)
+google-cloud-bigquery>=3.0.0  # HTAN release tables
+synapseclient>=4.0.0          # Channel metadata file download
+
 # Optional: For faster processing
 # python-levenshtein>=0.21.0  # Faster Levenshtein distance (optional, uses built-in if not available)
