@@ -1,0 +1,446 @@
+cd_name,description
+CD1*,MHC-like molecule that presents lipid molecules
+CD1a,"CD1a (Cluster of Differentiation 1a), or T-cell surface glycoprotein CD1a, is a human protein encoded by the CD1A gene. An antigen-presenting protein that binds self and non-self lipid and glycolipid antigens and presents them to T-cell receptors on natural killer T-cells."
+CD1b,"T-cell surface glycoprotein CD1b. Expressed on cortical thymocytes, certain T-cell leukemias and other tissues."
+CD1c,T-cell surface glycoprotein CD1c.
+CD1d,"T-cell surface glycoprotein CD1d encoded by the CD1D gene. CD1d-presented lipid antigens activate a special class of T cells, known as natural killer T (NKT) cells, through the interaction with the T-cell receptor present on NKT membranes"
+CD1e,T-cell surface glycoprotein CD1e is a protein in humans encoded by the CD1E gene.
+CD2,"a type I transmembrane protein found on thymocytes, T cells, and some natural killer cells that acts as a ligand for CD58 and CD59 and is involved in signal transduction and cell adhesion; expressed in T-cell acute lymphoblastic leukemia and T-cell lymphoma."
+CD3*,the signaling component of the T cell receptor (TCR) complex
+CD3d,T-cell surface glycoprotein CD3 delta chain
+CD3e,T-cell surface glycoprotein CD3 epsilon chain
+CD3g,T-cell surface glycoprotein CD3 gamma chain
+CD4,"a co-receptor for MHC Class II (with TCR, T-cell receptor); found on the surface of immune cells such as T helper cells, monocytes, macrophages, and dendritic cells. Used by HIV to enter T cells: in HIV infection. CD8+ cytotoxic T cells recognize and kill infected cells hence they are predominantly for protection against intracellular pathogens, e.g. viruses, and some bacteria, i.e. Rickettsiae"
+CD5,"a type I transmembrane protein found on T cells, thymocytes, and some B cells that is a ligand for CD72 and is involved in cellular activation or adhesion; expressed in B-cell chronic lymphocytic leukemia and T-cell lymphoma."
+CD6,adhesion molecule linking developing thymus-cells to thymus epithelial cells; co-stimulator to mature T cells; binds CD166
+CD7,"a type I transmembrane protein found on thymocytes, some T cells, monocytes, natural killer cells, and hematopoietic stem cells; expressed in patients with mycosis fungoides, some patients with T-cell acute lymphoblastic leukemia, and a few patients with acute nonlymphocytic leukemia"
+CD8*,"a co-receptor (with TCR, T-cell receptor) for MHC Class I; mostly found on cytotoxic T cells, but also on natural killer cells, cortical thymocytes, and a subset of myeloid dendritic cells. In HIV infection, CD8+ cytotoxic T cells recognise and kill infected CD4+ helper T cells, which are critical for the body's immunity. In HBV infection CD8+ cytotoxic T cells are involved in liver injury by killing infected cells and by producing antiviral cytokines capable of purging HBV from viable hepatocytes. There are two isoforms of the protein, alpha and beta, each encoded by a different gene (below)."
+CD8a,T-cell surface glycoprotein CD8 alpha chain. Identifies cytotoxic/suppressor T-cells that interact with MHC class I bearing targets
+CD8b,T-cell surface glycoprotein CD8 beta chain.
+CD9,"a member of the Tetraspanin superfamily expressed in a variety of cells, including: pre B cells, eosinophils, basophils and platelets."
+CD10,"a type II transmembrane protein found on pre-B cells, germinal-center B cells, some neutrophils, kidney cells, T-cell precursors, and epithelial cells that acts as a zinc metalloprotease cleaving peptide bonds on the amino side of hydrophobic amino acids; expressed in acute lymphocytic leukemia and follicular-center-cell lymphomas."
+CD11a,"Integrin Alpha L (ITGAL), the alpha subunit of LFA-1, a membrane glycoprotein that provides cell-cell adhesion by interaction with ICAM-1"
+CD11b,"Integrin Alpha M (ITGAM); the alpha subunit of Mac-1 (Macrophage-1 antigen), the CR3 complement receptor which consists of CD11b and CD18. CR3 is a human cell surface receptor, found on polymorphonuclear leukocytes (mostly neutrophils), NK cells, and mononuclear phagocytes like macrophages, which is capable of recognizing and binding to many molecules found on the surfaces of invading bacteria. Binding to the receptor causes phagocytosis and destruction of the foreign cell."
+CD11c,"Integrin Alpha X (ITGAX), the alpha subunit of (iC3b) receptor 4 (CR4). It is a type I transmembrane protein found on monocytes, macrophages, neutrophils, and some B cells that induces cellular activation and helps trigger neutrophil respiratory burst; expressed in hairy cell leukemias, acute nonlymphocytic leukemias, and some B-cell chronic lymphocytic leukemias. Also one of the defining markers for dendritic cells and hairy cell leukemia cells."
+CD11d,"Integrin alpha-D - ITGAD. Integrin alpha-D/beta-2 is a receptor for ICAM3 and VCAM1. May play a role in the atherosclerotic process such as clearing lipoproteins from plaques and in phagocytosis of blood-borne pathogens, particulate matter, and senescent erythrocytes from the blood."
+CD13,"a zinc metalloproteinase, also known as aminopeptidase N, which is found naturally on myelomonocytic cells from early differentiation through maturity; usually present on acute myeloid leukemia blasts and rarely found in some forms of lymphoma and lymphocytic leukemia"
+CD14,a membrane protein found on macrophages which binds to bacterial lipopolysaccharide.
+CD15,"a carbohydrate adhesion molecule (not a protein) that mediates phagocytosis and chemotaxis, found on neutrophils; expressed in patients with Hodgkin disease, some B-cell chronic lymphocytic leukemias, acute lymphoblastic leukemias, and most acute nonlymphocytic leukemias. It is also called Lewis x and SSEA-1 (stage specific embryonic antigen 1) and represents a marker for murine pluripotent stem cells, in which it plays an important role in adhesion and migration of the cells in the preimplantation embryo."
+CD16*,"FcγRIII, a low-affinity Fc receptor for IgG. Found on NK cells, macrophages, and neutrophils."
+CD16a,"Low affinity immunoglobulin gamma Fc region receptor III-A encoded by the FCGR3A gene. Mutations in the gene associated with immunodeficiency, particularly severe Epstein Barr virus and HPV infections."
+CD16b,Low affinity immunoglobulin gamma Fc region receptor III-B encoded by the FCGR3B gene. Expressed by neutrophils and stimulated eosinophils
+CD17,possible role in phagocytosis. Bacteria binding.
+CD18,Integrin Beta 2 chain (ITGB2). Adhesion and signaling in the hematopoietic system.
+CD19,"B-lymphocyte surface antigen B4, component of the B-cell co-receptor; highly represented in B-cell malignancies, CD19 is the target of several CAR-T and mAb cancer drugs in development e.g. Juno JCAR015, Kite KTE-C19 CAR, Novartis CTL019, Morphosys MOR208, Macrogenics MGD011, Affimed AFM11"
+CD20,"a type III transmembrane protein found on B cells that forms a calcium channel in the cell membrane allowing for the influx of calcium required for cell activation; expressed in B-cell lymphomas, hairy cell leukemia, and B-cell chronic lymphocytic leukemia. Important for therapy of those diseases, as antibodies against CD20 exist: e.g. Rituximab and Ofatumumab, with several more in development. Similarly, anti-CD20 monoclonal antibody Ocrelizumab is in trials for multiple sclerosis."
+CD21,"CR2, a type I transmembrane protein found in the cytoplasm of pre-B cells and on the surface of mature B cells, follicular dendritic cells, pharyngeal and cervical epithelial cells, some thymocytes, and some T cells that plays a role in signal transduction; expressed in hairy cell leukemia, B-cell lymphoma, and some T-cell acute lymphocytic leukemias. Receptor for complement (C3d) and Epstein–Barr virus (EBV)."
+CD22,"a sugar binding transmembrane protein that specifically binds sialic acid with an immunoglobulin (Ig) domain located at its N-terminus. It is a member of the immunoglobulin superfamily and the SIGLEC family. CD22 functions as an inhibitory receptor for B cell receptor (BCR) signalling. Like CD19, CD22 is a cell surface marker for lymphocytes that is present on most B cell malignancies, including acute lymphoblastic leukemia and various subtypes of non-Hodgkin lymphoma, including diffuse large B-cell lymphoma. CD22 expression has been shown to be maintained in acute lymphoblastic leukemia that has lost CD19, making anti-CD22 a potential combination or follow on therapy for anti-CD19 therapy. Anti-CD22 monoclonal antibodies have been developed, notably inotuzumab ozogamicin, approved by the FDA in 2017 for relapsed and refractory CD22-positive B-ALL. Currently Juno Therapeutics has an anti-CD22 CAR-T in development."
+CD23,"a type II transmembrane protein found on mature B cells, monocytes, activated macrophages, eosinophils, platelets, and dendritic cells that enhances capture and processing of antigen complexed with IgE."
+CD24,a glycoprotein expressed at the surface of most B lymphocytes and differentiating neuroblasts. This gene encodes a sialoglycoprotein that is expressed on mature granulocytes and in many B cells. The encoded protein is anchored via a glycosyl phosphatidylinositol (GPI) link to the cell surface. Is also known as Heat Stable Antigen (HSA).
+CD25,"a type I transmembrane protein present on activated T cells, activated B cells, some thymocytes, myeloid precursors, and oligodendrocytes that associates with CD122 to form a heterodimer that can act as a high-affinity receptor for IL-2; expressed in most B-cell neoplasms, some acute nonlymphocytic leukemias, and neuroblastomas."
+CD26,Membrane-bound protease. T-cell costimulatory molecule. Cell adhesion molecule
+CD27,"TNF-receptor (Tumor necrosis factor receptor superfamily member 7). Present on the surface of resting memory B cells. Binds to ligand CD70. Celldex has an agonist anti-CD27 mAb, CDX-1127, in early stage trials, which activates T-cells by substituting for CD70 and may have anti-tumour effects. Human B and T cell lymphomas often express CD27 at high levels."
+CD28,"costimulatory receptor present on all T-cells. It functions by binding one of two possible costimulatory ligands, CD80 (B7.1) or CD86 (B7.2), thus eliciting a costimulatory effect on the T-cell"
+CD29,AKA integrin beta-1 - a cell adhesion molecule.
+CD30,"a type I transmembrane protein present on activated T and B cells that may play a role in cell activation and/or differentiation; expressed in Hodgkin disease, some T-cell lymphomas, and anaplastic large cell lymphomas."
+CD31,"PECAM-1, a cell adhesion molecule on platelets and endothelial cells"
+CD32A**,"FcγRII-a, a receptor for the Fc (constant) region of immunoglobulin G (IgG). Of the related pair FCGR2A and FCGR2B (CD32B), the 'A' type is considered the activating isoform."
+CD32B**,"FcγRII-b, a receptor for the Fc (constant) region of immunoglobulin G (IgG). Of the related pair FCGR2A (CD32A) and FCGR2B, the 'B' type is considered the inhibitory isoform. Ligation of CD32B on B cells downregulates antibody production and may, in some circumstances, promote apoptosis. Co-ligation of CD32B on dendritic cells inhibits maturation and blocks cell activation."
+CD33,"a marker of unknown function found on immature myeloid cells, including acute myeloid leukemia blasts and mature monocytes. Anti-CD33 monoclonal antibodies are extensively used for the diagnosis of all types of AMLs."
+CD34,"stem cell marker, adhesion, found on hematopoietic precursors (found in high concentrations in umbilical cord blood), capillary endothelium, and embryonic fibroblasts"
+CD35,Complement receptor 1 (C3b/C4b receptor)
+CD36,Platelet glycoprotein IV or IIIb (GP IV / GP IIIb)
+CD37,"A leucocyte restricted tetraspanin expressed primarily in B cells, but also found on T cells, Monocytes and Granulocytes."
+CD38,"involved in ecto-ADP-ribosyl cyclase and cell activation on many hematopoietic, plasma, and B & T activated cells; marker increases with HIV seroconversion, coexpression with CD8 associated with progression (indicates persistent viral stimulation). Some antibodies targeting CD38 are being tested in multiple myeloma and non-Hodgkin's lymphoma e.g. Daratumumab or Celgene's MOR202."
+CD39,"Also known as Ectonucleoside triphosphate diphosphohydrolase 1 (ENTPD1). Hydrolyzes nucleotide substrates at extremely high turnover rates, converting ATP directly into AMP without releasing ADP. Forms oligomers that are essential for its enzymatic activity."
+CD40,A costimulatory protein found on antigen presenting cells. CD40 combines with its ligand CD154 (CD40L) on T cells to induce antibody isotype switching in B cells. Under investigation as an antibody target for solid tumor (e.g. Roche RG7876).
+CD41,Integrin subunit αIIb; Gene ITGA2B. Glycoprotein IIb (GPIIb): Component of the integrin αIIbβ3 (GPIIb-IIIa) fibrinogen receptor; major role is in platelet aggregation.&#91;1&#93; Mutations in ITGA2B can be causative for Glanzmann thrombasthenia.
+CD42*,"the platelet Glycoprotein Ib/V/IX complex(GPIb/V/IX). Expressed on platelets and is a late, specific marker of megakaryocyte differentiation. The Glycoprotein Ib/V/IX complex is essential for normal haemostasis; deficiency results in Bernard-Soulier Syndrome, a syndrome of thrombocytopenia and giant platelets."
+CD42a,Platelet glycoprotein IX (GPIX) encoded by the GP9 gene.
+CD42b,Platelet glycoprotein Ib alpha chain encoded by the GP1BA gene.
+CD42c,Platelet glycoprotein Ib beta chain encoded by the GP1BB gene.
+CD42d,Platelet glycoprotein V encoded by the GP5 gene.
+CD43,CD43 is a sialomucin.
+CD44,"A family of matrix adhesion molecules formed by alternative mRNA splicing, that adhere to hyaluronate, collagen, laminin, and fibronectin. Helps maintain polarization of epithelial cells. Found on bone marrow stromal cells and many other cells."
+CD45,"leucocyte common antigen, a type I transmembrane protein present on all hemopoietic cells except erythrocytes that assists in cell activation; expressed in lymphomas, B-cell chronic lymphocytic leukemia, hairy cell leukemia, and acute nonlymphocytic leukemia."
+CD46,Inhibitory complement receptor which is ubiquitously expressed on human cells. Binding site for viral H (Hemagglutinin) protein.
+CD47,"Membrane protein, which is involved in the increase in intracellular calcium concentration that occurs upon cell adhesion to extracellular matrix. Binds to TSP-1 and SIRPa (CD172A). Tumor cells can evade macrophage phagocytosis through CD47 expression. An experimental drug from Trillium, SIRPαFc, targets CD47 thus allowing macrophages to destroy tumor cells in acute myeloid leukemia. In 2016, Celgene via Inhibrx, Forty Seven and several other biotech companies are also trialling anti-CD47 molecules to treat various cancers and other indications."
+CD48,CD48 is a human protein encoded by the CD48 gene. It is a universal cell membrane molecule present on all leukocytes.
+CD49a,Integrin alpha 1 subunit.
+CD49b,Very late antigen (VLA) alpha 2 chain; found on platelets and activated B and T cells.
+CD49c,"Very late antigen (VLA) alpha 3 chain; found on nonhematopoietic bone marrow cells. Receptor for collagen, laminin, fibronectin, and thrombospondin."
+CD49d,"Integrin alpha 4 subunit. Unlike other integrin alpha chains, alpha 4 neither contains an I-domain, nor undergoes disulfide-linked cleavage."
+CD49e,Integrin alpha 5 subunit. Alpha chain 5 undergoes post-translational cleavage in the extracellular domain to yield disulfide-linked light and heavy chains that join with beta 1 to form a fibronectin receptor.
+CD49f,Integrin alpha 6 subunit.
+CD50,Intercellular adhesion molecule 3 encoded by the ICAM3 gene.
+CD51,"CD51 is a type I integral membrane glycoprotein, known as vitronectin receptor α chain, or integrin αV. It forms heterodimer with integrin β1 (CD29), β3 (CD61), β5, β6, or β8. CD51 contains two disulfide-linked subunits of 125 kD and 24 kD, and is expressed on endothelial cells, fibroblasts, macrophages, platelets, osteoclasts, neuroblastoma, melanoma, and hepatoma cells.&#91;2&#93;"
+CD52,CAMPATH-1 antigen encoded by the CD52 gene.
+CD53,"A leucocyte restricted tetraspanin expressed by B cells, T cells, dendritic cells, monocytes, NK cells and Granulocytes."
+CD54,Intercellular adhesion molecule -1 (ICAM-1): facilitates adhesion between leukocytes and endothelial cells during the immune and inflammatory responses
+CD55,Complement Decay-Accelerating Factor (DAF): regulatory factor in one of the three pathways of the immune system complement cascade
+CD56,"140 kD isoform of NCAM (neural cell adhesion molecule), a marker for natural killer cells and some T-lymphocytes"
+CD57,"Is expressed by Natural Killer Cells subsets of T cells, B Cells, and Monocytes. Represents a carbohydrate epitope that contains a sulfoglucuronyl residue."
+CD58,a membrane protein present on many hemopoietic cells and fibroblasts that acts as a ligand for CD2 and may be involved in T-cell function.
+CD59,Membrane attack complex inhibition factor (MACIF); MAC-inhibitory protein (MAC-IP); Antigen MEM43; Protectin: Immune system complement cascade regulatory factor; Homologous restriction factor(HRF); Membrane Inhibitor of Reactive Lysis (MIRL)
+CD60a,GD3 ganglioside
+CD60b,9-O-acetyl-GD3 ganglioside
+CD60c,7-O-acetyl-GD3 ganglioside
+CD61,Integrin subunit β3; Gene ITGB3. Glycoprotein IIIa (GPIIIa): Component of the integrin αIIbβ3 (GPIIb-IIIa) fibrinogen receptor; major role is in platelet aggregation.&#91;1&#93; Mutations in ITGB3 can be causative for Glanzmann thrombasthenia.
+CD62E,E-selectin is a cell adhesion molecule expressed only on endothelial cells activated by cytokines.
+CD62L,L-selectin is a cell adhesion molecule found on leukocytes.
+CD62P,P-selectin is a cell adhesion molecule (CAM) found in membrane of Weibel-Palade bodies in endothelial cells (cells lining blood vessels) and in the membrane of the platelet granules. Hence increased expression of CD62P implies platelet activation
+CD63,"Member of the Tetraspanin family expressed in activated platelets, monocytes and macrophages."
+CD64a,Commonly known as Fc-gamma receptor 1 (FcγRI) with high-affinity to IgG. CD64 is found on macrophages and monocytes.
+CD65,Ceramide-dodecasaccharide; VIM-2
+CD65s,Sialylated-CD65; VIM2
+CD66a,CEACAM1 (Carcinoembryonic antigen-related cell adhesion molecule 1)
+CD66b,CEACAM8 (Carcinoembryonic antigen-related cell adhesion molecule 8)
+CD66c,CEACAM6 (Carcinoembryonic antigen-related cell adhesion molecule 6)
+CD66d,CEACAM3 (Carcinoembryonic antigen-related cell adhesion molecule 3)
+CD66e,CEACAM5 (Carcinoembryonic antigen-related cell adhesion molecule 5)
+CD66f,Pregnancy-specific beta-1-glycoprotein 1 encoded by the PSG1 gene. Produced in high quantity during pregnancy.
+CD68,"110 kDa highly glycosylated transmembrane protein which is mainly located in lysosomes. Present in macrophages in many human tissues including Kupffer's cells and macrophages in the red pulp of the spleen, in lung alveoli, in lamina propria of the gut, and in the bone marrow. Used as immunocytochemical marker for staining of monocytes/macrophages."
+CD69,An early activation marker on T cells and NK cells.
+CD70,Expressed on highly activated lymphocytes (like in T- and B-cell lymphomas). Its ligand is CD27.
+CD71,"Transferrin receptor (Transferrin receptor protein 1 - TfR1), mediates cellular uptake of iron. Ubiquitously expressed on dividing, normal (haematological precursors) and malignant cells. Currently investigated as a target for an antibody (""probody"") drug conjugate from Cytomx / Abbvie to treat various cancers."
+CD72,Mediator of B-cell - T-cell interactions
+CD73,"Also known as 5'-ribonucleotide phosphohydrolase. Is expressed on subsets of B-cells and T-cells, endothelial cells, pericytes, follicular dendritic cells, fibroblasts, epithelial cells, cardiomyocytes, neurons, osteoblasts and trophoblasts. Is also expressed on and used as an identification marker of Mesenchymal Stem Cells. Catalyzes the conversion of AMP to bioactive adenosine at neutral pH. Also has functions independent of its enzyme activity and can transmit potent activation signals in T-cells when ligated by antibodies. Upon binding of the antibody on lymphocytes, but not on endothelial cells, CD73 delivers a tyrosine phosphorylation inducing signal. Also functions as a cell adhesion molecule and mediates lymphocyte binding to endothelial cells and adhesion between B-cells and follicular dendritic cells"
+CD74,"Transmembrane protein that assists and maintains the assembly of MHC-II complexes in the ER until its loaded with peptide in Endosomes. Present in all professional APCs expressing MHC-II. It is more commonly named ""Invariant chain"" and coded in the HLA-II gene cluster."
+CD75,lactosamines
+CD75s,alpha-2;6-sialylated lactosamines
+CD77,ceramide trihexoside
+CD79A,"Also known as B-cell antigen receptor complex-associated protein alpha chain and MB-1 membrane glycoprotein, is a protein that in humans is encoded by the CD79A gene. Together with CD79B, forms a dimer associated with the formation of the B-cell antigen receptor (BCR), enabling a cell to respond to the presence of antigens on its surface."
+CD79B,"Also known as B-cell antigen receptor complex-associated protein beta chain, is a protein that in humans is encoded by the CD79B gene. Together with CD79A, forms a dimer associated with the formation of the B-cell antigen receptor (BCR), enabling a cell to respond to the presence of antigens on its surface. Roche is developing an antibody drug conjugate (RG7596) targeting CD76b in certain types of Non-Hogdkin Lymphoma. Macrogenics has started pre-clinical studies into a drug (MGD010) targeting CD79b and CD32b."
+CD80,"when bound to CD28 on T-cells, can provide the costimulatory effect; also referred to as B7.1, one of the B7 molecules. Causes up-regulation of a high affinity IL-2 receptor allowing T cells to proliferate."
+CD81,"A tetraspanin expressed in a wide variety of tissues, which plays an important role in B cells as part of the B cell co-receptor complex with CD19, Leu 13 and CD21. Also expressed in T cells, NK cells, Dendritic cells, Monocytes and blood progenitors."
+CD82,"Member of the tetraspanin family of transmembrane proteins. Broad tissue distribution including B cells, T cells, Granulocytes, Monocytes and CD34+ progenitors."
+CD83,"a 45 kDa transmembrane glycoprotein of the Ig superfamily. Expressed on cultured dendritic cells, interdigitating, follicular, and circulating dendritic cells as well as some proliferating lymphocyte of all human cell lines. Functionally unclear, but can serve as a useful marker for mature human blood dendritic cells."
+CD84,SLAM family member 5 (SLAMF5 - Signaling lymphocytic activation molecule 5) encoded by the CD84 gene. Plays a role as adhesion receptor.
+CD85A,LILRB3 - Leukocyte immunoglobulin-like receptor subfamily B member 3
+CD85B,LILRB6 - Leukocyte immunoglobulin-like receptor subfamily B member 6
+CD85C,LILRB5 - Leukocyte immunoglobulin-like receptor subfamily B member 5. Detected in natural killer (NK) cells.
+CD85D,LILRB2 - Leukocyte immunoglobulin-like receptor subfamily B member 2
+CD85F,LILRB7 - Leukocyte immunoglobulin-like receptor subfamily B member 7
+CD85G,LILRA4 - Leukocyte immunoglobulin-like receptor subfamily A member 4
+CD85H,LILRA2 - Leukocyte immunoglobulin-like receptor subfamily A member 2
+CD85I,LILRA1 - Leukocyte immunoglobulin-like receptor subfamily A member 1
+CD85J,LILRB1 - Leukocyte immunoglobulin-like receptor subfamily B member 1
+CD85K,LILRB4 - Leukocyte immunoglobulin-like receptor subfamily B member 4
+CD85M,LILRP2 LILRA5 - leukocyte immunoglobulin-like receptor subfamily A (without TM domain); member 5
+CD86,"when bound to CD28 on T-cells, can provide the costimulatory effect; also referred to as B7.2, one of the B7 molecules. Causes up-regulation of a high affinity IL-2 receptor allowing T cells to proliferate."
+CD87,"also referred to as the urokinase type plasminogen activator receptor, provides a binding point for urokinase type plasminogen activator"
+CD88,C5a receptor
+CD89,FcalphaRI - receptor for IgA
+CD90,Thy-1 Thymus cell antigen.
+CD91,"Low density lipoprotein (LDL) receptor-related protein 1 (LRP1) (also known as α2-macroglobulin receptor), a major endocytotic receptor with over 35 known ligands including amyloid precursor protein (APP), ApoE, and many proteins involved with protease regulation"
+CD92,Choline transporter-like protein 1 (CTL1) encoded by the SLC44A1 gene
+CD93,Complement component C1q receptor (C1QR1) encoded by the CD93 gene
+CD94,"Natural killer cells antigen CD94, encoded by the KLRD1 gene. Plays a role as a receptor for the recognition of MHC class I HLA-E molecules by NK cells and some cytotoxic T-cells."
+CD95,"Fas Receptor, encoded by FAS gene; receptor for Fas ligand (CD178 - FASLG), an extrinsic apoptotic signal i.e. Fas ligand binding to Fas receptor leads to apoptosis - death of the cell. Fas ligand/receptor interactions play an important role in the regulation of the immune system and the progression of cancer."
+CD96,CD96 is a transmembrane glycoprotein that has three extracellular immunoglobulin-like domains and is expressed by all resting human and mouse NK cells. CD96 main ligand is CD155. CD 96 has approximately 20% homology with CD226 and competed for binding to CD155 with CD226.
+CD97,CD97 antigen encoded by the CD97 gene. Receptor potentially involved in both adhesion and signaling processes early after leukocyte activation. Plays an essential role in leukocyte migration
+CD98,"is a glycoprotein that is a heterodimer composed of SLC3A2 and SLC7A5 that forms the large neutral amino acid transporter (LAT1). LAT1 is a heterodimeric membrane transport protein that preferentially transports branched-chain (valine, leucine, isoleucine) and aromatic (tryptophan, tyrosine) amino acids. LAT is highly expressed in brain capillaries (which form the blood–brain barrier) relative to other tissues. A functional LAT1 transporter is composed of two proteins encoded by two distinct genes:4F2hc/CD98 heavy subunit protein encoded by the SLC3A2 gene CD98 light subunit protein encoded by the SLC7A5."
+CD99,"Also known as MIC2 or single-chain type-1 glycoprotein, is a heavily O-glycosylated transmembrane protein. Unusually for a gene present on the X chromosome, the CD99 gene does not undergo X inactivation. It is expressed on all leukocytes but highest on thymocytes and is believed to augment T-cell adhesion and apoptosis of double positive t cells. It also participates in migration and activation. Also used to distinguish between various hematological malignancies."
+CD100,Also known as semaphorin 4D and is known as a potent proangiogenic molecule.
+CD101,Also known as IGSF2 or V7. It participates in human T-cell activation and is expressed by human skin dendritic cells
+CD102,"Intercellular adhesion molecule 2, encoded by ICAM2 gene."
+CD103,"A type I transmembrane protein present on intestinal intraepithelial lymphocytes, some circulating leukocytes, and some T cells that facilitates adhesion to epithelia; expressed in hairy cell leukemia and some B-cell chronic lymphocytic leukemias."
+CD104,"Integrin beta-4 (ITB4), encoded by the ITGB4 gene; receptor for laminin; structural role in epithelial cells; required for regulation of keratinocyte polarity and motility"
+CD105,"Endoglin, a regulatory component of the TGF-beta receptor-cell complex. Mediates cellular response to TGFbeta."
+CD106,VCAM-1; Alpha 4 beta 1 ligand. Adhesion molecule involved in white blood cell migration.
+CD107*,Found on Platelets
+CD107a,Lysosome-associated Membrane Protein 1 (LAMP1)
+CD107b,Lysosome-associated Membrane Protein 2 (LAMP2)
+CD108,"Semaphorin-7A, encoded by SEMA7A gene; also known as the John-Milton-Hagen (JMH) blood group antigen, a glycoprotein expressed on activated lymphocytes and erythrocytes"
+CD109,"r150, Gov alloantigen, an accessory receptor of the TGF-beta signaling pathway. Mediates cellular response to TGFbeta. Presents Gov alloantigens and ABH blood antigens."
+CD110,"Thrombopoietin receptor (TPOR), encoded by the MPL (myeloproliferative leukemia virus) gene; mutations in gene associated with forms of anemia, myelofibrosis and thrombocythemia."
+CD111,"Nectin-1 or Herpesvirus entry mediator C (HveC), encoded by the PVRL1 (Poliovirus receptor-related protein 1) gene. Key role in cellular entry of Herpes simplex virus."
+CD112,"Nectin-2 or Herpesvirus entry mediator B (HveB), encoded by the PVRL2 (Poliovirus receptor-related protein 2) gene. Involved in entry for some herpes simplex strains and pseudorabies. Variations in gene linked to severity of multiple sclerosis."
+CD113,"Nectin-3, encoded by the PVRL3 (Poliovirus receptor-related protein 3) gene. Role in cell-cell adhesion"
+CD114,"Granulocyte colony-stimulating factor receptor (GCSFR), encoded by the CSF3R gene; essential for granulocytic maturation"
+CD115,"a cell-surface protein encoded, in humans, by the CSF1R gene. Also known as colony stimulating factor 1 receptor (CSF1R) and/or as macrophage colony-stimulating factor receptor (M-CSFR). It is a receptor, known to be expressed on monocytes and macrophages, for a cytokine called colony stimulating factor 1 (CSF1) and also interleukin 34 (IL34). Binding to CSF1 and IL34 ligands activate CSF1R, promoting survival and activity of monocytes and macrophages. Five Prime has an early stage drug, FPA008, that blocks CSF1R in the hope of treating macrophage-dependent diseases including cancers and rheumatoid arthritis - in trials with Nivolumab. Roche also has an experimental anti-CD115 mAb, Emactuzumab.&#91;3&#93;"
+CD116,Granulocyte-macrophage colony-stimulating factor receptor subunit alpha (GMR-alpha); encoded by the CSF2RA gene
+CD117,"c-kit, the receptor for Stem Cell Factor, a glycoprotein that regulates cellular differentiation, particularly in hematopoiesis"
+CD118,"Leukemia inhibitory factor receptor, encoded by the LIFR gene; signal-transducing molecule"
+CD119,"Interferon gamma receptor 1, encoded by the IFNGR1 gene; receptor for interferon gamma - two receptors bind one interferon gamma dimer."
+CD120*,"a receptor for Tumour Necrosis Factor, an inflammatory cytokine"
+CD120a,"Tumor necrosis factor receptor superfamily member 1A (TNFR1), encoded by TNFRSF1A gene. Familial hibernian fever is caused by mutations in this gene."
+CD120b,"Tumor necrosis factor receptor superfamily member 1B (TNFR2), encoded by TNFRSF1B gene. Constituent of the drug Enbrel, used to treat rheumatoid arthritis."
+CD121a,"Interleukin-1 receptor type 1, encoded by IL1R1 gene; cytokine receptor"
+CD121b,"Interleukin-1 receptor type 2, encoded by IL1R2 gene; cytokine receptor"
+CD122,beta subunit of IL-2 receptor
+CD123,"Also known as interleukin-3 receptor (IL-3R), is a molecule found on cells which helps transmit the signal of interleukin-3, a soluble cytokine important in the immune system. It is found on pluripotent progenitor cells, induces tyrosine phosphorylation within the cell, and promotes proliferation and differentiation within the hematopoietic cell lines."
+CD124,Interleukin-4 receptor subunit alpha; encoded by IL4R gene. Receptor for both interleukin 4 and interleukin 13. IL4Ra is targeted by Regeneron-Sanofi antibody Dupilumab in the treatment of atopic dermatitis&#91;4&#93; and Pieris-Astra Zeneca investigational anticalin PRS-060 in the treatment of asthma.&#91;5&#93; Both drugs thus modulate signaling of the interleukin 4 and interleukin 13 pathways.
+CD125,Interleukin-5 receptor subunit alpha; encoded by IL5RA gene.
+CD126,Interleukin-6 receptor subunit alpha; encoded by IL6R gene.
+CD127,the IL-7 receptor alpha chain
+CD129,Interleukin-9 receptor; encoded by IL9R gene
+CD130,Interleukin-6 receptor subunit beta (IL6RB); encoded by IL6ST gene; signal-transducing molecule
+CD131,"Cytokine receptor common subunit beta; encoded by CSF2RB gene; high affinity receptor for interleukin-3, interleukin-5 and granulocyte-macrophage colony-stimulating factor. Gene mutation can cause a rare lung disorder."
+CD132,"Cytokine receptor common subunit gamma, or gamma subunit of IL-2 receptor (IL2RG). Gene mutation can cause rare x-linked immunodeficiency."
+CD133,"Prominin-1, (PROM1 gene); a hematopoietic and CNS stem cell marker. A 5 transmembrane domain protein. Also known as AC133. Gene mutations can cause various retinal diseases. Also found in various body fluids such as cerebrospinal fluid, saliva, seminal fluid and urine."
+CD134,"Tumor necrosis factor receptor superfamily member 4 (TNFRSF4), also known as OX40; a T-cell secondary costimulatory molecule which enhances proliferation, cytokine production and survival; its ligand OX40L, or CD252, binds to OX40 receptors on T-cells, preventing them from dying and subsequently increasing cytokine production. Without CD28, OX40 expression is delayed and reduced. OX40 also binds TRAF2, 3 and 5 and PI3K. OX40 gene mutations can cause a type of immunodeficiency. Roche has an experimental monoclonal antibody in development that targets OX40 (RG7888); anti-OX40 functions as an agonist antibody, which results in activation rather than blockade of the OX40 signaling pathway upon receptor binding; Medimmune AstraZeneca is developing 3 drugs targeting OX40 in colorectal, prostate, breast, and head and neck cancers; MEDI6383, MEDI0562, and MEDI6469"
+CD135,Also known as fms-like tyrosine kinase receptor-3 (Flt3) or fetal liver kinase-2 (Flk2); A cytokine receptor for Flt3 ligand (Flt3L) important in early hematopoiesis. Gene may be involved in acute myelogenous leukemia (AML).
+CD136,"Macrophage-stimulating protein receptor, (MST1R gene); binds to MST1 ligand;"
+CD137,"Tumor necrosis factor receptor superfamily member 9 (TNFRSF9), a member of the tumor necrosis factor (TNF) receptor family, also known as 4-1BB and Induced by Lymphocyte Activation (ILA). Targeted by Bristol Myers' Urelumab, a CD137 agonist antibody, in early trials with anti-PDL1 (CD274) mAbs; activating CD137 stimulates an immune response, in particular a cytotoxic T cell response, against tumor cells, though liver toxicity can be a problematic side effect. Pfizer also has an early-stage 4-1BB agonist (Utomilumab PF-2566) in combination trials, and Pieris is trialling PRS-343, a CD137 - HER2 bispecific (2016).&#91;6&#93;"
+CD138,"a plasma cell-surface glycoprotein, known as syndecan-1. Syndecan functions as the alpha receptor for collagen, fibronectin and thrombospondin."
+CD139,"(listed on HCDM as: not cloned, but monoclonal antibody ""BU30"" exists)"
+CD140A,"also known as Platelet-derived growth factor receptor, alpha (PDGFRA); a protein in humans encoded by PDGFRA gene. A cell surface tyrosine kinase receptor for members of the platelet-derived growth factor family. Lilly has developed Olaratumab, (LY3012207) a human IgG1 monoclonal antibody designed to bind to human PDGFRα with high affinity and block PDGF-AA, PDGF-BB, and PDGF-CC ligands from binding to the receptor and is conducting clinical trials in patients with soft-tissue sarcoma.&#91;7&#93;"
+CD140B,"also known as Platelet-derived growth factor receptor, beta (PDGFRB); a protein in humans encoded by PDGFRB gene. A cell surface tyrosine kinase receptor for members of the platelet-derived growth factor family."
+CD141,"Thrombomodulin or BDCA-3, an integral membrane protein. On endothelial cells, it is involved in anticoagulation. It also occurs, with unknown function, on a very rare subtype of dendritic cells."
+CD142,"Tissue factor, a major initiator of blood-clotting"
+CD143,Angiotensin-converting enzyme
+CD144,"VE-Cadherin, a calcium-dependent adhesion molecule at intercellular junctions, found mainly in the vascular endothelium. Recent research indicates that CD144 may be present on some leucocytes as well."
+CDw145,"(listed on HCDM as: not cloned, but two antibodies exist)"
+CD146,"Cell surface glycoprotein MUC18; encoded by MCAM (Melanoma cell adhesion molecule) gene; expression may allow melanoma cells to interact with cellular elements of vascular system, thus enhancing tumor spread"
+CD147,Neurothelin. An extracellular matrix metalloproteinase inducer.
+CD148,Receptor-type tyrosine-protein phosphatase eta; encoded by PTPRJ gene;
+CD150,Signaling lymphocytic activation molecule; encoded by SLAMF1 gene; important in bidirectional T-cell to B-cell stimulation; acts as a receptor for measles virus
+CD151,"Tetraspanin with a wide tissue distribution, including platelets, Megakaryocytes, Granulocytes and erythroleukemia."
+CD152,"Also called Cytotoxic T-lymphocyte antigen-4 (CTLA-4). Expressed in CD4+ T Lymphocytes but also found in some B Lymphocytes. Binds to CD80 and CD86 receptors with a higher affinity than CD28, and inhibits T cell activation. Targeted by drugs such as Ipilimumab for melanoma and other cancers."
+CD153,Tumor necrosis factor ligand superfamily member 8; encoded by TNFSF8 gene; CD30 ligand; induces proliferation of T-cells.
+CD154,"The ligand for CD40. This is a costimulatory molecule that plays many roles, best known for activating B cells but also known to induce the activation of an APC in association with T cell receptor stimulation by MHC molecules on the APC."
+CD155,"The poliovirus receptor, a protein that in humans that is encoded by the PVR gene. Also known as Necl5."
+CD156*,A member of A Disintegrin And Metalloprotease family
+CD156a,Disintegrin and metalloproteinase domain-containing protein 8; encoded by ADAM8 gene
+CD156b,Disintegrin and metalloproteinase domain-containing protein 17; encoded by ADAM17 gene
+CD156c,Disintegrin and metalloproteinase domain-containing protein 10; encoded by ADAM10 gene
+CD157,BST1 Bone marrow stromal cell antigen-1 is a stromal cell line-derived glycosylphosphatidylinositol-anchored molecule that facilitates pre-B-cell growth. The deduced amino acid sequence exhibits 33% similarity with CD38. BST1 expression is enhanced in bone marrow stromal cell lines derived from patients with rheumatoid arthritis.
+CD158*,"Killer cell immunoglobulin-like receptors (KIR) with two extracellular domains, variously expressed on NK cells. CD158a is KIR2DL1, CD158b is KIR2DL3, CD158d is KIR2DL4. Innate and Bristol Myers are testing monoclonal antibody Lirilumab, which binds to KIR2DL1 (CD158A) and KIR2DL2/3, thus blocking the interaction of KIR receptors with their HLA-C ligands, and preventing the inhibitory signal triggered by this interaction. Thus the cytotoxicity of NK cells is enhanced."
+CD158A,Killer cell immunoglobulin-like receptor 2DL1; encoded by KIR2DL1 gene; receptor on natural killer cells for HLA-C alleles; inhibits the activity of NK cells thus preventing cell lysis.
+CD158B1,"Killer cell immunoglobulin-like receptor 2DL2; encoded by KIR2DL2 gene; receptor on NK cells for HLA-Cw1, 3, 7, and 8 allotypes; inhibits activity of NK cells thus preventing cell lysis"
+CD158B2,Killer cell immunoglobulin-like receptor 2DL3; encoded by KIR2DL3 gene; receptor on natural killer cells for HLA-C alleles; inhibits activity of NK cells thus preventing cell lysis
+CD158C,Putative killer cell immunoglobulin-like receptor like protein KIR3DP1; encoded by KIR3DP1 gene; expressed in peripheral blood cells
+CD158D,Killer cell immunoglobulin-like receptor 2DL4; encoded by KIR2DL4 gene; receptor on NK cells for HLA-C alleles; inhibits NK cell activity thus prevents cell lysis.
+CD158E1,Killer cell immunoglobulin-like receptor 3DL1; encoded by KIR3DL1 gene; receptor on natural killer (NK) cells for HLA Bw4 allele; inhibits NK cell activity thus prevents cell lysis.
+CD158E2,Killer cell immunoglobulin-like receptor 3DS1; encoded by KIR3DS1 gene; receptor on natural killer (NK) cells for HLA-C alleles; does not inhibit activity of NK cells.
+CD158F1,Killer cell immunoglobulin-like receptor 2DL5A; encoded by KIR2DL5A gene; inhibits NK cell activity thus prevents cell lysis. **
+CD158F2,Killer cell immunoglobulin-like receptor 2DL5B; encoded by KIR2DL5B gene; inhibits NK cell activity thus prevents cell lysis. **
+CD158G,Killer cell immunoglobulin-like receptor 2DS5; encoded by KIR2DS5 gene; receptor on natural killer (NK) cells for HLA-C alleles; does not inhibit activity of NK cells.
+CD158H,Killer cell immunoglobulin-like receptor 2DS1; encoded by KIR2DS1 gene; receptor on natural killer (NK) cells for HLA-C alleles; does not inhibit activity of NK cells.
+CD158I,Killer cell immunoglobulin-like receptor 2DS4; encoded by KIR2DS4 gene; receptor on natural killer (NK) cells for HLA-C alleles; does not inhibit activity of NK cells.
+CD158J,Killer cell immunoglobulin-like receptor 2DS2; encoded by KIR2DS2 gene; receptor on natural killer (NK) cells for HLA-C alleles; does not inhibit activity of NK cells.
+CD158K,Killer cell immunoglobulin-like receptor 3DL2; encoded by KIR3DL2 gene; receptor on natural killer (NK) cells for HLA-A alleles; inhibits activity of NK cells thus prevents cell lysis
+CD159a,NKG2-A/NKG2-B type II integral membrane protein; encoded by KLRC1 gene; receptor for recognition of MHC class I HLA-E molecules by NK cells and some cytotoxic T-cells
+CD159c,NKG2-C type II integral membrane protein; encoded by KLRC2 gene
+CD160,"CD160 expression is tightly associated with peripheral blood NK cells and CD8 T lymphocytes with cytolytic effector activity. In tissues, CD160 is expressed on all intestinal intraepithelial lymphocytes. CD160 shows a broad specificity for binding to both classical and nonclassical MHC class I molecules."
+CD161,Killer cell lectin-like receptor subfamily B member 1; encoded by KLRB1 gene; inhibitory role in natural killer cell cytotoxicity
+CD162,P-selectin glycoprotein ligand 1; encoded by SELPLG gene; also receptor for enterovirus 71
+CD163,M130; HbSR; RM3/1 antigen. A glycoprotein endocytic scavenger receptor for haptoglobin-hemoglobin complexes. Found specifically on monocytes/macrophages and some dendritic cells. Involved in anti-inflammatory processes. Soluble form shed upon Toll-like receptor activation.
+CD164,"Sialomucin core protein 24 (MUC24) or endolyn; encoded by CD164 gene; implicated in hematopoiesis, prostate cancer metastasis and infiltration of bone marrow by cancer cells"
+CD165,"SN2, cell surface glycoprotein used to monitor platelet function; strongly expressed on T cell type acute lymphoblastic cells and most platelets"
+CD166,activated leukocyte cell adhesion molecule (ALCAM); ligand for CD6 and involved in neurite extension
+CD167a,"Epithelial discoidin domain-containing receptor 1, encoded by DDR1 gene; tyrosine kinase that functions as cell surface receptor for fibrillar collagen; abundant in some carcinomas;"
+CD167b,"Discoidin domain-containing receptor 2, encoded by DDR2 gene; tyrosine kinase that functions as cell surface receptor for fibrillar collagen and regulates cell differentiation, remodeling of the extracellular matrix, cell migration and cell proliferation. Required for normal bone development; mutations in gene can cause a form of dwarfism."
+CD168,"Hyaluronan mediated motility receptor (RHAMM), encoded by HMMR gene; over expressed in some cancers."
+CD169,Sialoadhesin&#91;8&#93; (SN); encoded by SIGLEC1 gene; a cell adhesion protein on macrophages that binds to sialic acids
+CD170,Sialic acid-binding Ig-like lectin 5 or SIGLEC5; putative adhesion molecule that mediates sialic-acid dependent binding to cells
+CD171,"Neural cell adhesion molecule L1, encoded by L1CAM gene; cell adhesion molecule with important role in development of nervous system; involved in neuron-neuron adhesion, neurite fasciculation, outgrowth of neurites, etc. Binds to axonin on neurons. Gene mutations can cause hydrocephalus. Juno Therapeutics has an experimental anti-CD171 CAR-T therapy in development to treat Neuroblastoma."
+CD172a,"Tyrosine-protein phosphatase non-receptor type substrate 1, also known as SIRPa (Signal Regulatory Protein Alpha); acts as inhibitory transmembrane receptor with CD47 resulting in inhibition of phagocytosis (""don't eat me""), stimulation of cell-cell fusion, and T-cell activation. Component of SIRPaFc, an experimental drug aimed at AML"
+CD172b,"Signal-regulatory protein beta-1, encoded by SIRPB1 gene. Immunoglobulin-like cell surface receptor involved in the negative regulation of receptor tyrosine kinase-coupled signaling processes. Participates also in the recruitment of tyrosine kinase SYK."
+CD172g,"Signal-regulatory protein gamma (or beta-2), encoded by SIRPG or SIRPB2 gene. Binds with CD47."
+CD173,Blood Group H&#91;9&#93;
+CD174,"Fucosyltransferase 3 (Lewis FT), enzyme encoded by FUT3 gene; may be involved in blood group Lewis determination"
+CD175,Tn antigen&#91;10&#93;
+CD175s,Sialyl-Tn antigen&#91;11&#93; (STN)
+CD176,TF&#91;12&#93; or Thomsen–Friedenreich antigen is a disaccharide found on cell surfaces and released into circulation in many cancers.
+CD177,"CD177 antigen expressed by CD177 gene; also polycythemia rubra vera 1 (PRV1) or NB1 glycoprotein (NB1 GP). Highly expressed in normal bone marrow, also in granulocytes of patients with polycythemia vera (PV) and with essential thrombocythemia (ET)"
+CD178,Fas ligand (FasL) is a type-II transmembrane protein belonging to the tumor necrosis factor (TNF) family. Its binding with its receptor Fas (CD95) induces apoptosis. Fas ligand/receptor interactions play an important role in the regulation of the immune system and the progression of cancer.
+CD179a,"Immunoglobulin iota chain, encoded by VPREB1 gene; associates with Ig-mu chain to form complex expressed on surface of pre-B-cells; presumably regulates Ig gene rearrangements during B-cell differentiation."
+CD179b,"Immunoglobulin lambda-like polypeptide 1, encoded by IGLL1 gene; critical for B-cell development"
+CD180,"CD180 antigen or LY64, encoded by CD180 gene; may cooperate with MD-1 and TLR4 to mediate innate immune response to bacterial lipopolysaccharide in B-cells"
+CD181,"CXC chemokine receptor type 1, encoded by CXCR1 gene (old name IL8RA); receptor to interleukin-8. Blocking CXCR1 can inhibit some cancers"
+CD182,"CXC chemokine receptor type 2, encoded by CXCR2 gene (old name IL8RB); receptor for interleukin-8"
+CD183,"CXC chemokine receptor type 3, encoded by CXCR3 gene; receptor for CXCL9, CXCL10 and CXCL11 and mediates the proliferation, survival and angiogenic activity of human mesangial cells; implicated in a wide variety of diseases"
+CD184,"CXC chemokine receptor type 4, encoded by CXCR4 gene; receptor for chemokine Stromal Derived Factor 1 (CXCL12 or SDF-1); involved in mesenchymal stem cell homing and migration; acts as a coreceptor (with CD4) for HIV-1"
+CD185,"CXC chemokine receptor type 5, encoded by CXCR5 (or Burkitt lymphoma receptor 1, BLR1) gene; may have a regulatory function in Burkitt lymphoma"
+CD186,"CXC chemokine receptor type 6, encoded by CXCR6 gene; a G-protein-coupled receptor for the chemokine CXCL16; used as a coreceptor by SIVs and strains of HIV-2 and m-tropic HIV-1"
+CD187,not assigned
+CD188,not assigned
+CD189,not assigned
+CD190,not assigned
+CD191,"CC chemokine receptor type 1, also Macrophage inflammatory protein 1-alpha receptor, encoded by CCR1 gene; affects stem cell proliferation"
+CD192,"CC chemokine receptor type 2, encoded by CCR2 gene; receptor for CCL2, CCL7 and CCL13 chemokines; alternative coreceptor with CD4 for HIV-1 infection"
+CD193,"CC chemokine receptor type 3, encoded by CCR3 gene; eosinophil eotaxin receptor; alternative coreceptor with CD4 for HIV-1 infection"
+CD194,"CC chemokine receptor type 4, encoded by CCR4 gene; high affinity receptor for CCL17, CCL22 and CKLF1 chemokines; could mediate hippocampal-neuron survival"
+CD195,"CC chemokine receptor type 5, encoded by CCR5 gene; a beta chemokine receptor to which the natural chemokine ligands RANTES and macrophage inflammatory protein bind. It is commonly used by HIV as a co-receptor to enter its target cells."
+CD196,"CC chemokine receptor type 6, encoded by CCR6 gene; receptor for MIP-3-alpha or LARC"
+CD197,"CC chemokine receptor type 7, encoded by CCR7 gene; a beta chemokine receptor to which chemokines involved in the migration of T lymphocytes across high endothelial venules bind."
+CDw198,"CC chemokine receptor type 8, encoded by CCR8 gene; receptor for CCL1; coreceptor for HIV-1"
+CDw199,"CC chemokine receptor type 9, encoded by CCR9 gene; a beta chemokine receptor involved in mucosal immunity. The specific ligand of this receptor is CCL25."
+CD200,"Also known as OX-2, a type-1 membrane glycoprotein belonging to the immunoglobulin superfamily. May regulate myeloid cell activity and delivers an inhibitory signal for the macrophage lineage in diverse tissues. CD200 is overexpressed by many different types of hematological and solid tumors. Biotech company Trillium has developed an investigative anti-CD200 monoclonal antibody."
+CD201,"Endothelial protein C receptor (EPCR), also known as activated protein C receptor (APC receptor), is a protein encoded by the PROCR gene. Mutations in this gene have been associated with venous thromboembolism, myocardial infarction and late fetal loss during pregnancy. The protein is also involved in Plasmodium falciparum malaria as subtypes of the P. falciparum erythrocyte membrane protein 1 (PfEMP1) family use EPCR of the host as a receptor."
+CD202b,"Angiopoietin-1 receptor, TEK or TIE2;&#91;13&#93; encoded by the TEK gene. TEK receptor tyrosine kinase is expressed almost exclusively in endothelial cells. The ligand for the receptor is angiopoietin-1. Defects in TEK are associated with inherited venous malformations; the TEK signaling pathway appears to be critical for endothelial cell-smooth muscle cell communication in venous morphogenesis. TEK is closely related to the TIE receptor tyrosine kinase"
+CD203a,"Ectonucleotide pyrophosphatase/phosphodiesterase family member 1 (ENPP1); this protein belongs to a series of ectoenzymes involved in hydrolysis of extracellular nucleotides, notably ATP and NAD, which can contribute to the formation of adenosine in cancer."
+CD203c,"Ectonucleotide pyrophosphatase/phosphodiesterase family member 3 (ENPP3); this protein belongs to a series of ectoenzymes involved in hydrolysis of extracellular nucleotides, which possess ATPase and ATP pyrophosphatase activities and are type II transmembrane proteins. Found in uterus, basophils, and mast cells."
+CD204,"Macrophage scavenger receptor 1 (MSR1) or SCARA1; able to mediate endocytosis of modified low density lipoproteins (LDLs); group implicated in macrophage-associated physiological and pathological processes including atherosclerosis, Alzheimer's disease and host defense."
+CD205,"Also known as Lymphocyte antigen 75 (LY75), a protein that in humans is encoded by the LY75 gene. Also known as DEC-205."
+CD206,"Also known as Mannose receptor C-type 1 (MC1) and present on the surface of macrophages, immature dendritic cells, and surface of skin cells such as human dermal fibroblasts and keratinocytes. Additional functions include clearance of glycoproteins from the circulation."
+CD207,"Langerin is a type II transmembrane, C-type lectin receptor on Langerhans cells. Also known as C-type lectin domain family 4 member K. Langerin is localized in the Birbeck granules, organelles present in the cytoplasm of Langerhans cells."
+CD208,Also known as Lysosome-associated membrane glycoprotein 3 (LAMP3). A protein that in humans is encoded by the LAMP3 gene.
+CD209,"DC-SIGN, C-type lectin receptor found on dendritic cell subsets"
+CD210,Interleukin-10 receptor subunit alpha (IL10RA gene) is shown to mediate the immunosuppressive signal of interleukin 10 and thus inhibit synthesis of proinflammatory cytokines. Mutations in the gene implicated in forms of inflammatory bowel disease
+CDw210a,Interleukin-10 receptor subunit alpha (IL10RA gene) is shown to mediate the immunosuppressive signal of interleukin 10 and thus inhibit synthesis of proinflammatory cytokines. Mutations in the gene implicated in forms of inflammatory bowel disease.&#91;14&#93;
+CDw210b,"Interleukin-10 receptor subunit beta (IL10RB gene); required for activation of cytokines: IL10, IL22, IL26, IL28, and IFNL1. Mutation in the gene associated with a form of IBD.&#91;15&#93;"
+CD211,not assigned
+CD212,"IL12RB1 - Interleukin 12 receptor, beta 1; a subunit of the interleukin 12 receptor. Lack of expression found to result in the immunodeficiency of patients with severe mycobacterial and Salmonella infections"
+CD213a1,"IL13RA1 - Interleukin 13 receptor, alpha 1; a subunit of the interleukin 13 receptor. This protein has been shown to bind tyrosine kinase TYK2, and thus may mediate signaling processes that lead to the activation of JAK1, STAT3 and STAT6 induced by IL13 and IL4"
+CD213a2,IL13RA2 - Interleukin-13 receptor subunit alpha-2
+CD214,not assigned
+CD215,"IL15RA - Interleukin 15 receptor, alpha subunit"
+CD216,not assigned
+CD217,IL17R - Interleukin-17 receptor; a cytokine receptor which binds interleukin 17A.
+CD218a,IL18R1 - interleukin-18 receptor 1
+CD218b,IL18RAP - Interleukin 18 receptor accessory protein. Variants at IL18RAP have been linked to susceptibility to Coeliac disease.
+CD219,not assigned
+CD220,"The insulin receptor (INSR) is a transmembrane receptor with intrinsic tyrosine kinase activity whose ligand is insulin. It plays a crucial role in the regulation of various metabolic pathways, as well as regulating aspects of the cell cycle, such as cellular growth, differentiation, and apoptosis. Mutations in the insulin receptor have been found to be associated with both Type 1 and Type 2 Diabetes Mellitus."
+CD221,IGF-I-receptor (IGF1R) - insulin-like growth factor 1 receptor
+CD222,"IGF2R - Insulin-like growth factor 2 receptor, also called the cation-independent mannose-6-phosphate receptor (CI-MPR)"
+CD223,"Lymphocyte Activation Gene 3 (LAG3), an inhibitory (checkpoint) receptor on immune system T-cells. LAG3 is the target of early-stage drugs for cancer and autoimmune disorders; IMP321 is a soluble version of LAG3, developed by Prima, while BMS-986016 (from Bristol Myers) and GSK2831781 (Glaxo) are anti-LAG3 monoclonal antibodies."
+CD224,GGT1 - Gamma-glutamyltransferase 1
+CD225,IFITM1 - Interferon-induced transmembrane protein 1. IFITM proteins have been identified as antiviral restriction factors for influenza A virus replication
+CD226,"A co-stimulatory molecule found on Natural Killer Cells, also potentially responsible for cellular adhesion between a NK cell and its cytolytic target."
+CD227,"MUC1 - Mucin 1, cell surface associated or polymorphic epithelial mucin (PEM) is a mucin encoded by the MUC1 gene in humans. The protein serves a protective function by binding to pathogens and also functions in a cell signaling capacity. Used in histopathology, where it is known as EMA (epithelial membrane antigen), to identify various tumours etc."
+CD228,Melanotransferrin (MFI2). This protein is a cell-surface glycoprotein found on melanoma cells
+CD229,LY9 - T-lymphocyte surface antigen; SLAMF3
+CD230,"PRNP - Major prion protein or PrP, for prion protein or protease-resistant protein). More than 20 mutations in the PRNP gene have been identified in people with inherited prion diseases."
+CD231,"Tetraspanin-7 - TSPAN7. The associated gene is linked to X-linked mental retardation and neuropsychiatric diseases such as Huntington's chorea, fragile X syndrome and myotonic dystrophy."
+CD232,Plexin-C1&#91;16&#93; (PLXNC1 gene); also called Virus-encoded semaphorin protein receptor (VESPR); Receptor for several virus semaphorins.
+CD233,"known as SLC4A1 (solute carrier family 4 member 1), anion exchanger 1 (AE1) or band 3 (BND3); present in the principal acid secreting cell of the kidney and red blood cells"
+CD234,DARC - Duffy antigen/chemokine receptor; located on the surface of red blood cells; receptor for the human malarial parasites Plasmodium vivax and Plasmodium knowlesi.
+CD235a,"Glycophorin A, a protein on blood cells; GYPA"
+CD235b,Glycophorin B (MNS blood group); GYPB
+CD236,Glycophorin C - GYPC
+CD237,not assigned
+CD238,Kell blood group - KEL
+CD239,LU - Lutheran blood group; Basal cell adhesion molecule (BCAM)
+CD240CE,RHCE - Blood group Rh(CE) polypeptide.
+CD240D,"RHD - Rh blood group, D antigen, also known as Rh polypeptide 1 (RhPI). The RhD erythrocyte membrane protein is the Rh factor antigen of the Rh blood group system."
+CD241,RHAG - Rh-associated glycoprotein is an ammonia transporter protein encoded by the RHAG gene. Mutations in this gene can cause stomatocytosis.
+CD242,known as ICAM4 (Intercellular Adhesion Molecule-4) or LW (Landsteiner-Wiener blood group)
+CD243,"known as ABCB1 (ATP-binding cassette sub-family B member 1), P-glycoprotein 1 (permeability glycoprotein, P-gp or Pgp) or MDR1 (multidrug resistance protein 1); an important protein of the cell membrane that pumps many foreign substances out of cells."
+CD244,"Also known as 2B4, it encodes a cell surface receptor expressed on natural killer (NK) cells (and some T cells) mediating non-major histocompatibility complex (MHC) restricted killing. Thought to modulate NK-cell cytolitic activity."
+CD245&#91;17&#93;,not assigned&#160;?
+CD246,ALK - Anaplastic lymphoma kinase or ALK tyrosine kinase receptor. ALK plays an important role in the development of the brain. Several ALK-inhibitor drugs are used to treat lung cancer. ALK is also overexpressed in several other tumours.
+CD247,CD3-ZETA - T-cell surface glycoprotein CD3 zeta chain
+CD248,"Endosialin is a member of the “Group XIV”, a novel family of C-type lectin transmembrane receptors which play a role not only in cell-cell adhesion processes but also in host defence"
+CD249,Glutamyl aminopeptidase - ENPEP. The enzyme degrades vasoconstricting angiotensin II into angiotensin III and so helps to regulate blood pressure.
+CD250,not assigned
+CD251,not assigned
+CD252,"OX40L or TNFSF4 (tumor necrosis factor (ligand) superfamily, member 4), the ligand for CD134 (OX40) and expressed on cells such as DC2s (a subtype of dendritic cells) enabling amplification of Th2 cell differentiation. Various single nucleotide polymorphisms (SNPs) of the OX40L gene have been identified, some associated with systemic lupus erythematosus, but not atherosclerosis."
+CD253,"TRAIL (TNF-related apoptosis-inducing ligand), or TNFSF10 (tumor necrosis factor (ligand) superfamily, member 10). TRAIL is a cytokine produced by most normal tissue cells, causing apoptosis primarily in tumor cells by binding to certain death receptors. The target of several anti-cancer therapeutics since mid-1990s, but these have not shown significant survival benefit."
+CD254,"RANKL (Receptor activator of nuclear factor kappa-B ligand), tumor necrosis factor ligand superfamily member 11 (TNFSF11), TNF-related activation-induced cytokine (TRANCE), osteoprotegerin ligand (OPGL), and osteoclast differentiation factor (ODF). RANKL affects the immune system and controls bone regeneration. Targeted by mAb drug Denosumab to treat osteoporosis."
+CD255,not assigned
+CD256,APRIL (proliferation-inducing ligand) or TNFSF13 (tumor necrosis factor ligand superfamily member 13); a protein of the TNF superfamily recognized by the cell surface receptor TACI (CD267) - both found to be important for B cell development
+CD257,"BAFF (B-cell activating factor) or TNFSF13B (tumor necrosis factor ligand superfamily member 13B). This cytokine is a ligand for receptors TNFRSF13B/TACI (CD267), TNFRSF17/BCMA (CD269), and TNFRSF13C/BAFF-R (CD268). Expressed in B cell lineage cells, and acts as a potent B cell activator"
+CD258,"LIGHT (homologous to Lymphotoxin, exhibits Inducible expression and competes with HSV Glycoprotein D for binding to Herpesvirus entry mediator, a receptor expressed on T lymphocytes), or TNFSF14 (tumor necrosis factor superfamily member 14); a secreted protein of the TNF superfamily; recognized by herpesvirus entry mediator, HVEM or CD270, thus aka HVEML. Also interacts with decoy receptor 3, BIRC2, TRAF2 and TRAF3."
+CD259,not assigned
+CD260,not assigned
+CD261,"Death receptor 4 (DR4), TRAIL receptor 1 (TRAILR1) and tumor necrosis factor receptor superfamily member 10A (TNFRSF10A); a cell surface receptor of the TNF-receptor superfamily that binds TRAIL (CD253) and mediates apoptosis."
+CD262,"Death receptor 5 (DR5), TRAIL receptor 2 (TRAILR2) and tumor necrosis factor receptor superfamily member 10B (TNFRSF10B); a cell surface receptor of the TNF-receptor superfamily that binds TRAIL (CD253) and mediates apoptosis."
+CD263,"Decoy receptor 1 (DCR1), TRAIL receptor 3 (TRAILR3) and tumor necrosis factor receptor superfamily member 10C (TNFRSF10C); a human cell surface receptor of the TNF-receptor superfamily; not capable of inducing apoptosis, and thought to function as an antagonistic receptor that protects cells from TRAIL-induced apoptosis"
+CD264,"Decoy receptor 2 (DCR2), TRAIL receptor 4 (TRAILR4) and tumor necrosis factor receptor superfamily member 10D (TNFRSF10D); a human cell surface receptor of the TNF-receptor superfamily; does not induce apoptosis, and plays inhibitory role in TRAIL-induced cell apoptosis"
+CD265,"RANK (Receptor Activator of Nuclear Factor κ B), TRANCE Receptor or TNFRSF11A; member of the tumor necrosis factor receptor (TNFR) molecular sub-family. RANK is the receptor for RANK-Ligand (RANKL). It is associated with bone remodeling and repair, immune cell function, lymph node development, thermal regulation, and mammary gland development"
+CD266,"TNFRSF12A (Tumor necrosis factor receptor superfamily member 12A), or Tweak-receptor (TweakR). Receptor for TWEAK ligand."
+CD267,"Transmembrane activator and CAML interactor (TACI), or tumor necrosis factor receptor superfamily member 13B (TNFRSF13B); a transmembrane protein of the TNF receptor superfamily found predominantly on the surface of B cells, which are an important part of the immune system. TACI recognizes three ligands: APRIL (CD256), BAFF (CD257) and CAML. TACI controls T cell-independent B cell antibody responses, isotype switching and B cell homeostasis. TACI mutations are associated with immunodeficiency; a significant proportion of CVID patients have TACI mutations."
+CD268,"BAFF receptor (B-cell activating factor receptor, BAFF-R), or tumor necrosis factor receptor superfamily member 13C (TNFRSF13C). TNFRSF13C is a membrane protein of the TNF receptor superfamily which recognizes BAFF."
+CD269,"Also known as B-cell maturation antigen (BCMA or BCM) or tumor necrosis factor receptor superfamily member 17 (TNFRSF17). Protein encoded by the TNFRSF17 gene. This receptor is preferentially expressed in mature B lymphocytes, and may be connected to leukemias and lymphomas. BCMA is brightly expressed on most multiple myeloma cells and hence of interest as a target for CART therapy.&#91;18&#93; Bluebird and Celgene currently have an anti-BCMA early-stage product, bb2121, due to start trials for multiple myeloma in 2016.&#91;19&#93;"
+CD270,"Herpesvirus entry mediator (HVEM), or tumor necrosis factor receptor superfamily member 14 (TNFRSF14); a human cell surface receptor of the TNF-receptor superfamily. Binding of HSV viral envelope glycoprotein D (gD) to CD270 shown to be part of viral entry mechanism. Interacts with TRAF2, TNFSF14 (CD258) and TRAF5. BTLA (CD272) is a ligand for HVEM."
+CD271,is the p75 Nerve Growth factor receptor (NGFR) or Low-affinity Nerve Growth Factor Receptor (LNGFR) and a member of the tumor necrosis factor receptor (TNF receptor) superfamily. LNGFR has been implicated as a marker for cancer stem cells in melanoma and other cancers. Melanoma cells transplanted into an immunodeficient mouse model were shown to require expression of CD271 in order to grow a melanoma. Thus CD271 is under investigation as a cell marker for melanoma drugs (2016).&#91;20&#93;
+CD272,"BTLA (B- and T-lymphocyte attenuator); expression induced during activation of T cells. Like PD1 and CTLA4, BTLA interacts with a B7 homolog, B7H4. However, unlike PD-1 (CD279) and CTLA-4 (CD152), BTLA displays T-Cell inhibition via interaction with tumor necrosis family receptors (TNF-R), not just the B7 family of cell surface receptors. BTLA is a ligand for HVEM (CD270). BTLA-HVEM complexes negatively regulate T-cell immune responses. BTLA activation inhibits the function of CD8+ cancer-specific T cells."
+CD273,"PDL2 or PDCD1LG2 (Programmed Cell Death 1 Ligand 2); on Dendritic cells, Macrophages etc. Ligand for PD-1 (CD279)"
+CD274,"PDL1 or PDCD1L1 (Programmed Cell Death 1 Ligand 1); expressed on T cells, NK cells, macrophages, myeloid DCs, B cells, epithelial cells, and vascular endothelial cells and others. Ligand for PD1 (CD279) and also CD80 (B7-1). Formation of PD1/PDL1 or B7-1/PDL1 complexes transmit an inhibitory signal reducing proliferation of CD8+ T cells at lymph nodes. Anti-PDL1 drugs like Atezolizumab, currently in trials for bladder cancer, work by preventing the inhibition of T-cells."
+CD275,ICOS-L (ICOS ligand) Expressed on: antigen presenting cells Binds: ICOS on T cells
+CD276,"CD276 (aka B7-H3), an immune checkpoint molecule, is expressed by some solid tumours and is the target of anticancer candidates such as Macrogenics' MGA271"
+CD277,aka Butyrophilin subfamily 3 member A1 (BTN3A1)
+CD278,Inducible T-cell costimulator (ICOS) is an immune checkpoint protein; a CD28-superfamily costimulatory molecule expressed on activated T cells; thought to be important for Th2 cells. Used as a biomarker in Ipilimumab treatment.
+CD279,"PD-1 or PDCD1 (Programmed Cell Death 1); cell surface receptor which binds to PD-L1 and PD-L2 ligands; functions as immune checkpoint with important role in down regulating immune system by preventing T-cell activation. Targeted by Nivolumab, Pembrolizumab and other monoclonal antibodies in a new class of cancer drugs."
+CD280,Mannose receptor C type 2 (MRC2)
+CD281,TLR1; a member of the Toll-like receptor family (TLR) of pattern recognition receptors of the innate immune system. TLR1 recognizes pathogen-associated molecular pattern with a specificity for gram-positive bacteria; found on the surface of macrophages and neutrophils; interacts with TLR2 (CD282).
+CD282,"Toll-like receptor 2 (TLR2); plays a role in the immune system. TLR2 is a membrane protein, recognizing bacterial, fungal, viral, and certain endogenous substances and passing on appropriate signals to the cells of the immune system."
+CD283,"Toll-like receptor 3 (TLR3); abundantly expressed in placenta and pancreas, and restricted to the dendritic subpopulation of leukocytes. It recognizes dsRNA associated with viral infection, and induces activation of IRF3, unlike all other Toll-like receptors which activate NF-κB. IRF3 ultimately induces the production of type I interferons, and thus may play role in defense against viruses"
+CD284,"Toll-like receptor 4 (TLR4 or TOLL). It detects lipopolysaccharide from Gram-negative bacteria and is thus important in the activation of the innate immune system. Various μ-opioid receptor ligands have been found to possess action as agonists or antagonists of TLR4, with opioid agonists such as morphine being TLR4 agonists."
+CD285,not assigned
+CD286,Toll-like receptor 6 (TLR6). This receptor functionally interacts with TLR2 (CD282) to mediate cellular response to bacterial lipoproteins.
+CD287,not assigned
+CD288,Toll-like receptor 8 (TLR8); Genetic variants in TLR8 have recently been linked to susceptibility to pulmonary tuberculosis.
+CD289,"Toll-like receptor 9 (TLR9). TLR9 recognizes unmethylated CpG sequences in DNA molecules. Biotech company Mologen is currently (2017) testing a TLR9 agonist, Lefitolimod, for treatment of HIV and various cancers."
+CD290,"Toll-like receptor 10 (TLR10); most highly expressed in lymphoid tissues such as spleen, lymph node, thymus, and tonsil"
+CD291,not assigned
+CD292,"Bone morphogenetic protein receptor, type IA (BMPR1A)"
+CDw293,Bone morphogenetic protein receptor type-1B (BMPR1B); Mutations in the associated gene have been linked with primary pulmonary hypertension.
+CD294,Prostaglandin D2 receptor 2 (DP2) or GPR44; a human protein encoded by the PTGDR2 gene. The DP2 pathway has been suggested as a potential target for baldness treatment.
+CD295,Leptin receptor (LEPR or OBR); LEPR functions as a receptor for the fat cell-specific hormone leptin. Variations in the leptin receptor have been associated with obesity and increased susceptibility to Entamoeba histolytica infections.
+CD296,ADP-ribosyltransferase 1 (ART1 gene);&#91;21&#93;&#91;22&#93;
+CD297,Ecto-ADP-ribosyltransferase 4 (ART4)
+CD298,Sodium/potassium-transporting ATPase subunit beta-3 (ATP1B3);
+CD299,C-type lectin domain family 4 member M (CLEC4M) or LSIGN (liver/lymph node-specific intracellular adhesion molecules-3 grabbing non-integrin);
+CD300A,"CMRF35H, present on monocytes, neutrophils, and some T and B lymphocytes"
+CD300C,CMRF35A
+CD300E,CMRF35L1&#91;23&#93;
+CD301,"CLEC10A (C-type lectin domain family 10 member A). Members of this family share a common protein fold and have diverse functions, such as cell adhesion, cell-cell signalling, glycoprotein turnover, and roles in inflammation and immune response."
+CD302,"CD302 is a C-type lectin receptor involved in cell adhesion and migration, as well as endocytosis and phagocytosis."
+CD303,"BDCA-2, a type II C-type lectin (CLEC4C) which is involved in endocytosis of antigens for processing in plasmacytoid dendritic cells. Activation decreases type I interferon production."
+CD304,"Neuropilin-1 (NP-1), NRP1 or BDCA-4, has a wide range of functions. On neurons, it is a receptor for axon growth guidance class-3 semaphorins SEMA3A and plexin-1, on endothelial and some tumor cells it is a VEGF165 receptor, and on plasmacytoid dendritic cells it has a similar role to CD303 but does not decrease interferon production upon activation."
+CD305,"LAIR1, (Leukocyte-associated immunoglobulin-like receptor 1) is an inhibitory receptor found on peripheral mononuclear cells, including NK cells, T cells, and B cells. Inhibitory receptors regulate the immune response to prevent lysis of cells recognized as self."
+CD306,"LAIR2, (Leukocyte-associated immunoglobulin-like receptor 2) is a member of the immunoglobulin superfamily. The function of this protein is unknown, though it is thought to be secreted and may help modulate mucosal tolerance."
+CD307,"FCRL5, (Fc receptor-like protein 5)"
+CD307a,"FCRL1, (Fc receptor-like protein 1)"
+CD307b,"FCRL2, (Fc receptor-like protein 2)"
+CD307c,"FCRL3, (Fc receptor-like protein 3)"
+CD307d,"FCRL4, (Fc receptor-like protein 4)"
+CD307e,"FCRL5, (Fc receptor-like protein 5)"
+CD308,not assigned
+CD309,"Kinase insert domain receptor, (KDR), a type III tyrosine kinase receptor involved in angiogenesis."
+CD310,not assigned
+CD311,not assigned
+CD312,"EMR2, (EGF-like module-containing mucin-like hormone receptor-like 2) is a protein encoded by the ADGRE2 gene. EMR2, a member of the adhesion GPCR family, is expressed by monocytes/macrophages, dendritic cells and all types of granulocytes and is closely related to CD97."
+CD313,not assigned
+CD314,"KLRK1 or NKG2D is a transmembrane protein belonging to the CD94/NKG2 family of C-type lectin-like receptors. NKG2D is encoded by KLRK1 gene in the NK-gene complex (NKC) on chromosome 12 in humans. In humans it is expressed by NK cells, γδ T cells and CD8+ αβ T cells. NKG2D recognizes induced-self proteins from MIC and RAET1/ULBP families which appear on the surface of stressed, malignant transformed, and infected cells. Thought important in viral control as some viruses have adapted mechanisms to evade NKG2D responses. Also, tumor cells that can evade NKG2D responses are more likely to propagate."
+CD315,"PTGFRN, (Prostaglandin F2 receptor negative regulator), found to interact with CD9 and CD81"
+CD316,"IGSF8, (Immunoglobulin superfamily member 8)"
+CD317,"Tetherin or BST2 (bone marrow stromal antigen 2), is a lipid raft associated protein. Expressed in mature B cells, plasma cells, plasmacytoid dendritic cells, and many other cells, only as a response to stimuli from IFN pathway. Known to block many types of enveloped viruses by tethering the budding virus like particles (VLPs) and inhibiting them from leaving the cell surface."
+CD318,"CDCP1, (CUB domain-containing protein 1) and Trask (Transmembrane and associated with src kinases). The phosphorylation of CDCP1 is seen in many cancers, including some pre-invasive cancers as well as in invasive tumors and in tumor metastases. The functional implications of CDCP1 phosphorylation in tumors is currently under investigation."
+CD319,"SLAMF7, a marker of normal plasma cells and malignant plasma cells in multiple myeloma."
+CD320,8D6A
+CD321,"F11R (F11 Receptor), or JAM1 (Junctional adhesion molecule A)"
+CD322,JAM2 (Junctional adhesion molecule B). Acts as an adhesive ligand for interacting with a variety of immune cell types and may play a role in lymphocyte homing to secondary lymphoid organs.
+CD323,not assigned
+CD324,"A tumor-suppressor gene encoded by the CDH1 (gene) gene also known as Cadherin-1, CAM 120/80, epithelial cadherin (E-cadherin) or uvomorulin. Mutations (loss) in this gene are correlated with gastric, breast, colorectal, thyroid, and ovarian cancers."
+CD325,"CDH2, Cadherin-2, N-cadherin or neural cadherin (NCAD). It is a transmembrane protein expressed in multiple tissues and functions to mediate cell-cell adhesion. In cardiac muscle, N-cadherin is an integral component in adherens junctions residing at intercalated discs, which function to mechanically and electrically couple adjacent cardiomyocytes. Alterations in expression and integrity of N-cadherin protein has been observed in various forms of disease, including human dilated cardiomyopathy."
+CD326,Epithelial cell adhesion molecule (EpCAM) or Tumor-associated calcium signal transducer 1 (TACSTD1). Expressed on epithelial cells and on many tumors; used as a target for anti-tumor drugs. CD326 is expressed in pluripotent stem cells.
+CD327,"SIGLEC6, (Sialic acid-binding Ig-like lectin 6)"
+CD328,"SIGLEC7, (Sialic acid-binding Ig-like lectin 7)"
+CD329,"SIGLEC9, (Sialic acid-binding Ig-like lectin 9)"
+CD330,not assigned
+CD331,"FGFR1 (Fibroblast growth factor receptor 1). A receptor tyrosine kinase whose ligands are specific members of the fibroblast growth factor family. FGFR1 has been shown to be associated with Pfeiffer syndrome. Mutations in the associated gene have also been associated Jackson–Weiss syndrome, Antley-Bixler syndrome, Trigonocephaly, osteoglophonic dysplasia, squamous cell lung cancer and autosomal dominant Kallmann syndrome and may be associated with cleft lip and/or palate. Somatic mutations of the FGFR1 gene occurs in several diseases including breast and lung cancers. Experimental drug Lucitanib from Clovis targets FGFR1, which is over-expressed on some tumor cells causing increased proliferation."
+CD332,"FGFR2 (Fibroblast growth factor receptor 2). FGFR2 has important roles in embryonic development and tissue repair, especially bone and blood vessels. Mutations are associated with numerous medical conditions including abnormal bone development (e.g. craniosynostosis syndromes) and cancer. Five Prime has a monoclonal antibody, FPA144, in early stage trials, that targets FGFR2b (a form of FGFR2), to treat gastric tumours that overexpress FGFR2b, by preventing binding of certain FGFs to FGFR2b."
+CD333,"FGFR3 (Fibroblast growth factor receptor 3). Defects in the FGFR3 gene have been associated with several conditions, including achondroplasia/hypochondroplasia, thanatophoric dwarfism, seborrheic keratosis, bladder cancer and craniosynostosis"
+CD334,"FGFR4 (Fibroblast growth factor receptor 4). Although specific function is unknown, overexpressed in gynecological tumor samples, suggesting a role in breast and ovarian tumorigenesis."
+CD335,Also known as NCR1 or NKp46
+CD336,NCR2 (Natural cytotoxicity triggering receptor 2)
+CD337,Also known as Natural cytotoxicity triggering receptor 3 NCR3 or NKp30. Protein that in humans is encoded by the NCR3 gene.
+CD338,"ABCG2 (ATP-binding cassette sub-family G member 2) or BCRP (Breast Cancer Resistance Protein). This protein functions as a xenobiotic transporter which may play a role in multi-drug resistance to chemotherapeutic agents. Significant expression observed in placenta, and role protecting fetus from xenobiotics in maternal circulation. Also protective roles in blocking absorption at the apical membrane of the intestine, blood-testis barrier, blood–brain barrier, and membranes of hematopoietic progenitor and other stem cells. At apical membranes of liver and kidney, enhances excretion of xenobiotics. In lactating mammary gland, role in excreting vitamins such as riboflavin and biotin into milk."
+CD339,JAG1 (Jagged 1). One of five cell surface proteins (ligands) that interact with 4 receptors in the mammalian Notch signaling pathway. The JAG1 gene is expressed in multiple organ systems in the body and causes the autosomal dominant disorder Alagille syndrome (ALGS) resulting from loss of function mutations within the gene. Up regulation of JAG1 has been correlated with both poor overall breast cancer survival rates and an enhancement of tumor proliferation in adrenocortical carcinoma patients
+CD340,"Receptor tyrosine-protein kinase erbB-2, HER2 (human epidermal growth factor receptor 2) or HER2/neu. Overexpression plays a role in certain types of breast cancer. It is a biomarker target for breast cancer drugs such as Herceptin."
+CD344,FZD4 (Frizzled-4) a receptor in WNT-signalling pathway and for Norrin. FZD4 signaling induced by Norrin regulates vascular development of vertebrate retina and controls important blood vessels in the ear.
+CD349,"FZD9 (Frizzled-9) a receptor in WNT-signalling pathway. The FZD9 gene is located within the Williams syndrome common deletion region of chromosome 7, and heterozygous deletion of the FZD9 gene may contribute to the Williams syndrome phenotype. FZD9 is expressed predominantly in brain, testis, eye, skeletal muscle, and kidney"
+CD351,"FCAMR, (Fcα/μR), an Fc receptor that binds IgM with high affinity and IgA with a 10-fold lower affinity."
+CD352,"SLAMF6, (Signaling lymphocytic activation molecule family member 6), expressed on Natural killer (NK), T, and B lymphocytes."
+CD353,"SLAMF8, (Signaling lymphocytic activation molecule family member 8), expressed in lymphoid tissues."
+CD354,"TREM1, Triggering receptor expressed on myeloid cells 1."
+CD355,"Cytotoxic and regulatory T-cell molecule, encoded by CRTAM gene. Strongly expressed in spleen, thymus, small intestine, peripheral blood leukocyte and in Purkinje neurons in cerebellum."
+CD357,"TNFRSF18, Tumor necrosis factor receptor superfamily member 18, activation-inducible TNFR family receptor (AITR) or Glucocorticoid-induced TNFR-related protein (GITR). This receptor has increased expression upon T-cell activation, and is thought to play a key role in dominant immunological self-tolerance maintained by CD25+/CD4+ regulatory T cells. There are several anti-GITR agonist antibodies in early-stage development. Activating the GITR receptor is thought to increase the proliferation and function of effector T cells, particularly in combination with anti-PDL1 antibodies. As of 2015, TG Therapeutics and Five Prime / Inhibrx have clinical stage antibodies; Merck (MK4166), Medimmune AstraZeneca (MEDI1873), and the company GITR (TRX518) have antibodies in phase 1 trials for solid tumors. In 2016, Novartis initiated an anti-GITR (GWN323) trial.&#91;24&#93;"
+CD358,"Death receptor 6 (DR6) or tumor necrosis factor receptor superfamily member 21 (TNFRSF21), it activates the JNK and NF-κB pathways and is mostly expressed in the thymus, spleen and white blood cells."
+CD360,"IL21R (Interleukin 21 receptor). It is a cytokine receptor for interleukin 21 (IL21). It transduces the growth promoting signal of IL21, and is important for the proliferation and differentiation of T cells, B cells, and natural killer (NK) cells. The ligand binding of this receptor leads to the activation of multiple downstream signaling molecules, including JAK1, JAK3, STAT1, and STAT3."
+CD361,Also known as EVI2B.
+CD362,"Also known as SDC2, Syndecan-2."
+CD363,"S1PR1 (Sphingosine-1-phosphate receptor 1) or EDG1. It is a G-protein-coupled receptor which binds the bioactive signaling molecule sphingosine 1-phosphate (S1P). S1PR1 activation is involved in immune cell regulation and development; vascular growth and development during embryogenesis; motility of cancer cells; it is also over-expressed in MS lesions. Receptos Celgene has a drug in development, Ozanimod, which modulates S1P1R1 in the treatment of immune-inflammatory diseases MS and ulcerative colitis. It is believed to work by interfering with S1P signaling, blocking the lymphocyte response to lymph node exit signals by sequestering them within the nodes, and thus reducing circulating lymphocytes and anti-inflammatory activity by inhibiting cell migration to sites of inflammation."
+CD364,"Peptidase inhibitor 16, or Cysteine-rich secretory protein 9 (CRISP-9) encoded by PI16 gene"
+CD365,"HAVCR1 (Hepatitis A virus cellular receptor 1) or TIM-1 (T-cell immunoglobulin and mucin domain 1). Plays critical roles in regulating immune cell activity especially in response to viral infection including HAV, Ebola and Dengue. TIM-1 is also involved in allergic response, asthma, and transplant tolerance."
+CD366,"Also known as HAVCR2 (Hepatitis A virus cellular receptor 2) or TIM-3 (T-cell immunoglobulin and mucin domain 3). TIM3 is under investigation as a cancer immune checkpoint target as it may function as a T cell inhibitory receptor and is expressed on CD8+ T cells and Tregs, both involved in immunosuppression. Enumeral / Merck is studying a co-blockade of PD1 and TIM3 pathways; Novartis is also testing an anti-TIM3 therapy with MBG453 (2015)."
+CD367,Also known as CLEC4A. C-type lectin domain family 4 member A.
+CD368,Also known as CLEC4D.
+CD369,Also known as CLEC7A. C-type lectin domain family 7 member A or Dectin-1
+CD370,Also known as CLEC9A.
+CD371,"Also known as CLEC12A, C-type lectin domain family 12 member A.&#91;25&#93;"

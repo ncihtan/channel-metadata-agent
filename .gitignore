@@ -1,0 +1,15 @@
+# Secrets
+.env
+.env.local
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+
+# Caches and intermediates
+data/cache/*.db
+*.parquet
+
+# macOS
+.DS_Store

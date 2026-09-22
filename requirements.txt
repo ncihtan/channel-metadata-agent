@@ -1,0 +1,18 @@
+# Core data processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# File format support
+pyarrow>=12.0.0          # Parquet file format
+openpyxl>=3.1.0          # Excel file support (.xlsx)
+
+# LLM API
+anthropic>=0.39.0        # Claude API client
+claude-agent-sdk>=0.1.0  # Claude Agent SDK for agentic workflows
+
+# UniProt API and utilities
+requests>=2.31.0         # HTTP requests
+tenacity>=8.2.0          # Retry logic with exponential backoff
+
+# Optional: For faster processing
+# python-levenshtein>=0.21.0  # Faster Levenshtein distance (optional, uses built-in if not available)
